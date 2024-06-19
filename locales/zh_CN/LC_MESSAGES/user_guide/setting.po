@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, bioimaginglab
+# This file is distributed under the same license as the Living Cell
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Living Cell \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-19 09:44+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/user_guide/setting.md:1 485589d94f3e434e95cee2cdeae62611
+msgid "Application settings"
+msgstr ""
+
+#~ msgid "Editing application settings"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The application settings dialog allows "
+#~ "users to customize application behavior."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "After starting BI-Viewer, it can "
+#~ "be accessed clicking in menu: **Edit**"
+#~ " -> **Preferences**."
+#~ msgstr ""
+

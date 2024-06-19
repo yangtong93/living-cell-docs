@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, bioimaginglab
+# This file is distributed under the same license as the Living Cell
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Living Cell \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-19 09:43+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/user_guide/support.md:1 8e95af9ceee64b4cbfa99a34b2976945
+msgid "Technical Support"
+msgstr ""
+
+#: ../../source/user_guide/support.md:2 caeac276b54142718fa6d1197264077e
+msgid "Contact us"
+msgstr ""
+
+#: ../../source/user_guide/support.md:4 9a399fc83baf4529b40bcd57b8ea1dfc
+msgid "**Wuhan Life Sciences Image Intelligence Technology Co.,Ltd**"
+msgstr ""
+
+#: ../../source/user_guide/support.md:6 cd03a86e4d974b9f8a21b763dafb3d44
+msgid ""
+"Address : 2nd floor, podium building, Building C2, Future Science and "
+"Technology City, Donghu High tech Zone, Wuhan City"
+msgstr ""
+
+#: ../../source/user_guide/support.md:8 1be18d1c34a545e4b345e4b0831ed4dd
+msgid "E-mail : service@bioimaginglab.cn"
+msgstr ""
+
+#: ../../source/user_guide/support.md:10 e6b59dd4737b48d18b2b8cf0d6136929
+msgid "Tel : +8615623839281"
+msgstr ""
+
+#: ../../source/user_guide/support.md:12 2986e30a4cde4907a255134217804a87
+msgid ""
+"Official website address : "
+"[www.bioimaginglab.cn](https://www.bioimaginglab.cn/)"
+msgstr ""
+

@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, bioimaginglab
+# This file is distributed under the same license as the Living Cell
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Living Cell \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-19 09:44+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/index.rst:7 7d1f799da8fa430088114ad6443d1b58
+msgid "Welcome to Living Cell's documentation!"
+msgstr ""
+
+#: ../../source/index.rst:26 afca50cb66d748d38115c157541d2c64
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../source/index.rst:28 d102309d5ceb4b20908ed3960f1890ea
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:29 f5ca1e11114442eea1308fcd5566f3ec
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../source/index.rst:30 6972151a74f44215ae0149f9e770defa
+msgid ":ref:`search`"
+msgstr ""
+
+#~ msgid "Welcome to Biological Imaging Viewer's documentation!"
+#~ msgstr ""
+
