@@ -22,5 +22,5 @@ msgstr ""
 
 #: ../../source/user_guide/intro.md:1 b39694b6227e4cfcb89d369ba8824837
 msgid "Introduction"
-msgstr ""
+msgstr "介绍"
 

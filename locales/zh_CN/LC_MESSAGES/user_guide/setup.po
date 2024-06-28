@@ -22,5 +22,5 @@ msgstr ""
 
 #: ../../source/user_guide/setup.md:1 c28021aa7ca34266aba997b749cddf88
 msgid "Installation & Activation"
-msgstr ""
+msgstr "安装与激活"
 

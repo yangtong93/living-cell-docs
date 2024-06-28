@@ -22,5 +22,5 @@ msgstr ""
 
 #: ../../source/user_guide/quickstart.md:1 d8fc59aa46424214afd70d213bc9bd5b
 msgid "Getting Started"
-msgstr ""
+msgstr "开始使用"
 

@@ -22,5 +22,5 @@ msgstr ""
 
 #: ../../source/user_guide/interface.md:1 ea17ab73f61e41d0a4f7e49144150a5e
 msgid "User Interface"
-msgstr ""
+msgstr "用户界面"
 

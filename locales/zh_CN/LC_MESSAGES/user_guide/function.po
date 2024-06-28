@@ -22,5 +22,5 @@ msgstr ""
 
 #: ../../source/user_guide/function.md:1 0b05058cee5b463fb1f28396a65e4e46
 msgid "Features"
-msgstr ""
+msgstr "功能介绍"
 

@@ -22,19 +22,4 @@ msgstr ""
 
 #: ../../source/user_guide/setting.md:1 485589d94f3e434e95cee2cdeae62611
 msgid "Application settings"
-msgstr ""
-
-#~ msgid "Editing application settings"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The application settings dialog allows "
-#~ "users to customize application behavior."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "After starting BI-Viewer, it can "
-#~ "be accessed clicking in menu: **Edit**"
-#~ " -> **Preferences**."
-#~ msgstr ""
-
+msgstr "系统设置"

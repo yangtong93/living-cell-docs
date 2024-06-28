@@ -22,33 +22,32 @@ msgstr ""
 
 #: ../../source/user_guide/about.md:1 71039b8929c2405ea87eb6d31db5fd23
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 #: ../../source/user_guide/about.md:2 e406130bcd774ae686b71efc4f945096
 msgid "Contact us"
-msgstr ""
+msgstr "联系我们"
 
 #: ../../source/user_guide/about.md:4 6e26580b32de4284ba48b63447566010
 msgid "**Wuhan Life Sciences Image Intelligence Technology Co.,Ltd**"
-msgstr ""
+msgstr "**武汉生科图智技术有限公司**"
 
 #: ../../source/user_guide/about.md:6 410f2c7bf1f54572889a3a1b1bdce95a
 msgid ""
 "Address : 2nd floor, podium building, Building C2, Future Science and "
 "Technology City, Donghu High tech Zone, Wuhan City"
-msgstr ""
+msgstr "地址：武汉市东湖高新区未来科技城C2栋裙楼2楼"
 
 #: ../../source/user_guide/about.md:8 0c56730a599b461ba5e1218d2c9a0788
 msgid "E-mail : service@bioimaginglab.cn"
-msgstr ""
+msgstr "邮箱：service@bioimaginglab.cn"
 
 #: ../../source/user_guide/about.md:10 a6eae0af70514065a428da4e2c1cdf5e
 msgid "Tel : +8615623839281"
-msgstr ""
+msgstr "电话：+8618140576260"
 
 #: ../../source/user_guide/about.md:12 2617def22653444e986c17bc6a91c7d7
 msgid ""
 "Official website address : "
 "[www.bioimaginglab.cn](https://www.bioimaginglab.cn/)"
-msgstr ""
-
+msgstr "官网地址：[www.bioimaginglab.cn](http://www.bioimaginglab.cn)"

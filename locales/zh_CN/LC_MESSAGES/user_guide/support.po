@@ -22,33 +22,33 @@ msgstr ""
 
 #: ../../source/user_guide/support.md:1 8e95af9ceee64b4cbfa99a34b2976945
 msgid "Technical Support"
-msgstr ""
+msgstr "技术支持"
 
 #: ../../source/user_guide/support.md:2 caeac276b54142718fa6d1197264077e
 msgid "Contact us"
-msgstr ""
+msgstr "联系我们"
 
 #: ../../source/user_guide/support.md:4 9a399fc83baf4529b40bcd57b8ea1dfc
 msgid "**Wuhan Life Sciences Image Intelligence Technology Co.,Ltd**"
-msgstr ""
+msgstr "**武汉生科图智技术有限公司**"
 
 #: ../../source/user_guide/support.md:6 cd03a86e4d974b9f8a21b763dafb3d44
 msgid ""
 "Address : 2nd floor, podium building, Building C2, Future Science and "
 "Technology City, Donghu High tech Zone, Wuhan City"
-msgstr ""
+msgstr "地址：武汉市东湖高新区未来科技城C2栋裙楼2楼"
 
 #: ../../source/user_guide/support.md:8 1be18d1c34a545e4b345e4b0831ed4dd
 msgid "E-mail : service@bioimaginglab.cn"
-msgstr ""
+msgstr "邮箱：service@bioimaginglab.cn"
 
 #: ../../source/user_guide/support.md:10 e6b59dd4737b48d18b2b8cf0d6136929
 msgid "Tel : +8615623839281"
-msgstr ""
+msgstr "电话：+8618140576260"
 
 #: ../../source/user_guide/support.md:12 2986e30a4cde4907a255134217804a87
 msgid ""
 "Official website address : "
 "[www.bioimaginglab.cn](https://www.bioimaginglab.cn/)"
-msgstr ""
+msgstr "官网地址：[www.bioimaginglab.cn](http://www.bioimaginglab.cn)"
 
