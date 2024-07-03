@@ -1,5 +1,20 @@
 # Version Update Notes
 
+## Version 0.0.6-beta
+
+Release Date : 2024/7/3
+
+### New
+* Image export function adds multi-channel fusion method
+* Add 3 image preprocessing functions
+* Implement UI for partial pages
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+
+
 ## Version 0.0.5-beta
 
 Release Date : 2024/6/28

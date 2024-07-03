@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Living Cell \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-28 15:05+0800\n"
+"POT-Creation-Date: 2024-07-03 16:29+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -25,76 +25,101 @@ msgid "Version Update Notes"
 msgstr "版本更新说明"
 
 #: ../../source/user_guide/upgrade.md:3 00421abf6a044c9aa7565bdd22caf3fa
-msgid "Version 0.0.5-beta"
+msgid "Version 0.0.6-beta"
 msgstr ""
 
 #: ../../source/user_guide/upgrade.md:5 c302a48047844cc499d82a3b5f3afa68
-msgid "Release Date : 2024/6/28"
-msgstr "发布日期 : 2024/6/28"
+msgid "Release Date : 2024/7/3"
+msgstr "发布日期 : 2024/7/3"
 
-#: ../../source/user_guide/upgrade.md:7 f0da3bc09a7d46d9b08df5482893d57c
+#: ../../source/user_guide/upgrade.md:7 ../../source/user_guide/upgrade.md:22
+#: 98fe912911434c3687e811a9b3d10812 f0da3bc09a7d46d9b08df5482893d57c
 msgid "New"
 msgstr "新增"
 
-#: ../../source/user_guide/upgrade.md:8 0a5709574fc0461f9f31e883a1ee5eca
+#: ../../source/user_guide/upgrade.md:8 dbb6a49b359b4abf945178ac045b6d52
+msgid "Image export function adds multi-channel fusion method"
+msgstr "图像导出支持多通道融合导出"
+
+#: ../../source/user_guide/upgrade.md:9 78449b1ef93f4a2c9490f279f848d50c
+msgid "Add 3 image preprocessing functions"
+msgstr "新增3个图像预处理功能"
+
+#: ../../source/user_guide/upgrade.md:10 2362e9b6a7314ee4a687577e0ff2a712
+msgid "Implement UI for partial pages"
+msgstr "实现部分页面的UI"
+
+#: ../../source/user_guide/upgrade.md:12 ../../source/user_guide/upgrade.md:38
+#: 98fe912911434c3687e811a9b3d10812
+msgid "Notes"
+msgstr "注意"
+
+#: ../../source/user_guide/upgrade.md:13 ../../source/user_guide/upgrade.md:39
+#: bb22663843674dc7b1b73205eb9ef620
+msgid "This is still a beta version and may contain many bugs."
+msgstr "这是一个测试版，可能存在许多bug"
+
+#: ../../source/user_guide/upgrade.md:14 ../../source/user_guide/upgrade.md:40
+#: ab971f15c8ab4ffdb50036ff09b0a58a
+msgid "Windows 7/10 (x64) or above"
+msgstr "Windows 7/10 (x64) 及以上"
+
+#: ../../source/user_guide/upgrade.md:15 ../../source/user_guide/upgrade.md:41
+#: c9191ad880b747c4ba38fae16f7389aa
+msgid "OpenGL 2.1 or above"
+msgstr "OpenGL 2.1 及以上"
+
+#: ../../source/user_guide/upgrade.md:18 00421abf6a044c9aa7565bdd22caf3fa
+msgid "Version 0.0.5-beta"
+msgstr ""
+
+#: ../../source/user_guide/upgrade.md:20 c302a48047844cc499d82a3b5f3afa68
+msgid "Release Date : 2024/6/28"
+msgstr "发布日期 : 2024/6/28"
+
+#: ../../source/user_guide/upgrade.md:23 0a5709574fc0461f9f31e883a1ee5eca
 msgid "New basic/advanced cell analysis for single shot"
 msgstr "新增基础/高级细胞分析"
 
-#: ../../source/user_guide/upgrade.md:9 85c28564d5ff456aa5f923f870121520
+#: ../../source/user_guide/upgrade.md:24 85c28564d5ff456aa5f923f870121520
 msgid "Add external regular format image import, such as png, jpg, tif"
 msgstr "新增外部常规图像导入，比如png，jpg，tif格式"
 
-#: ../../source/user_guide/upgrade.md:10 962786be3778411191a55c1aaba503b8
+#: ../../source/user_guide/upgrade.md:25 962786be3778411191a55c1aaba503b8
 msgid "Add Z-Stack for single shot in preview page"
 msgstr "预览界面新增Z-Stack功能"
 
-#: ../../source/user_guide/upgrade.md:11 e915af35e67c42518c3330a49ae97403
+#: ../../source/user_guide/upgrade.md:26 e915af35e67c42518c3330a49ae97403
 msgid "New stop autofocus function in preview page"
 msgstr "实时预览界面新增停止自动对焦功能"
 
-#: ../../source/user_guide/upgrade.md:12 d185dfecd8774cbf9ed14395a5ac6751
+#: ../../source/user_guide/upgrade.md:27 d185dfecd8774cbf9ed14395a5ac6751
 msgid "New objective switching function in preview page"
 msgstr "实时预览界面新增物镜切换功能"
 
-#: ../../source/user_guide/upgrade.md:13 be4d2cc42300437a972968edb3e24c50
+#: ../../source/user_guide/upgrade.md:28 be4d2cc42300437a972968edb3e24c50
 msgid "New time series shooting and viewing of experimental process"
 msgstr "新增时间序列拍摄功能，以及查看实验过程中的图像和分析结果"
 
-#: ../../source/user_guide/upgrade.md:14 7a5f900f95774bc7bdc3361757829aa7
+#: ../../source/user_guide/upgrade.md:29 7a5f900f95774bc7bdc3361757829aa7
 msgid ""
 "Supports 2D/3D rendering engine, default 2D, can be switched through the "
 "system settings page"
 msgstr "支持2D/3D渲染引擎，默认是2D，可以通过系统设置界面进行切换"
 
-#: ../../source/user_guide/upgrade.md:17 63d5712f01154bbcb0521c474c49f7d2
+#: ../../source/user_guide/upgrade.md:32 63d5712f01154bbcb0521c474c49f7d2
 msgid "Fix"
 msgstr "修复"
 
-#: ../../source/user_guide/upgrade.md:18 1b4109faa3e2493ab0f735b243faa141
+#: ../../source/user_guide/upgrade.md:33 1b4109faa3e2493ab0f735b243faa141
 msgid "Fix occasional failure of command sending function in serial port module"
 msgstr "修复偶尔串口发送功能失效问题"
 
-#: ../../source/user_guide/upgrade.md:20 6af1fc435d7345d6b6f7244bee623cc1
+#: ../../source/user_guide/upgrade.md:35 6af1fc435d7345d6b6f7244bee623cc1
 msgid "Optimize"
 msgstr "优化"
 
-#: ../../source/user_guide/upgrade.md:21 e2948a5de98f4443956a8a08c58003d0
+#: ../../source/user_guide/upgrade.md:36 e2948a5de98f4443956a8a08c58003d0
 msgid "Optimize multi-channel overlay display"
 msgstr "优化多通道图像叠加显示功能"
-
-#: ../../source/user_guide/upgrade.md:23 98fe912911434c3687e811a9b3d10812
-msgid "Notes"
-msgstr "注意"
-
-#: ../../source/user_guide/upgrade.md:24 bb22663843674dc7b1b73205eb9ef620
-msgid "This is still a beta version and may contain many bugs."
-msgstr "这是一个测试版，可能存在许多bug"
-
-#: ../../source/user_guide/upgrade.md:25 ab971f15c8ab4ffdb50036ff09b0a58a
-msgid "Windows 7/10 (x64) or above"
-msgstr "Windows 7/10 (x64) 及以上"
-
-#: ../../source/user_guide/upgrade.md:26 c9191ad880b747c4ba38fae16f7389aa
-msgid "OpenGL 2.1 or above"
-msgstr "OpenGL 2.1 及以上"
 
