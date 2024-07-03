@@ -1,5 +1,17 @@
 # Version Update Notes
 
+## Version 0.0.7-beta
+
+Release Date : 2024/7/3
+
+### Fix
+* Fix background color error issue on the analysis page
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+
 ## Version 0.0.6-beta
 
 Release Date : 2024/7/3
