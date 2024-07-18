@@ -1,5 +1,30 @@
 # Version Update Notes
 
+## Version 0.0.8-beta
+
+Release Date : 2024/7/18
+
+### New
+* Add scratch experiment in analysis page.
+* Time series shooting supports analysis function
+* Add license module
+* Add sequence file analysis function
+* Automatically store and import experiment files
+* Add the function and page for viewing experiment files
+
+
+### Optimize
+* Optimize image contrast and brightness adjustment functions
+
+### Fix
+* Fix the issue where the 'Stop Autofocus' does not take effect
+* Fix occasional data reception issue with serial communication module
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+
 ## Version 0.0.7-beta
 
 Release Date : 2024/7/3
