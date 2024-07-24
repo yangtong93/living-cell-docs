@@ -1,5 +1,39 @@
 # Version Update Notes
 
+## Version 0.0.9-beta
+
+Release Date : 2024/7/24
+
+### New
+* Add `RWD` for Scratch Experiment
+* Add video export function
+* Add the function of deleting analysis results
+* Add automatic exposure function
+* Preview page supports modifying the autofocus starting point
+* New feature for restoring color mapping settings
+* Add image deconvolution
+
+### Update
+* The minimum exposure gain value has been changed from 10 to 1
+* Change the scalar range of the color mapping to 0-255
+* Invalid analysis results not displayed
+
+### Optimize
+* Accelerate local file reading
+* Turn off the lights when leaving the preview page
+
+### Fix
+* Fix the issue of interface not changing when switching images
+* Fix the issue where the color mapping scalar range does not take effect after modification
+* Fix the inconsistency between the overlay effect of exported images and the interface display
+* Fix the issue of failed import of external tif format image files
+* Fix crash caused by local file read failure
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+
 ## Version 0.0.8-beta
 
 Release Date : 2024/7/18
