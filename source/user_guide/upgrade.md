@@ -1,5 +1,17 @@
 # Version Update Notes
 
+## Version 0.1.0-beta
+
+Release Date : 2024/7/24
+
+### Fix
+* Fix the issue of not generating experimental files
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+
 ## Version 0.0.9-beta
 
 Release Date : 2024/7/24

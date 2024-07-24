@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Living Cell \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-24 15:48+0800\n"
+"POT-Creation-Date: 2024-07-24 17:12+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -25,246 +25,259 @@ msgid "Version Update Notes"
 msgstr "版本更新说明"
 
 #: ../../source/user_guide/upgrade.md:3 00421abf6a044c9aa7565bdd22caf3fa
-msgid "Version 0.0.9-beta"
+msgid "Version 0.1.0-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade.md:5 c302a48047844cc499d82a3b5f3afa68
+#: ../../source/user_guide/upgrade.md:5 ../../source/user_guide/upgrade.md:17
+#: c302a48047844cc499d82a3b5f3afa68
 msgid "Release Date : 2024/7/24"
 msgstr "发布日期 : 2024/7/24"
 
-#: ../../source/user_guide/upgrade.md:7 ../../source/user_guide/upgrade.md:41
-#: ../../source/user_guide/upgrade.md:78 ../../source/user_guide/upgrade.md:93
+#: ../../source/user_guide/upgrade.md:7 ../../source/user_guide/upgrade.md:37
+#: ../../source/user_guide/upgrade.md:65 ../../source/user_guide/upgrade.md:78
+#: ../../source/user_guide/upgrade.md:115 63d5712f01154bbcb0521c474c49f7d2
+msgid "Fix"
+msgstr "修复"
+
+#: ../../source/user_guide/upgrade.md:8 be4d2cc42300437a972968edb3e24c50
+msgid "Fix the issue of not generating experimental files"
+msgstr "修复无法生成实验文件问题"
+
+#: ../../source/user_guide/upgrade.md:10 ../../source/user_guide/upgrade.md:44
+#: ../../source/user_guide/upgrade.md:69 ../../source/user_guide/upgrade.md:81
+#: ../../source/user_guide/upgrade.md:95 ../../source/user_guide/upgrade.md:121
+#: 98fe912911434c3687e811a9b3d10812
+msgid "Notes"
+msgstr "注意"
+
+#: ../../source/user_guide/upgrade.md:11 ../../source/user_guide/upgrade.md:45
+#: ../../source/user_guide/upgrade.md:70 ../../source/user_guide/upgrade.md:82
+#: ../../source/user_guide/upgrade.md:96 ../../source/user_guide/upgrade.md:122
+#: bb22663843674dc7b1b73205eb9ef620
+msgid "This is still a beta version and may contain many bugs."
+msgstr "这是一个测试版，可能存在许多bug"
+
+#: ../../source/user_guide/upgrade.md:12 ../../source/user_guide/upgrade.md:46
+#: ../../source/user_guide/upgrade.md:71 ../../source/user_guide/upgrade.md:83
+#: ../../source/user_guide/upgrade.md:97 ../../source/user_guide/upgrade.md:123
+#: ab971f15c8ab4ffdb50036ff09b0a58a
+msgid "Windows 7/10 (x64) or above"
+msgstr "Windows 7/10 (x64) 及以上"
+
+#: ../../source/user_guide/upgrade.md:13 ../../source/user_guide/upgrade.md:47
+#: ../../source/user_guide/upgrade.md:72 ../../source/user_guide/upgrade.md:84
+#: ../../source/user_guide/upgrade.md:98 ../../source/user_guide/upgrade.md:124
+#: c9191ad880b747c4ba38fae16f7389aa
+msgid "OpenGL 2.1 or above"
+msgstr "OpenGL 2.1 及以上"
+
+#: ../../source/user_guide/upgrade.md:15 00421abf6a044c9aa7565bdd22caf3fa
+msgid "Version 0.0.9-beta"
+msgstr ""
+
+#: ../../source/user_guide/upgrade.md:19 ../../source/user_guide/upgrade.md:53
+#: ../../source/user_guide/upgrade.md:90 ../../source/user_guide/upgrade.md:105
 #: f0da3bc09a7d46d9b08df5482893d57c
 msgid "New"
 msgstr "新增"
 
-#: ../../source/user_guide/upgrade.md:8 be4d2cc42300437a972968edb3e24c50
+#: ../../source/user_guide/upgrade.md:20 be4d2cc42300437a972968edb3e24c50
 msgid "Add `RWD` for Scratch Experiment"
 msgstr "划痕实验新增RWD指标"
 
-#: ../../source/user_guide/upgrade.md:9 78449b1ef93f4a2c9490f279f848d50c
+#: ../../source/user_guide/upgrade.md:21 78449b1ef93f4a2c9490f279f848d50c
 msgid "Add video export function"
 msgstr "新增视频导出功能"
 
-#: ../../source/user_guide/upgrade.md:10 be4d2cc42300437a972968edb3e24c50
+#: ../../source/user_guide/upgrade.md:22 be4d2cc42300437a972968edb3e24c50
 msgid "Add the function of deleting analysis results"
 msgstr "新增删除分析结果功能"
 
-#: ../../source/user_guide/upgrade.md:11 78449b1ef93f4a2c9490f279f848d50c
+#: ../../source/user_guide/upgrade.md:23 78449b1ef93f4a2c9490f279f848d50c
 msgid "Add automatic exposure function"
 msgstr "新增自动曝光功能"
 
-#: ../../source/user_guide/upgrade.md:12 c7931de19a4745f3b81e369af59d9d8d
+#: ../../source/user_guide/upgrade.md:24 c7931de19a4745f3b81e369af59d9d8d
 msgid "Preview page supports modifying the autofocus starting point"
 msgstr "实时预览页面支持修改自动对焦起始点"
 
-#: ../../source/user_guide/upgrade.md:13 09f439259ad144f5b7fba367f3e58e3b
+#: ../../source/user_guide/upgrade.md:25 09f439259ad144f5b7fba367f3e58e3b
 msgid "New feature for restoring color mapping settings"
 msgstr "新增还原颜色映射设置"
 
-#: ../../source/user_guide/upgrade.md:14 78449b1ef93f4a2c9490f279f848d50c
+#: ../../source/user_guide/upgrade.md:26 78449b1ef93f4a2c9490f279f848d50c
 msgid "Add image deconvolution"
 msgstr "新增图像反卷积"
 
-#: ../../source/user_guide/upgrade.md:16 3aa9fca8193b4bc69613ae54dd0ff157
+#: ../../source/user_guide/upgrade.md:28 3aa9fca8193b4bc69613ae54dd0ff157
 msgid "Update"
 msgstr "更新"
 
-#: ../../source/user_guide/upgrade.md:17 87f99eff11c7445ab3f67b130ab12db7
+#: ../../source/user_guide/upgrade.md:29 87f99eff11c7445ab3f67b130ab12db7
 msgid "The minimum exposure gain value has been changed from 10 to 1"
 msgstr "曝光增益最小值从10修改为1"
 
-#: ../../source/user_guide/upgrade.md:18 5112e669096c446b819332ab09c03922
+#: ../../source/user_guide/upgrade.md:30 5112e669096c446b819332ab09c03922
 msgid "Change the scalar range of the color mapping to 0-255"
 msgstr "颜色映射的范围修改为0-255"
 
-#: ../../source/user_guide/upgrade.md:19 890926d0c1804840808e8cd4dfa64230
+#: ../../source/user_guide/upgrade.md:31 890926d0c1804840808e8cd4dfa64230
 msgid "Invalid analysis results not displayed"
 msgstr "无效的分析指标结果不显示"
 
-#: ../../source/user_guide/upgrade.md:21 ../../source/user_guide/upgrade.md:50
-#: ../../source/user_guide/upgrade.md:106 6af1fc435d7345d6b6f7244bee623cc1
+#: ../../source/user_guide/upgrade.md:33 ../../source/user_guide/upgrade.md:62
+#: ../../source/user_guide/upgrade.md:118 6af1fc435d7345d6b6f7244bee623cc1
 msgid "Optimize"
 msgstr "优化"
 
-#: ../../source/user_guide/upgrade.md:22 c299a6467f8c4f81ad0b069204208526
+#: ../../source/user_guide/upgrade.md:34 c299a6467f8c4f81ad0b069204208526
 msgid "Accelerate local file reading"
 msgstr "加速本地文件读取"
 
-#: ../../source/user_guide/upgrade.md:23 d185dfecd8774cbf9ed14395a5ac6751
+#: ../../source/user_guide/upgrade.md:35 d185dfecd8774cbf9ed14395a5ac6751
 msgid "Turn off the lights when leaving the preview page"
 msgstr "关闭灯光，当离开实时预览页面"
 
-#: ../../source/user_guide/upgrade.md:25 ../../source/user_guide/upgrade.md:53
-#: ../../source/user_guide/upgrade.md:66 ../../source/user_guide/upgrade.md:103
-#: 63d5712f01154bbcb0521c474c49f7d2
-msgid "Fix"
-msgstr "修复"
-
-#: ../../source/user_guide/upgrade.md:26 b93256384a0e4f07b63cdae36a12c614
+#: ../../source/user_guide/upgrade.md:38 b93256384a0e4f07b63cdae36a12c614
 msgid "Fix the issue of interface not changing when switching images"
 msgstr "修复分析页面图像切换后分析结果未更新问题"
 
-#: ../../source/user_guide/upgrade.md:27 ba8e9b76be4a416ebea5f9cee9ca67b8
+#: ../../source/user_guide/upgrade.md:39 ba8e9b76be4a416ebea5f9cee9ca67b8
 msgid ""
 "Fix the issue where the color mapping scalar range does not take effect "
 "after modification"
 msgstr "修复颜色映射范围修改后不生效问题"
 
-#: ../../source/user_guide/upgrade.md:28 d9634eaec5704f829d290c28226d77c2
+#: ../../source/user_guide/upgrade.md:40 d9634eaec5704f829d290c28226d77c2
 msgid ""
 "Fix the inconsistency between the overlay effect of exported images and "
 "the interface display"
 msgstr "修复导出的叠加图像与界面显示不一致问题"
 
-#: ../../source/user_guide/upgrade.md:29 5cbaa10e2a634ac1878c69f877619906
+#: ../../source/user_guide/upgrade.md:41 5cbaa10e2a634ac1878c69f877619906
 msgid "Fix the issue of failed import of external tif format image files"
 msgstr "修复导入外部tif格式图像文件失败问题"
 
-#: ../../source/user_guide/upgrade.md:30 cb750cf424e946ba9b5a0cbc0eb8e18a
+#: ../../source/user_guide/upgrade.md:42 cb750cf424e946ba9b5a0cbc0eb8e18a
 msgid "Fix crash caused by local file read failure"
 msgstr "修复读取本地实验文件崩溃问题"
 
-#: ../../source/user_guide/upgrade.md:32 ../../source/user_guide/upgrade.md:57
-#: ../../source/user_guide/upgrade.md:69 ../../source/user_guide/upgrade.md:83
-#: ../../source/user_guide/upgrade.md:109 98fe912911434c3687e811a9b3d10812
-msgid "Notes"
-msgstr "注意"
-
-#: ../../source/user_guide/upgrade.md:33 ../../source/user_guide/upgrade.md:58
-#: ../../source/user_guide/upgrade.md:70 ../../source/user_guide/upgrade.md:84
-#: ../../source/user_guide/upgrade.md:110 bb22663843674dc7b1b73205eb9ef620
-msgid "This is still a beta version and may contain many bugs."
-msgstr "这是一个测试版，可能存在许多bug"
-
-#: ../../source/user_guide/upgrade.md:34 ../../source/user_guide/upgrade.md:59
-#: ../../source/user_guide/upgrade.md:71 ../../source/user_guide/upgrade.md:85
-#: ../../source/user_guide/upgrade.md:111 ab971f15c8ab4ffdb50036ff09b0a58a
-msgid "Windows 7/10 (x64) or above"
-msgstr "Windows 7/10 (x64) 及以上"
-
-#: ../../source/user_guide/upgrade.md:35 ../../source/user_guide/upgrade.md:60
-#: ../../source/user_guide/upgrade.md:72 ../../source/user_guide/upgrade.md:86
-#: ../../source/user_guide/upgrade.md:112 c9191ad880b747c4ba38fae16f7389aa
-msgid "OpenGL 2.1 or above"
-msgstr "OpenGL 2.1 及以上"
-
-#: ../../source/user_guide/upgrade.md:37 00421abf6a044c9aa7565bdd22caf3fa
+#: ../../source/user_guide/upgrade.md:49 00421abf6a044c9aa7565bdd22caf3fa
 msgid "Version 0.0.8-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade.md:39 c302a48047844cc499d82a3b5f3afa68
+#: ../../source/user_guide/upgrade.md:51 c302a48047844cc499d82a3b5f3afa68
 msgid "Release Date : 2024/7/18"
 msgstr "发布日期 : 2024/7/18"
 
-#: ../../source/user_guide/upgrade.md:42 e540c311690f489eaaf87e967c43692a
+#: ../../source/user_guide/upgrade.md:54 e540c311690f489eaaf87e967c43692a
 msgid "Add scratch experiment in analysis page."
 msgstr "分析模块&页面新增划痕实验"
 
-#: ../../source/user_guide/upgrade.md:43 be4d2cc42300437a972968edb3e24c50
+#: ../../source/user_guide/upgrade.md:55 be4d2cc42300437a972968edb3e24c50
 msgid "Time series shooting supports analysis function"
 msgstr "时间序列拍摄支持分析模块"
 
-#: ../../source/user_guide/upgrade.md:44 4caad50b1d8b40799d308638e8db6f3f
+#: ../../source/user_guide/upgrade.md:56 4caad50b1d8b40799d308638e8db6f3f
 msgid "Add license module"
 msgstr "新增许可证模块"
 
-#: ../../source/user_guide/upgrade.md:45 78449b1ef93f4a2c9490f279f848d50c
+#: ../../source/user_guide/upgrade.md:57 78449b1ef93f4a2c9490f279f848d50c
 msgid "Add sequence file analysis function"
 msgstr "新增序列文件分析功能"
 
-#: ../../source/user_guide/upgrade.md:46 be4d2cc42300437a972968edb3e24c50
+#: ../../source/user_guide/upgrade.md:58 be4d2cc42300437a972968edb3e24c50
 msgid "Automatically store and import experiment files"
 msgstr "新增实验文件的自动存储和导入"
 
-#: ../../source/user_guide/upgrade.md:47 be4d2cc42300437a972968edb3e24c50
+#: ../../source/user_guide/upgrade.md:59 be4d2cc42300437a972968edb3e24c50
 msgid "Add the function and page for viewing experiment files"
 msgstr "新增实验文件查看功能及页面"
 
-#: ../../source/user_guide/upgrade.md:51 4f24b9787261484fa2e4e11ddb7f61bd
+#: ../../source/user_guide/upgrade.md:63 4f24b9787261484fa2e4e11ddb7f61bd
 msgid "Optimize image contrast and brightness adjustment functions"
 msgstr "优化对比度和亮度调节功能"
 
-#: ../../source/user_guide/upgrade.md:54 2115a6cae12a4129be50027279fddea1
+#: ../../source/user_guide/upgrade.md:66 2115a6cae12a4129be50027279fddea1
 msgid "Fix the issue where the 'Stop Autofocus' does not take effect"
 msgstr "修复`停止自动对焦`功能无效问题"
 
-#: ../../source/user_guide/upgrade.md:55 1b4109faa3e2493ab0f735b243faa141
+#: ../../source/user_guide/upgrade.md:67 1b4109faa3e2493ab0f735b243faa141
 msgid "Fix occasional data reception issue with serial communication module"
 msgstr "修复串口通信模块偶尔收不到数据问题"
 
-#: ../../source/user_guide/upgrade.md:62 00421abf6a044c9aa7565bdd22caf3fa
+#: ../../source/user_guide/upgrade.md:74 00421abf6a044c9aa7565bdd22caf3fa
 msgid "Version 0.0.7-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade.md:64 ../../source/user_guide/upgrade.md:76
+#: ../../source/user_guide/upgrade.md:76 ../../source/user_guide/upgrade.md:88
 #: c302a48047844cc499d82a3b5f3afa68
 msgid "Release Date : 2024/7/3"
 msgstr "发布日期 : 2024/7/3"
 
-#: ../../source/user_guide/upgrade.md:67 e540c311690f489eaaf87e967c43692a
+#: ../../source/user_guide/upgrade.md:79 e540c311690f489eaaf87e967c43692a
 msgid "Fix background color error issue on the analysis page"
 msgstr "修复分析页面中的背景色错误"
 
-#: ../../source/user_guide/upgrade.md:74 00421abf6a044c9aa7565bdd22caf3fa
+#: ../../source/user_guide/upgrade.md:86 00421abf6a044c9aa7565bdd22caf3fa
 msgid "Version 0.0.6-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade.md:79 dbb6a49b359b4abf945178ac045b6d52
+#: ../../source/user_guide/upgrade.md:91 dbb6a49b359b4abf945178ac045b6d52
 msgid "Image export function adds multi-channel fusion method"
 msgstr "图像导出支持多通道融合导出"
 
-#: ../../source/user_guide/upgrade.md:80 78449b1ef93f4a2c9490f279f848d50c
+#: ../../source/user_guide/upgrade.md:92 78449b1ef93f4a2c9490f279f848d50c
 msgid "Add 3 image preprocessing functions"
 msgstr "新增3个图像预处理功能"
 
-#: ../../source/user_guide/upgrade.md:81 2362e9b6a7314ee4a687577e0ff2a712
+#: ../../source/user_guide/upgrade.md:93 2362e9b6a7314ee4a687577e0ff2a712
 msgid "Implement UI for partial pages"
 msgstr "实现部分页面的UI"
 
-#: ../../source/user_guide/upgrade.md:89 00421abf6a044c9aa7565bdd22caf3fa
+#: ../../source/user_guide/upgrade.md:101 00421abf6a044c9aa7565bdd22caf3fa
 msgid "Version 0.0.5-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade.md:91 c302a48047844cc499d82a3b5f3afa68
+#: ../../source/user_guide/upgrade.md:103 c302a48047844cc499d82a3b5f3afa68
 msgid "Release Date : 2024/6/28"
 msgstr "发布日期 : 2024/6/28"
 
-#: ../../source/user_guide/upgrade.md:94 0a5709574fc0461f9f31e883a1ee5eca
+#: ../../source/user_guide/upgrade.md:106 0a5709574fc0461f9f31e883a1ee5eca
 msgid "New basic/advanced cell analysis for single shot"
 msgstr "新增基础/高级细胞分析"
 
-#: ../../source/user_guide/upgrade.md:95 85c28564d5ff456aa5f923f870121520
+#: ../../source/user_guide/upgrade.md:107 85c28564d5ff456aa5f923f870121520
 msgid "Add external regular format image import, such as png, jpg, tif"
 msgstr "新增外部常规图像导入，比如png，jpg，tif格式"
 
-#: ../../source/user_guide/upgrade.md:96 962786be3778411191a55c1aaba503b8
+#: ../../source/user_guide/upgrade.md:108 962786be3778411191a55c1aaba503b8
 msgid "Add Z-Stack for single shot in preview page"
 msgstr "预览界面新增Z-Stack功能"
 
-#: ../../source/user_guide/upgrade.md:97 e915af35e67c42518c3330a49ae97403
+#: ../../source/user_guide/upgrade.md:109 e915af35e67c42518c3330a49ae97403
 msgid "New stop autofocus function in preview page"
 msgstr "实时预览界面新增停止自动对焦功能"
 
-#: ../../source/user_guide/upgrade.md:98 d185dfecd8774cbf9ed14395a5ac6751
+#: ../../source/user_guide/upgrade.md:110 d185dfecd8774cbf9ed14395a5ac6751
 msgid "New objective switching function in preview page"
 msgstr "实时预览界面新增物镜切换功能"
 
-#: ../../source/user_guide/upgrade.md:99 be4d2cc42300437a972968edb3e24c50
+#: ../../source/user_guide/upgrade.md:111 be4d2cc42300437a972968edb3e24c50
 msgid "New time series shooting and viewing of experimental process"
 msgstr "新增时间序列拍摄功能，以及查看实验过程中的图像和分析结果"
 
-#: ../../source/user_guide/upgrade.md:100 7a5f900f95774bc7bdc3361757829aa7
+#: ../../source/user_guide/upgrade.md:112 7a5f900f95774bc7bdc3361757829aa7
 msgid ""
 "Supports 2D/3D rendering engine, default 2D, can be switched through the "
 "system settings page"
 msgstr "支持2D/3D渲染引擎，默认是2D，可以通过系统设置界面进行切换"
 
-#: ../../source/user_guide/upgrade.md:104 1b4109faa3e2493ab0f735b243faa141
+#: ../../source/user_guide/upgrade.md:116 1b4109faa3e2493ab0f735b243faa141
 msgid "Fix occasional failure of command sending function in serial port module"
 msgstr "修复偶尔串口发送功能失效问题"
 
-#: ../../source/user_guide/upgrade.md:107 e2948a5de98f4443956a8a08c58003d0
+#: ../../source/user_guide/upgrade.md:119 e2948a5de98f4443956a8a08c58003d0
 msgid "Optimize multi-channel overlay display"
 msgstr "优化多通道图像叠加显示功能"
 
