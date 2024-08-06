@@ -1,5 +1,31 @@
 # Version Update Notes
 
+## Version 0.1.1-beta
+
+Release Date : 2024/8/6
+
+### New
+* The basic cell analysis module uses new algorithms
+* Add 2 objective lenses
+* The analysis results are converted from pixel units to physical size units
+* Improve Z-Stack functionality and add export and storage functions
+* Add the function of importing serial image files
+* New scale, shortcut key `P` can modify the width, color, and opacity.
+* Add multiple views to display images from multiple channels separately
+* Time series shooting supports Z-Stack
+
+### Optimize
+* optimize multi-channel overlay display effect
+
+
+### Fix
+* Fix the issue of program crashes caused by entering content in the comment input box
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+
 ## Version 0.1.0-beta
 
 Release Date : 2024/7/24
