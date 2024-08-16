@@ -1,5 +1,32 @@
 # Version Update Notes
 
+## Version 0.1.2-beta
+
+Release Date : 2024/8/16
+
+### New
+* Basic cell analysis module, supporting fluorescence channel analysis
+* Add the function of reanalyzing experimental files again
+
+### Optimize
+* Optimize some UI interfaces
+* Optimize the loading process of historical files
+* Exposure gain adjustment increases sensitivity
+
+### Fix
+* Fix the issue of incorrect display of analysis results after switching
+* Fix the issue of not updating the start time in a timely manner on the experiment schedule page
+* Fix the issue where external files or directories cannot be selected
+* Fix the issue of Z-axis not being set during the experiment process
+* Fixed the issue of interface not adapting to size, in the multi view display multi-channel function
+* Fix the abnormal display issue of the scale bar
+* Fixed the issue of the device not shutting down after pausing the experiment
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+
 ## Version 0.1.1-beta
 
 Release Date : 2024/8/6
