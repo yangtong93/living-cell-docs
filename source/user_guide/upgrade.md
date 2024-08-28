@@ -1,5 +1,42 @@
 # Version Update Notes
 
+## Version 0.1.3-beta
+
+Release Date : 2024/8/28
+
+### New
+* Added the function of adjusting the width of mask lines
+* Add parameter interface for scratch experiment adjustment
+* Add the function of exporting experimental analysis data as files
+* Added scale bar display for exported images
+* The analysis result table supports copying analysis data to the clipboard
+* Add 2 new parameters in the basic cell analysis module
+
+### Optimize
+* Optimize the basic cell analysis
+* Optimize the loading process of experimental files
+* Optimize the effect of image overlay
+* Optimize the display performance of masks
+
+### Fix
+* Fix the issue of incorrect calculation of start time, interval, and end time on the experimental settings page
+* Fix file recognition issue caused by Chinese path
+* Fixed the issue where a single shot cannot export the original image of ZStack
+* Fix the issue where the experiment cannot be paused
+* Fix analysis data display errors
+* Fix the issue of resetting the state of the mask after each analysis is completed
+* Fix the problem of deconvolution crashing
+* Fix full screen exception issue
+* Repair scratch experiment analysis crash issue, during local file analysis process
+* Fix the issue of not conducting analysis in the experiment when ZStack is enabled in the experimental settings
+* Fix the issue of incorrect shooting position in ZStack
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+
 ## Version 0.1.2-beta
 
 Release Date : 2024/8/16
