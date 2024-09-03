@@ -1,5 +1,31 @@
 # Version Update Notes
 
+## Version 0.2.0-RC1
+
+Release Date : 2024/9/2
+
+### New
+* Add overlay image display to some interfaces
+* Add the function of storing abnormal information after program crashes
+
+
+### Optimize
+* Reduce CPU usage for loading experimental files
+
+### Fix
+* Fix the issue where the experiment cannot be stopped
+* Fix issues related to ZStack position adjustment
+* Fix the crash issue caused by inconsistent running environment of image preprocessing
+* Fix the issue with setting the experimental time interval
+* Fix the issue of excessive brightness in the overlay display effect
+
+
+### Notes
+* This is a candidate version that may have a few bugs
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.1.3-beta
 
 Release Date : 2024/8/28
