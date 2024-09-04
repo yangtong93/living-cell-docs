@@ -117,7 +117,7 @@ msgstr "OpenGL 2.1 及以上"
 #: ../../source/user_guide/upgrade.md:23 ../../source/user_guide/upgrade.md:49
 #: 709329ab57ee498994d9809241104e27
 msgid "Some modules require license authorization to be used"
-msgstr "一些模块需要许可证授权才可实验"
+msgstr "一些模块需要许可证授权才可使用"
 
 #: ../../source/user_guide/upgrade.md:25 00421abf6a044c9aa7565bdd22caf3fa
 msgid "Version 0.2.0-RC1"
