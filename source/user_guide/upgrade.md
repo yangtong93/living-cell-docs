@@ -1,5 +1,27 @@
 # Version Update Notes
 
+
+## Version 0.2.0-RC2
+
+Release Date : 2024/9/4
+
+### New
+* Added simulation image setting function, in debugging mode
+
+### Optimize
+* Optimization analysis results display proportion
+
+### Fix
+* Fix program crashes in some operating systems
+* Fix the issue of inconsistent brightness between the preview image and the original image
+
+
+### Notes
+* This is a candidate version that may have a few bugs
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.2.0-RC1
 
 Release Date : 2024/9/2
