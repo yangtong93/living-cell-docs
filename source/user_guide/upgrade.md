@@ -1,5 +1,33 @@
 # Version Update Notes
 
+## Version 0.2.0-RC3
+
+Release Date : 2024/9/13
+
+### New
+* Exposure gain supports decimal adjustment
+* Export images and videos with time, preprocessing, and scale bar
+* Exporting videos supports Chinese paths
+
+### Optimize
+* The analysis page only analyzes the images of the channels selected by the user
+* Optimize the loading process of experimental files
+
+### Fix
+* Resolve the issue of the image selection page leaving the previous items
+* Objective lens switching should not be performed when the device only has one objective lens
+* Fix analysis cannot be deselected issue
+* Fix the issue of abnormal overlay image effects
+* Fixed the issue of only displaying single channel analysis results when enabling ZStack and setting up multi-channel shooting in the experimental settings
+* Fixed the issue where the preprocessing state was not reset when switching between different files
+* Fix the issue of displaying channels that have not been captured, in the export dialog
+
+
+### Notes
+* This is a candidate version that may have a few bugs
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
 
 ## Version 0.2.0-RC2
 
