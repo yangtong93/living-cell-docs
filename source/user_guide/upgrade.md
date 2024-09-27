@@ -1,5 +1,51 @@
 # Version Update Notes
 
+## Version 0.3.1-beta
+
+Release Date : 2024/9/27
+
+### New
+* Add prompts to prevent users from switching pages when autofocus or ZStack is not completed
+* Exporting images allows you to choose whether to include scale units or not
+
+### Fix
+* Fix the issue of ineffective shooting based on the total duration
+* Resolve the issues caused by concurrent and out of order tasks during time series shooting
+* Resolve the issue of exporting TIFF format files that do not support Chinese paths
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
+## Version 0.3.0-beta
+
+Release Date : 2024/9/26
+
+### New
+* Add the function of checking and prompting disk space on the experiment schedule page
+* Regularly check the available size of memory and disk, and prompt if it is less than 1GB
+* New shooting progress for ZStack
+
+
+### Optimize
+* Scratch analysis fills small impurities in the scratch area
+* Optimize the operational process of time series shooting
+* Optimize the running process of batch analysis tasks
+* In ZStack shooting, prioritize capturing the channels before moving the Z-axis
+
+
+### Fix
+* Fix inaccurate eccentricity in basic cell analysis.
+* Fix the issue of inaccurate average fluorescence intensity in basic cell analysis.
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.2.0-RC3
 
 Release Date : 2024/9/13
