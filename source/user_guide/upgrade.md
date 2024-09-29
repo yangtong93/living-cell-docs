@@ -1,5 +1,19 @@
 # Version Update Notes
 
+
+## Version 0.2.0-RC4
+
+Release Date : 2024/9/29
+
+### Fix
+* Fix the issue of ineffective video playback speed
+
+### Notes
+* This is a candidate version that may have a few bugs
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.3.1-beta
 
 Release Date : 2024/9/27
