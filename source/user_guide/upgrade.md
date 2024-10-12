@@ -1,5 +1,29 @@
 # Version Update Notes
 
+## Version 0.3.2-beta
+
+Release Date : 2024/10/12
+
+### New
+* Add the function of pausing and resuming experiments
+
+### Optimize
+* Optimize the file list reading process
+* Optimize the process of creating experimental files
+* Improve the stability of experimental operation
+
+
+### Fix
+* Fix the issue of inaccurate shooting times in ZStack
+* Fix the issue of invalid video speed settings
+* Fix scratch analysis input parameter errors
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
 
 ## Version 0.2.0-RC4
 
