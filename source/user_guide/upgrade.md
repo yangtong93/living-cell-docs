@@ -1,5 +1,27 @@
 # Version Update Notes
 
+## Version 0.3.3-beta
+
+Release Date : 2024/10/17
+
+### New
+* The installation package can choose whether to install USB and camera drivers
+* The batch analysis function is executed according to the parameters set by the user
+* Added warning function, including alerts for confluence and wound heal rate
+* Add the function of returning the X-axis to the origin, after the device is successfully started.
+
+
+### Optimize
+* Serial communication, adding timeout mechanism to prevent infinite waiting
+* The maximum range of hole in basic cell analysis has increased from 2000 to 5000
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.3.2-beta
 
 Release Date : 2024/10/12
