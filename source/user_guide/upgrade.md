@@ -1,5 +1,18 @@
 # Version Update Notes
 
+## Version 0.3.4-beta
+
+Release Date : 2024/10/18
+
+### Fix
+* Fix the issue of incorrect command for returning X-axis to origin
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.3.3-beta
 
 Release Date : 2024/10/17
