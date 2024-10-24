@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Living Cell'
+project = 'Cell Perception'
 copyright = '2024, bioimaginglab'
 author = 'bioimaginglab'
 release = 'v0.0.4-bata'

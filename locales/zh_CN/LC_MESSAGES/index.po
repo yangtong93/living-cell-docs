@@ -1,13 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2024, bioimaginglab
-# This file is distributed under the same license as the Living Cell
+# This file is distributed under the same license as the Cell Perception
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Living Cell \n"
+"Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-19 09:44+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Generated-By: Babel 2.15.0\n"
 
 #: ../../source/index.rst:7 7d1f799da8fa430088114ad6443d1b58
-msgid "Welcome to Living Cell's documentation!"
+msgid "Welcome to Cell Perception's documentation!"
 msgstr ""
 
 #: ../../source/index.rst:26 afca50cb66d748d38115c157541d2c64

@@ -1,5 +1,29 @@
 # Version Update Notes
 
+
+## Version 0.3.5-beta
+
+Release Date : 2024/10/24
+
+### New
+* Change the software name from `CellLiving` to `CellPerception`
+* Add functions related to hardware parameter templates
+* New email for warning method
+* Add a special effect of flashing during shooting
+* Video export supports MP4 format
+
+### Optimize
+* Reduce the sensitivity of memory alerts
+
+### Fix
+* Run the command to return the X-axis to the origin only in a multi lens configuration
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.3.4-beta
 
 Release Date : 2024/10/18
