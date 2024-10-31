@@ -1,5 +1,21 @@
 # Version Update Notes
 
+## Version 0.3.7-beta
+
+Release Date : 2024/10/31
+
+
+### Optimize
+* Optimize the loading speed of experimental files
+
+### Fix
+* After switching channels, the automatic exposure status is incorrect
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
 
 ## Version 0.3.5-beta
 
