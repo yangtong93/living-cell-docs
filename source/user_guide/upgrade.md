@@ -1,5 +1,33 @@
 # Version Update Notes
 
+## Version 0.3.8-beta
+
+Release Date : 2024/11/7
+
+### New
+* Support batch analysis and single analysis
+* Add image and text explanations for the analysis module
+* Add the function of reapplying for licenses
+* Image export supports canceling interrupt process
+
+### Fix
+* Resolve the issue of unreleased resources after the experiment is completed
+* Fix the issue where the opacity of the filling cannot be adjusted upwards
+
+
+### Optimize
+* Optimize the loading speed of experimental files
+* Adjust the shooting interval between channels to 1 second
+
+### Fix
+* After switching channels, the automatic exposure status is incorrect
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.3.7-beta
 
 Release Date : 2024/10/31
