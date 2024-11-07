@@ -19,9 +19,6 @@ Release Date : 2024/11/7
 * Optimize the loading speed of experimental files
 * Adjust the shooting interval between channels to 1 second
 
-### Fix
-* After switching channels, the automatic exposure status is incorrect
-
 ### Notes
 * This is still a beta version and may contain many bugs.
 * Only supports Windows 7/10 (x64) or above  
