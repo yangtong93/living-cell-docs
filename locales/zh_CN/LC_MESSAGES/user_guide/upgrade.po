@@ -51,7 +51,7 @@ msgstr "新增"
 
 #: ../../source/user_guide/upgrade.md:8 b0eb2802d6cd410ab83d0db857ef11e5
 msgid "Support batch analysis and single analysis"
-msgstr "支持批量分析和单词分析"
+msgstr "支持批量分析和单次分析"
 
 #: ../../source/user_guide/upgrade.md:9 130c3a8e80094c438ac230c45313a079
 msgid "Add image and text explanations for the analysis module"
@@ -63,7 +63,7 @@ msgstr "新增许可证过期后，重新申请功能"
 
 #: ../../source/user_guide/upgrade.md:11 be4d2cc42300437a972968edb3e24c50
 msgid "Image export supports canceling interrupt process"
-msgstr "图像到处支持取消中断过程"
+msgstr "图像导出支持取消中断过程"
 
 #: ../../source/user_guide/upgrade.md:13 ../../source/user_guide/upgrade.md:22
 #: ../../source/user_guide/upgrade.md:39 ../../source/user_guide/upgrade.md:62
