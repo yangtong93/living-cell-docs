@@ -1,5 +1,23 @@
 # Version Update Notes
 
+## Version 0.3.9-beta
+
+Release Date : 2024/11/11
+
+### Fix
+* Prevent repeated clicks on ZStack
+* Fix display orientation errors in external images
+
+### Optimize
+* Optimize the display of analysis progress information
+* Accelerate the reading speed of imports
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.3.8-beta
 
 Release Date : 2024/11/7
