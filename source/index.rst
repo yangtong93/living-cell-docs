@@ -11,7 +11,6 @@ Welcome to Cell Perception's documentation!
    
    user_guide/intro
    user_guide/quickstart
-   user_guide/interface
    user_guide/function
    user_guide/setting
    user_guide/upgrade

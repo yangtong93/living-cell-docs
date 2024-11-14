@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Cell Perception'
+project = 'CellPerception'
 copyright = '2024, bioimaginglab'
 author = 'bioimaginglab'
-release = 'v0.0.4-bata'
+release = '0.3.9-bata'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

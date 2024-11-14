@@ -57,8 +57,8 @@ There are two ways to apply: online (with network) and offline (without network)
 ### Offline
 
 1. Enter the software, find and go to the upgrade page in the left menu bar.
-2. Click **Export** Registration Information
-3. Click **Request** and contact the account manager to issue license information
+2. Click **Export** to export a file
+3. Send the file to the customer manager and contact the customer manager to issue license information
 4. After the customer manager provides another file, click **Request** again to complete license activation
 
 ## Using CellPerception

@@ -22,36 +22,8 @@ msgstr ""
 
 #: ../../source/user_guide/support.md:1 8e95af9ceee64b4cbfa99a34b2976945
 msgid "Hardware support"
-msgstr ""
+msgstr "硬件支持"
 
 #: ../../source/user_guide/support.md:3 88a53ce1d66a44398660ecc6b43efc8f
 msgid "Cell Analyzer"
 msgstr ""
-
-#~ msgid "Technical Support"
-#~ msgstr "技术支持"
-
-#~ msgid "Contact us"
-#~ msgstr "联系我们"
-
-#~ msgid "**Wuhan Life Sciences Image Intelligence Technology Co.,Ltd**"
-#~ msgstr "**武汉生科图智技术有限公司**"
-
-#~ msgid ""
-#~ "Address : 2nd floor, podium building,"
-#~ " Building C2, Future Science and "
-#~ "Technology City, Donghu High tech Zone,"
-#~ " Wuhan City"
-#~ msgstr "地址：武汉市东湖高新区未来科技城C2栋裙楼2楼"
-
-#~ msgid "E-mail : service@bioimaginglab.cn"
-#~ msgstr "邮箱：service@bioimaginglab.cn"
-
-#~ msgid "Tel : +8615623839281"
-#~ msgstr "电话：+8618140576260"
-
-#~ msgid ""
-#~ "Official website address : "
-#~ "[www.bioimaginglab.cn](https://www.bioimaginglab.cn/)"
-#~ msgstr "官网地址：[www.bioimaginglab.cn](http://www.bioimaginglab.cn)"
-

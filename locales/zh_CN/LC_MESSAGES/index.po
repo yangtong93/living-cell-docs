@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/index.rst:7 7d1f799da8fa430088114ad6443d1b58
 msgid "Welcome to Cell Perception's documentation!"
-msgstr ""
+msgstr "欢迎使用细胞慧视软件用户手册"
 
 #: ../../source/index.rst:26 afca50cb66d748d38115c157541d2c64
 msgid "Indices and tables"
@@ -39,7 +39,4 @@ msgstr ""
 #: ../../source/index.rst:30 6972151a74f44215ae0149f9e770defa
 msgid ":ref:`search`"
 msgstr ""
-
-#~ msgid "Welcome to Biological Imaging Viewer's documentation!"
-#~ msgstr ""
 
