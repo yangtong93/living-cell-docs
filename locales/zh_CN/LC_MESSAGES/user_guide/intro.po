@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-14 14:44+0800\n"
+"POT-Creation-Date: 2024-11-14 15:09+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -41,78 +41,138 @@ msgstr "CellPerception软件通过实时监测和分析细胞的行为、形态�
 msgid "Technical features"
 msgstr "技术特点"
 
-#: ../../source/user_guide/intro.md:10 ../../source/user_guide/intro.md:13
-#: ../../source/user_guide/intro.md:16 ../../source/user_guide/intro.md:21
-#: ../../source/user_guide/intro.md:24 ../../source/user_guide/intro.md:27
-#: ../../source/user_guide/intro.md:33 ../../source/user_guide/intro.md:36
-#: ../../source/user_guide/intro.md:39 07f4a408388f4d0598c2ef2a7f107ebc
-#: 3de01b7fd56f437fb3245a37c740da00 96f6fff6960f4ed08e48698722c58a87
-#: bc57c19baaf7440f9b7ed4170e70e082 e163029cb67941e781103bdfcb05b0e3
-#: ebfe97b532014f5e9d525180b62e5db4 ee71867c1d1e415396f864c4ced25677
-msgid "123 <br> <br>"
-msgstr ""
+#: ../../source/user_guide/intro.md:10 92a48373bb7a4479b95fe5354e0ce0ad
+msgid ""
+"Real-time imaging and monitoring: It can continuously monitor cell "
+"behaviors such as proliferation, migration, apoptosis, etc. during long-"
+"term experiments without interrupting the experimental process and "
+"providing real-time data. <br> <br>"
+msgstr "实时成像与监控：能够在长时间实验中持续监测细胞行为，如增殖、迁移、凋亡等，无需中断实验过程，提供实时数据。"
 
-#: ../../source/user_guide/intro.md:20 9a4dda9563774f379426b95d5bce4f63
+#: ../../source/user_guide/intro.md:14 06805a3ba19e40088669b0389e82eaed
+msgid ""
+"Automated data analysis: Through advanced image processing and analysis "
+"algorithms, it can automatically identify and quantify indicators such as"
+" cell morphology, quantity, migration speed, etc., reducing human errors."
+" <br> <br>"
+msgstr "自动化数据分析：通过先进的图像处理和分析算法，自动化识别和定量细胞的形态、数量、迁移速度等指标，减少人为误差。"
+
+#: ../../source/user_guide/intro.md:18 d6f5e660fb2840da93864de7d2cbac1e
+msgid ""
+"Non-invasive imaging: Using microscope imaging technology, it can achieve"
+" non-invasive monitoring without disturbing the natural state of cells or"
+" samples, which is suitable for long-term dynamic observation. <br> <br>"
+msgstr "无创成像：利用显微镜成像技术，无需干扰细胞或样本的自然状态，实现无创监测，适用于长期动态观察。"
+
+#: ../../source/user_guide/intro.md:21 119fc7d4cf414845b1b3672d8b00db9a
+msgid ""
+"Data visualization and report generation: It provides a variety of data "
+"visualization options, such as curve charts, heat maps, trajectory "
+"charts, etc., and can automatically generate experimental reports for "
+"easy result analysis and sharing. <br> <br>"
+msgstr "数据可视化与报告生成：提供多种数据可视化选项，如曲线图、热图、轨迹图等，并能自动生成实验报告，便于结果分析和共享。"
+
+#: ../../source/user_guide/intro.md:24 8b5a5c3222304b119c83b59d0a30f15c
+msgid ""
+"Compatible with multiple platforms: It supports compatibility with "
+"different models of microscopes and automation equipment, which is easy "
+"to integrate into the existing workflow of the laboratory. <br> <br>"
+msgstr "兼容多种平台：支持与不同型号的显微镜和自动化设备兼容，便于集成到实验室现有的工作流程中。"
+
+#: ../../source/user_guide/intro.md:28 9a4dda9563774f379426b95d5bce4f63
 msgid "Application scenarios"
 msgstr "应用场景"
 
-#: ../../source/user_guide/intro.md:31 97bb016608bf4a44bc5217d0bbc5c918
+#: ../../source/user_guide/intro.md:30 24fb52dcfe9b48e49050c005378d5a8f
+msgid ""
+"Drug screening and effect evaluation: Real-time monitoring of biological "
+"processes such as cell proliferation, death, and migration to help "
+"evaluate the effects of candidate drugs, especially in the development of"
+" cancer, antiviral and antibacterial drugs. <br> <br>"
+msgstr "药物筛选与效应评估：实时监测细胞增殖、死亡、迁移等生物学过程，帮助评估候选药物的效果，特别是在癌症、抗病毒和抗菌药物的研发中应用广泛。"
+
+#: ../../source/user_guide/intro.md:33 48c22c2b15c34e64918db42f05dad2ee
+msgid ""
+"Cell migration and invasion experiments: Through scratch experiments, "
+"Transwell migration and other methods, the migration and invasion ability"
+" of cells under different conditions are analyzed, which are often used "
+"in tumor, immune response and wound repair research. <br> <br>"
+msgstr "细胞迁移与侵袭实验：通过划痕实验、Transwell迁移等方法，分析细胞在不同条件下的迁移和侵袭能力，常用于肿瘤、免疫反应和伤口修复研究。"
+
+#: ../../source/user_guide/intro.md:36 8d3ec4eab8b948b2ad7e3db1ac1e5fe7
+msgid ""
+"Immune cell function analysis: Monitoring the proliferation, activity and"
+" migration of immune cells (such as T cells, B cells, etc.), applied to "
+"immunotherapy, vaccine development and immune response mechanism "
+"research. <br> <br>"
+msgstr "免疫细胞功能分析：监测免疫细胞（如T细胞、B细胞等）的增殖、活性和迁移，应用于免疫治疗、疫苗开发及免疫反应机制的研究。"
+
+#: ../../source/user_guide/intro.md:39 98b67635f8fb4808a597e17160f5c54d
+msgid ""
+"Cell stress response and disease research: Real-time analysis of cell "
+"responses under conditions such as drugs, chemical stress, and viral "
+"infection, helping to discover new disease markers, toxicity assessment "
+"and the effect of anti-stress treatment. <br> <br>"
+msgstr "细胞应激反应与疾病研究：实时分析细胞在药物、化学应激、病毒感染等条件下的反应，帮助发现新型疾病标志物、毒性评估和抗应激治疗的效果。"
+
+#: ../../source/user_guide/intro.md:43 97bb016608bf4a44bc5217d0bbc5c918
 msgid "Main functions"
 msgstr "主要功能"
 
-#: ../../source/user_guide/intro.md:43 cd032c80011b4eb8bd459d3341280f68
+#: ../../source/user_guide/intro.md:45 16f87a6c953f472d94a25058909ad167
+msgid "![](../_static/images/function.png)"
+msgstr ""
+
+#: ../../source/user_guide/intro.md:47 cd032c80011b4eb8bd459d3341280f68
 msgid "Main interface"
 msgstr "主界面"
 
-#: ../../source/user_guide/intro.md:44 16f87a6c953f472d94a25058909ad167
+#: ../../source/user_guide/intro.md:48 16f87a6c953f472d94a25058909ad167
 msgid "![](../_static/images/main.png)"
-msgstr "![](../_static/images/main_cn.png)"
+msgstr "![](../_static/images/cn/main.png)"
 
-#: ../../source/user_guide/intro.md:46 5cf3af8dd98e4920a63a2cf3412867e6
+#: ../../source/user_guide/intro.md:50 5cf3af8dd98e4920a63a2cf3412867e6
 msgid "Supported image formats"
 msgstr "支持的图像格式"
 
-#: ../../source/user_guide/intro.md:48 023664a540704709a0683e78d59db337
+#: ../../source/user_guide/intro.md:52 023664a540704709a0683e78d59db337
 msgid "PNG"
 msgstr ""
 
-#: ../../source/user_guide/intro.md:49 94719170c5f94c0e8c7df2d9c3736d5a
+#: ../../source/user_guide/intro.md:53 94719170c5f94c0e8c7df2d9c3736d5a
 msgid "JPG, JPEG"
 msgstr ""
 
-#: ../../source/user_guide/intro.md:50 7378c5b159c84d11b3251b0eab534d5c
+#: ../../source/user_guide/intro.md:54 7378c5b159c84d11b3251b0eab534d5c
 msgid "TIFF"
 msgstr ""
 
-#: ../../source/user_guide/intro.md:51 4b2b12cdd3de43639a7c1d2d9061c07a
+#: ../../source/user_guide/intro.md:55 4b2b12cdd3de43639a7c1d2d9061c07a
 msgid "DICOM"
 msgstr ""
 
-#: ../../source/user_guide/intro.md:52 2360bdf7d4a3443fb65b0ff304506d3f
+#: ../../source/user_guide/intro.md:56 2360bdf7d4a3443fb65b0ff304506d3f
 msgid "BMP"
 msgstr ""
 
-#: ../../source/user_guide/intro.md:55 3c2d51c1d56c464591a7cb2fb9a70ddf
+#: ../../source/user_guide/intro.md:59 3c2d51c1d56c464591a7cb2fb9a70ddf
 msgid "Supported microscope equipment"
 msgstr "支持的显微镜设备"
 
-#: ../../source/user_guide/intro.md:57 1b1912777932409e92fe4e8c049bdc34
+#: ../../source/user_guide/intro.md:61 1b1912777932409e92fe4e8c049bdc34
 msgid "CellAnalyzer"
 msgstr ""
 
-#: ../../source/user_guide/intro.md:59 fbc98edd24da49a9ac7ddd20c31fd982
+#: ../../source/user_guide/intro.md:63 fbc98edd24da49a9ac7ddd20c31fd982
 msgid "License"
 msgstr "许可证"
 
-#: ../../source/user_guide/intro.md:61 2025da274bfc4da7a7d26002228aeab6
+#: ../../source/user_guide/intro.md:65 2025da274bfc4da7a7d26002228aeab6
 msgid ""
 "CellPerception is a commercial software system. Basic modules are free, "
 "while advanced modules require payment."
 msgstr "CellPerception是一个商业软件，基础模块免费，高级模块收费。"
 
-#~ msgid "123 <br>"
-#~ msgstr ""
-
-#~ msgid "VTI"
+#~ msgid "123 <br> <br>"
 #~ msgstr ""
 
