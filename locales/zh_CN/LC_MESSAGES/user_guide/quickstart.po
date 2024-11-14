@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-19 09:43+0800\n"
+"POT-Creation-Date: 2024-11-13 17:43+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -23,4 +23,242 @@ msgstr ""
 #: ../../source/user_guide/quickstart.md:1 d8fc59aa46424214afd70d213bc9bd5b
 msgid "Getting Started"
 msgstr "开始使用"
+
+#: ../../source/user_guide/quickstart.md:3 e7798345fa544cbe873855b3fbc1f053
+msgid ""
+"This page contains information that you need to get started with "
+"CellPerception, including how to install and use basic features."
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:5 7a8398986cc045d0a50d8053e18705b0
+msgid "Operating system requirements"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:7 ca6a28e74b3d4958be2cdf7fdd1b5a01
+msgid ""
+"CellPerception mainly runs on the Windows computer and will run on linux "
+"computer in the future. Older computers may work."
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:8 211d99e0b94240a68fb26829216ca009
+msgid ""
+"Windows 7/10/11 (x64) or above, with all recommended updates installed.  "
+"Microsoft does not support Windows 8.1 and Windows 7 anymore and "
+"CellPerception is not tested on these legacy operating system versions, "
+"but may still work."
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:10 2477906272c44e288f889688e2859b56
+msgid "Hardware requirements"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:12 616b8ec344b1475d8ee0db95a3ef7071
+msgid ""
+"Memory: As a general rule, have 2x-5x more memory than the amount of data"
+" that you load."
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:14 da876d882e6842a489b2e79dea7b47e5
+msgid ""
+"Display: a minimum resolution of 1024 by 768 (1920 by 1080 or better is "
+"recommended)."
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:16 e46f920723454db6a779a56c8ec9238d
+msgid ""
+"Graphics: Low requirements for graphics cards, capable even without a "
+"dedicated graphics card. If there is a dedicated graphics card, it can "
+"run more advanced analysis modules."
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:18 1976916bac624a9c879b9ec901bacc9a
+msgid "Minimum System Requirements"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:20 988d606d614d43c98f3ceeba80a6037a
+msgid "CPU: 3 GHz CPU (Intel or AMD) 4 Core with 64 bit support"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:21 a0cf5e009e1145a2a097ac7254db8454
+msgid "RAM: 16 GB"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:22
+#: ../../source/user_guide/quickstart.md:29 98515c74348a47b7a6313d7516db4a4f
+#: f49496084df14ee4bc4722ae8e9b8f40
+msgid "Graphics: None"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:23 fab18f58055b4935a5db215d39e57a71
+msgid "Disk: 256GB SSD/HDD"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:25 c76e6a1de1344a08a5a80bd04d43b9c6
+msgid "Recommended System"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:27 168f3019933c4fe4bc589b332a81ada1
+msgid "CPU: 4 GHz CPU 8-16 Cores"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:28 52c01b08d5a1449f8501c5d8dd0d43bc
+msgid "RAM: 32-64 GB"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:30 0e1eeeee604f410384ba4a8a742e5771
+msgid "Disk: 256GB SSD + 1TB HDD"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:32 eef217e66e1f43298809331ea1be41e4
+msgid "High End System"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:34 168f3019933c4fe4bc589b332a81ada1
+msgid "CPU: 4 GHz CPU 16-24 Cores"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:35 822ab6616d784d558bc72b2090785d7f
+msgid "RAM: 128GB"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:36 75876db2f8a1467d827339bdd83ea031
+msgid "Graphics: NVIDIA RTX 4060"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:37 fbfdb21b2f5a48d59d3e15f0a5f51730
+msgid "Disk: 512GB SSD + 4TB HDD"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:39 f0f95983ee2c45b8a3bf7b854cd18155
+msgid "Installing CellPerception"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:41 e3cb1c4121a14089b22977d96892e5bf
+msgid ""
+"To download CellPerception software, click "
+"[here](https://www.bioimaginglab.cn/page120)."
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:43 2c3417591b794ab1bc368fdc273cbf80
+msgid "Click on the exe installation package to install"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:45 7b3954b33d1e473bbc4cad240cb66b3c
+msgid ""
+"If you need to connect the microscope equipment, choose to install the "
+"driver, otherwise you can uncheck the driver."
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:47 d1e9cc9fe2ad4145ae65711bbad0bae6
+msgid "Apply for a license"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:48 6ca8c17b553c4d788999d4f2d58947fa
+msgid ""
+"There are two ways to apply: online (with network) and offline (without "
+"network)"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:50 5624f55763854490ba552188da799a7a
+msgid "Online"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:52
+#: ../../source/user_guide/quickstart.md:59 088c6cb99a7b4128ab8b09d1d8d2528e
+#: bc2728d513a14209b034245f97baac20
+msgid "Enter the software, find and go to the upgrade page in the left menu bar."
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:53 13cddb81b0834496beb531ebc8fef200
+msgid "Select the module that needs authorization on the left"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:54 ae8acd990fa444beb0d1b167e4fff774
+msgid ""
+"Click **Request** and contact the customer manager to issue license "
+"information"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:55 3a3fc334aff3487b93341a074377f157
+msgid ""
+"After being handled by the customer manager, click **Request** again to "
+"complete license activation"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:57 dd6a65e6fef74e50beccb9b48ed482bb
+msgid "Offline"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:60 9d96bd0cb1c04172b87ff8ed4628afb4
+msgid "Click **Export** Registration Information"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:61 ae8acd990fa444beb0d1b167e4fff774
+msgid ""
+"Click **Request** and contact the account manager to issue license "
+"information"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:62 3a3fc334aff3487b93341a074377f157
+msgid ""
+"After the customer manager provides another file, click **Request** again"
+" to complete license activation"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:64 826681cd378344528ff5dda3ecbddf70
+msgid "Using CellPerception"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:66 27c1042cc0e84e3b8608bb944e91e42d
+msgid "Single shot"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:67 ee7819d738dc451ea16a99ccbf706476
+msgid ""
+"Single shot, suitable for previewing the current microscope image, "
+"shooting, and then analyzing the cells in the image"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:69 078195fb95334ed1bee93adf63bef762
+msgid "Time series shooting"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:70 aeba33d7516546b3a79a9480345271e3
+msgid ""
+"Time series shooting is suitable for long-term continuous shooting of "
+"cells. During the process, it will be based on your choice whether to "
+"perform ZStack shooting, multi-channel shooting, and analyze the "
+"execution of the module."
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:72 e0543aef53c1458bb03c7d97d2b5194f
+msgid "Local files"
+msgstr ""
+
+#: ../../source/user_guide/quickstart.md:73 32ef337d598b48c29716fb03597253b8
+msgid ""
+"Local files are suitable for viewing the content of already captured "
+"experimental files, as well as externally imported cell image files, and "
+"performing batch analysis tasks."
+msgstr ""
+
+#~ msgid "Fill in the **Email** information"
+#~ msgstr ""
+
+#~ msgid "Click **Generate** Registration Information"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "After receiving the email, click "
+#~ "**Request** again to complete license "
+#~ "activation"
+#~ msgstr ""
+
+#~ msgid "To download CellPerception, click [here](http://www.chipcloudtech.com)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To download CellPerception, click "
+#~ "[here](https://www.bioimaginglab.cn/page120)."
+#~ msgstr ""
 

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-19 09:43+0800\n"
+"POT-Creation-Date: 2024-11-13 17:41+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -21,34 +21,37 @@ msgstr ""
 "Generated-By: Babel 2.15.0\n"
 
 #: ../../source/user_guide/support.md:1 8e95af9ceee64b4cbfa99a34b2976945
-msgid "Technical Support"
-msgstr "技术支持"
+msgid "Hardware support"
+msgstr ""
 
-#: ../../source/user_guide/support.md:2 caeac276b54142718fa6d1197264077e
-msgid "Contact us"
-msgstr "联系我们"
+#: ../../source/user_guide/support.md:3 88a53ce1d66a44398660ecc6b43efc8f
+msgid "Cell Analyzer"
+msgstr ""
 
-#: ../../source/user_guide/support.md:4 9a399fc83baf4529b40bcd57b8ea1dfc
-msgid "**Wuhan Life Sciences Image Intelligence Technology Co.,Ltd**"
-msgstr "**武汉生科图智技术有限公司**"
+#~ msgid "Technical Support"
+#~ msgstr "技术支持"
 
-#: ../../source/user_guide/support.md:6 cd03a86e4d974b9f8a21b763dafb3d44
-msgid ""
-"Address : 2nd floor, podium building, Building C2, Future Science and "
-"Technology City, Donghu High tech Zone, Wuhan City"
-msgstr "地址：武汉市东湖高新区未来科技城C2栋裙楼2楼"
+#~ msgid "Contact us"
+#~ msgstr "联系我们"
 
-#: ../../source/user_guide/support.md:8 1be18d1c34a545e4b345e4b0831ed4dd
-msgid "E-mail : service@bioimaginglab.cn"
-msgstr "邮箱：service@bioimaginglab.cn"
+#~ msgid "**Wuhan Life Sciences Image Intelligence Technology Co.,Ltd**"
+#~ msgstr "**武汉生科图智技术有限公司**"
 
-#: ../../source/user_guide/support.md:10 e6b59dd4737b48d18b2b8cf0d6136929
-msgid "Tel : +8615623839281"
-msgstr "电话：+8618140576260"
+#~ msgid ""
+#~ "Address : 2nd floor, podium building,"
+#~ " Building C2, Future Science and "
+#~ "Technology City, Donghu High tech Zone,"
+#~ " Wuhan City"
+#~ msgstr "地址：武汉市东湖高新区未来科技城C2栋裙楼2楼"
 
-#: ../../source/user_guide/support.md:12 2986e30a4cde4907a255134217804a87
-msgid ""
-"Official website address : "
-"[www.bioimaginglab.cn](https://www.bioimaginglab.cn/)"
-msgstr "官网地址：[www.bioimaginglab.cn](http://www.bioimaginglab.cn)"
+#~ msgid "E-mail : service@bioimaginglab.cn"
+#~ msgstr "邮箱：service@bioimaginglab.cn"
+
+#~ msgid "Tel : +8615623839281"
+#~ msgstr "电话：+8618140576260"
+
+#~ msgid ""
+#~ "Official website address : "
+#~ "[www.bioimaginglab.cn](https://www.bioimaginglab.cn/)"
+#~ msgstr "官网地址：[www.bioimaginglab.cn](http://www.bioimaginglab.cn)"
 

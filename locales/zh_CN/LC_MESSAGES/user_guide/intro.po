@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-19 09:43+0800\n"
+"POT-Creation-Date: 2024-11-14 14:44+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -23,4 +23,96 @@ msgstr ""
 #: ../../source/user_guide/intro.md:1 b39694b6227e4cfcb89d369ba8824837
 msgid "Introduction"
 msgstr "介绍"
+
+#: ../../source/user_guide/intro.md:3 f097cf829a1e402886957fedb34f0477
+msgid "What is CellPerception"
+msgstr "什么是细胞慧视(CellPerception)"
+
+#: ../../source/user_guide/intro.md:5 8e5d0b74347441efb85742508d09eb50
+msgid ""
+"CellPerception software monitors and analyzes cell behavior, morphology, "
+"and physiological status in real time, helping researchers gain a deeper "
+"understanding of cell dynamics, such as proliferation, migration, and "
+"apoptosis, and providing powerful data support for cell biology research "
+"and drug screening. <br> <br>"
+msgstr "CellPerception软件通过实时监测和分析细胞的行为、形态和生理状态。帮助研究人员深入了解细胞动态过程，如增殖、迁移、凋亡等，为细胞生物学研究和药物筛选提供强大的数据支持。"
+
+#: ../../source/user_guide/intro.md:9 3d3c6fc780304e48a9b904579163fc28
+msgid "Technical features"
+msgstr "技术特点"
+
+#: ../../source/user_guide/intro.md:10 ../../source/user_guide/intro.md:13
+#: ../../source/user_guide/intro.md:16 ../../source/user_guide/intro.md:21
+#: ../../source/user_guide/intro.md:24 ../../source/user_guide/intro.md:27
+#: ../../source/user_guide/intro.md:33 ../../source/user_guide/intro.md:36
+#: ../../source/user_guide/intro.md:39 07f4a408388f4d0598c2ef2a7f107ebc
+#: 3de01b7fd56f437fb3245a37c740da00 96f6fff6960f4ed08e48698722c58a87
+#: bc57c19baaf7440f9b7ed4170e70e082 e163029cb67941e781103bdfcb05b0e3
+#: ebfe97b532014f5e9d525180b62e5db4 ee71867c1d1e415396f864c4ced25677
+msgid "123 <br> <br>"
+msgstr ""
+
+#: ../../source/user_guide/intro.md:20 9a4dda9563774f379426b95d5bce4f63
+msgid "Application scenarios"
+msgstr "应用场景"
+
+#: ../../source/user_guide/intro.md:31 97bb016608bf4a44bc5217d0bbc5c918
+msgid "Main functions"
+msgstr "主要功能"
+
+#: ../../source/user_guide/intro.md:43 cd032c80011b4eb8bd459d3341280f68
+msgid "Main interface"
+msgstr "主界面"
+
+#: ../../source/user_guide/intro.md:44 16f87a6c953f472d94a25058909ad167
+msgid "![](../_static/images/main.png)"
+msgstr "![](../_static/images/main_cn.png)"
+
+#: ../../source/user_guide/intro.md:46 5cf3af8dd98e4920a63a2cf3412867e6
+msgid "Supported image formats"
+msgstr "支持的图像格式"
+
+#: ../../source/user_guide/intro.md:48 023664a540704709a0683e78d59db337
+msgid "PNG"
+msgstr ""
+
+#: ../../source/user_guide/intro.md:49 94719170c5f94c0e8c7df2d9c3736d5a
+msgid "JPG, JPEG"
+msgstr ""
+
+#: ../../source/user_guide/intro.md:50 7378c5b159c84d11b3251b0eab534d5c
+msgid "TIFF"
+msgstr ""
+
+#: ../../source/user_guide/intro.md:51 4b2b12cdd3de43639a7c1d2d9061c07a
+msgid "DICOM"
+msgstr ""
+
+#: ../../source/user_guide/intro.md:52 2360bdf7d4a3443fb65b0ff304506d3f
+msgid "BMP"
+msgstr ""
+
+#: ../../source/user_guide/intro.md:55 3c2d51c1d56c464591a7cb2fb9a70ddf
+msgid "Supported microscope equipment"
+msgstr "支持的显微镜设备"
+
+#: ../../source/user_guide/intro.md:57 1b1912777932409e92fe4e8c049bdc34
+msgid "CellAnalyzer"
+msgstr ""
+
+#: ../../source/user_guide/intro.md:59 fbc98edd24da49a9ac7ddd20c31fd982
+msgid "License"
+msgstr "许可证"
+
+#: ../../source/user_guide/intro.md:61 2025da274bfc4da7a7d26002228aeab6
+msgid ""
+"CellPerception is a commercial software system. Basic modules are free, "
+"while advanced modules require payment."
+msgstr "CellPerception是一个商业软件，基础模块免费，高级模块收费。"
+
+#~ msgid "123 <br>"
+#~ msgstr ""
+
+#~ msgid "VTI"
+#~ msgstr ""
 
