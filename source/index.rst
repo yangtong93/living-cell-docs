@@ -17,6 +17,7 @@ Welcome to Cell Perception's documentation!
    user_guide/program
    user_guide/setup
    user_guide/support
+   user_guide/note
    user_guide/about
    
 

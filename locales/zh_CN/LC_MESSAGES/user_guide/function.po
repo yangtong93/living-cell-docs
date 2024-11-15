@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-19 09:43+0800\n"
+"POT-Creation-Date: 2024-11-15 17:16+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -24,3 +24,368 @@ msgstr ""
 msgid "Features"
 msgstr "功能介绍"
 
+#: ../../source/user_guide/function.md:3 8b2758632fa343ccaaf11e4ef1de1f92
+msgid "Single shot"
+msgstr "单次拍摄"
+
+#: ../../source/user_guide/function.md:5 52c9a25dd1d04ccebcd8bd17c5088d11
+msgid ""
+"Display real-time images of microscope equipment, capture images of "
+"different channels, and analyze the images."
+msgstr "显示显微镜设备的实时画面，拍摄不同通道的图像，对图像进行分析。"
+
+#: ../../source/user_guide/function.md:7 9494628ece314e8eab3106ec0e015297
+msgid "![](../_static/images/single_main.png)"
+msgstr ""
+
+#: ../../source/user_guide/function.md:9
+#: ../../source/user_guide/function.md:111 34f2c10cdf2343c1bbf04eb8bd21de7c
+msgid "Preview"
+msgstr "实时预览"
+
+#: ../../source/user_guide/function.md:10 def0519504ff4b40839e0398d05e3697
+msgid ""
+"Read real-time images from microscope equipment and display them. It can "
+"adjust light intensity, exposure time, exposure gain, Z-axis movement, "
+"autofocus, ZStack shooting, and other functions."
+msgstr "读取显微镜设备的实时画面图像，并进行显示，可以调节光强，曝光时间，曝光增益，Z轴移动，自动对焦，ZStack拍摄等功能。"
+
+#: ../../source/user_guide/function.md:12 2cc3abd090ed4f0f9a9da7155ccc30e5
+msgid "![](../_static/images/preview.png)"
+msgstr ""
+
+#: ../../source/user_guide/function.md:13 06041067990d40cb8b8b822897fd6a22
+msgid "Previous step"
+msgstr "上一步"
+
+#: ../../source/user_guide/function.md:14 7360c7a6d74f4d0f866cababd32243b8
+msgid "Next step"
+msgstr "下一步"
+
+#: ../../source/user_guide/function.md:15
+#: ../../source/user_guide/function.md:28 99c888137c814ce49011967a05d61f0a
+#: 9a683198da6c46b8a1b4fa0cc89af351
+msgid "Objective lens switching"
+msgstr "物镜切换"
+
+#: ../../source/user_guide/function.md:16 54921dcc53e54361ac1c9a4f41c7ed0f
+msgid "Picture effect settings and shooting"
+msgstr "画面效果设置与拍摄"
+
+#: ../../source/user_guide/function.md:17 e379c733c8d64ce9b7cb7b3f2b456a9d
+msgid "ZStack shooting"
+msgstr "ZStack拍摄"
+
+#: ../../source/user_guide/function.md:18 c224a5fe8cbc4a57a04a84004c112b69
+msgid "Light source channel switching"
+msgstr "光源通道切换"
+
+#: ../../source/user_guide/function.md:19
+#: ../../source/user_guide/function.md:56
+#: ../../source/user_guide/function.md:96 1aedbe2cc7f94cbfb0729a2baa576b4c
+#: 393668486275403eaf5ac9f917b3a32c ea58af019d854990ace0e86c28349936
+msgid "Full screen display"
+msgstr "全屏显示"
+
+#: ../../source/user_guide/function.md:20 22e609cd260b4f60a5ef62e3583c560a
+msgid "Scale"
+msgstr "比例尺"
+
+#: ../../source/user_guide/function.md:21 3842e76c338c4166bf3cbd0b1098dfbb
+msgid "Scale unit"
+msgstr "比例尺单位"
+
+#: ../../source/user_guide/function.md:22 41d7e043e5e84bf0a02d910225b05a25
+msgid "Coarse focusing"
+msgstr "粗调焦"
+
+#: ../../source/user_guide/function.md:23 5ed22aa75c8648eea59dd9efed692606
+msgid "Fine focusing"
+msgstr "细调焦"
+
+#: ../../source/user_guide/function.md:24 477fddc005734585b567e20a56cc495d
+msgid "Auto focus"
+msgstr "自动对焦"
+
+#: ../../source/user_guide/function.md:25 de454d5408b24718b7d23a00a3ae6bae
+msgid "Stop autofocus"
+msgstr "停止自动对焦"
+
+#: ../../source/user_guide/function.md:27 2cc3abd090ed4f0f9a9da7155ccc30e5
+msgid "![](../_static/images/preview_1.png)"
+msgstr ""
+
+#: ../../source/user_guide/function.md:29 495cef9bb14543d0aabe9121bed518ba
+msgid ""
+"Template settings, adding, saving, deleting shooting parameter settings "
+"templates, switching between different templates to restore the settings "
+"of this template."
+msgstr "模板设置，新增，保存，删除拍摄参数设置模板，切换不同模板可还原此模板的设置。"
+
+#: ../../source/user_guide/function.md:30 dadaab9540e24057a7125c9d94188cee
+msgid "Restore settings"
+msgstr "还原设置"
+
+#: ../../source/user_guide/function.md:31 d80c1590582a417e899c72ecdef6ff56
+msgid "Light intensity adjustment"
+msgstr "光强调节"
+
+#: ../../source/user_guide/function.md:32 505f433cb1104330a022bbbcd9f4c66d
+msgid "Exposure time adjustment"
+msgstr "曝光时间调节"
+
+#: ../../source/user_guide/function.md:33 7faa983b446a4bd5845223593d1de03f
+msgid "Exposure gain adjustment"
+msgstr "曝光增益调节"
+
+#: ../../source/user_guide/function.md:34 82e605e55c174e6983b8c2b20fcfc4ae
+msgid "Set the starting point for autofocus"
+msgstr "设置自动对焦的起始点"
+
+#: ../../source/user_guide/function.md:35 6eb196576ddc417ab236169e6524c02b
+msgid "Shooting"
+msgstr "拍摄"
+
+#: ../../source/user_guide/function.md:36 bae2f30be820485dafff50db2b8cb273
+msgid "Delete the current shot"
+msgstr "删除当前拍摄"
+
+#: ../../source/user_guide/function.md:37 204e87af0e3d40d4bd1eea16dbbee36f
+msgid "Distance upwards relative to the starting point"
+msgstr "相对起始点向上的距离"
+
+#: ../../source/user_guide/function.md:38 9963eec6d27a4d7a89169578edec1a1a
+msgid "Starting point"
+msgstr "起始点"
+
+#: ../../source/user_guide/function.md:39 137f95f0e91142a9bf1e077d435d31d9
+msgid "Distance downwards relative to the starting point"
+msgstr "相对起始点向上的距离"
+
+#: ../../source/user_guide/function.md:40 137f95f0e91142a9bf1e077d435d31d9
+msgid "Step size, distance of each step"
+msgstr "步长，每一步的距离"
+
+#: ../../source/user_guide/function.md:41 0a7b92cd63b24c88bc373e337962348a
+msgid "Total number of shots taken"
+msgstr "总拍摄数量"
+
+#: ../../source/user_guide/function.md:42 b8adc24f91f44fa6830bf15ac3de4bc2
+msgid "Whether to select autofocus first"
+msgstr "是否选择自动对焦"
+
+#: ../../source/user_guide/function.md:43 c56f3d51db9142abbff72701a6c921d2
+msgid "Methods for Depth of Field Expansion"
+msgstr "景深扩展的方法"
+
+#: ../../source/user_guide/function.md:44 bfe99b0867c24ab694ef0ec3916e8b3d
+msgid "Run ZStack to shoot"
+msgstr "运行ZStack拍摄"
+
+#: ../../source/user_guide/function.md:46
+#: ../../source/user_guide/function.md:113
+#: ../../source/user_guide/function.md:129 467cc11a3fb5433eb31fefcbce83c392
+msgid "View Image"
+msgstr "查看图像"
+
+#: ../../source/user_guide/function.md:47 d59ea075352a47b7abe3e2cc7723d823
+msgid "View the captured image and adjust the image effect."
+msgstr "查看拍摄后的图像，对图像效果进行调节。"
+
+#: ../../source/user_guide/function.md:50 2cc3abd090ed4f0f9a9da7155ccc30e5
+msgid "![](../_static/images/view.png)"
+msgstr ""
+
+#: ../../source/user_guide/function.md:52
+#: ../../source/user_guide/function.md:94 a7806dd184e343988eb40a4c1bba6c38
+#: cbdc1e82b0374acab815b427771360e1
+msgid "Adjustment of image effects for each channel"
+msgstr "每个通道的图像效果调节"
+
+#: ../../source/user_guide/function.md:53 bb5f69c62d534050b3cef92aa8a2179a
+msgid "Preview of Image Preprocessing Effects"
+msgstr "图像预处理效果预览"
+
+#: ../../source/user_guide/function.md:54 e10e714ea8d447ac8e192028259e0885
+msgid "Export image files/videos"
+msgstr "导出图像文件/视频"
+
+#: ../../source/user_guide/function.md:55
+#: ../../source/user_guide/function.md:73 01e5401721854f2c8ac1738a3c9a0ec2
+#: 1815489909bc41b794c2c141e6e0cd27
+msgid "Multi view display"
+msgstr "多视图显示"
+
+#: ../../source/user_guide/function.md:57
+#: ../../source/user_guide/function.md:97 316440a6bc3749bbabe2e54c8a1a97b6
+#: 8230cecc7a004e3bae35c6bfe092e935
+msgid "Scale bar"
+msgstr "比例尺"
+
+#: ../../source/user_guide/function.md:58
+#: ../../source/user_guide/function.md:98 316440a6bc3749bbabe2e54c8a1a97b6
+#: 984d131365aa47fd86bf0494cc9212a4
+msgid "Scale units"
+msgstr "比例尺单位"
+
+#: ../../source/user_guide/function.md:60 2cc3abd090ed4f0f9a9da7155ccc30e5
+msgid "![](../_static/images/view_1.png)"
+msgstr ""
+
+#: ../../source/user_guide/function.md:61 d4447772b73143d0aa4eedbbccc65c10
+msgid "Display the channel image"
+msgstr "显示该通道图像"
+
+#: ../../source/user_guide/function.md:62 47e2e1a89c634bbab571f29a3d3f2ee8
+msgid "Brightness adjustment"
+msgstr "亮度调节"
+
+#: ../../source/user_guide/function.md:63 852252459ac24d3da7ef89a2e6e2435e
+msgid "Contrast adjustment"
+msgstr "对比度调节"
+
+#: ../../source/user_guide/function.md:64 ec4fc72198f64b1cac73de2fc5a9da69
+msgid "Reduce background to the left and increase brightness to the right"
+msgstr "向左减少背景，向右增加亮度"
+
+#: ../../source/user_guide/function.md:65 02fbea6440974dad9baf325046360792
+msgid "Pseudo color selection"
+msgstr "伪彩选择"
+
+#: ../../source/user_guide/function.md:66 ce89cf3bb35b4bf78814856d20e85ef1
+msgid "Image denoising to reduce background noise in the image"
+msgstr "图像降噪，减少图像背景噪声"
+
+#: ../../source/user_guide/function.md:67 9d34bc5615c842718f7536be8583f5f3
+msgid "Image enhancement, enhanced image contrast, and background uniformity"
+msgstr "图像增强，增强图像对比度，背景均一性"
+
+#: ../../source/user_guide/function.md:68 669c8e0141564a4193ff1dce9022c365
+msgid "Image sharpening enhances the edges of the image, making it clearer"
+msgstr "图像锐化，增强图像的边缘，使图像变得清晰"
+
+#: ../../source/user_guide/function.md:69 bf7f45a88d6846b58692fa79e2c6073c
+msgid "Image deconvolution to improve image resolution and signal-to-noise ratio"
+msgstr "图像反卷积，提高图像的分辨率与信噪比"
+
+#: ../../source/user_guide/function.md:71 ba639f65ec6c43e987ff8e0c84ae5886
+msgid "![](../_static/images/view_2.png) ![](../_static/images/view_3.png)"
+msgstr ""
+
+#: ../../source/user_guide/function.md:74 56a64cff988e497caa2ec70cf3963e01
+msgid "Bright field image"
+msgstr "明场图像"
+
+#: ../../source/user_guide/function.md:75 9041f4dc1a8f4360bcbbf30b922aa127
+msgid "Green fluorescence image"
+msgstr "绿色荧光图像"
+
+#: ../../source/user_guide/function.md:76 ba639f65ec6c43e987ff8e0c84ae5886
+msgid ""
+"Image obtained by superimposing bright field and green fluorescence "
+"![](../_static/images/export.png)"
+msgstr "明场和绿色荧光叠加后的图像"
+
+#: ../../source/user_guide/function.md:79
+#: ../../source/user_guide/function.md:132 d0ec65020245466dac8849030ea4b48f
+msgid "Choose Experiment"
+msgstr "选择实验"
+
+#: ../../source/user_guide/function.md:80 e27ebce0ad39405d93444805b7c07440
+msgid "Select an analysis module"
+msgstr "选择一个分析模块"
+
+#: ../../source/user_guide/function.md:82 e27ebce0ad39405d93444805b7c07440
+msgid "![](../_static/images/choose.png)"
+msgstr ""
+
+#: ../../source/user_guide/function.md:84 db015a7f38334e30b947688eea196929
+msgid ""
+"Basic cell analysis, using traditional methods to analyze images from "
+"different channels, displaying cell masks and related indicator data such"
+" as confluence degree, number of cells, fluorescence intensity, area, "
+"perimeter, and other indicator information."
+msgstr "基础细胞分析，采用传统方法，分析不同通道的图像，显示细胞遮罩，相关的指标数据，比如汇合度，细胞个数，荧光强度，面积，周长等指标信息。"
+
+#: ../../source/user_guide/function.md:85 1e32efee80e04092bef8d4b93c9ea01c
+msgid ""
+"Scratch analysis, analyzing the scratch areas of different channels, "
+"displaying the scratch areas and related indicator data, such as scratch "
+"width, cure rate, and other indicator information."
+msgstr "划痕分析，分析不同通道的划痕区域，显示出划痕区域，相关的指标数据，比如划痕宽度，治愈率等指标信息。"
+
+#: ../../source/user_guide/function.md:86 1578d5214b564d73a5c85c999977ff47
+msgid ""
+"Advanced cell analysis, using AI deep learning methods to analyze images "
+"from different channels, display cell masks, and related indicator data "
+"such as confluence degree, number of cells, fluorescence intensity, area,"
+" perimeter, and other indicator information."
+msgstr "高级细胞分析，采用AI深度学习方法，分析不同通道的图像，显示细胞遮罩，相关的指标数据，比如汇合度，细胞个数，荧光强度，面积，周长等指标信息。"
+
+#: ../../source/user_guide/function.md:88
+#: ../../source/user_guide/function.md:135 b4323cd09bef47a7ba341d6fcde4af79
+msgid "Image Analysis"
+msgstr "图像分析"
+
+#: ../../source/user_guide/function.md:90 bec844df21c746b7bac2ba669af3c18a
+msgid "Basic cell analysis"
+msgstr "基础细胞分析"
+
+#: ../../source/user_guide/function.md:92 3adccd44b0f4402ab7aec5e7b5f9ad49
+msgid "![](../_static/images/analysis.png)"
+msgstr ""
+
+#: ../../source/user_guide/function.md:93 1338df79936e46ff89966c557c3b33b1
+msgid "Adjustment of analysis parameters for each channel"
+msgstr "每个通道的分析参数调节"
+
+#: ../../source/user_guide/function.md:95 d0ec65020245466dac8849030ea4b48f
+msgid "Mask adjustment"
+msgstr "遮罩效果调节"
+
+#: ../../source/user_guide/function.md:99 e230670d27724d35ab60841f91a9c0eb
+msgid "Analysis of areas of interest"
+msgstr "感兴趣区域分析"
+
+#: ../../source/user_guide/function.md:101 027fc72e07c34aef934381a588665d08
+msgid ""
+"![](../_static/images/analysis_1.png) "
+"![](../_static/images/analysis_2.png) "
+"![](../_static/images/analysis_3.png)"
+msgstr ""
+
+#: ../../source/user_guide/function.md:106 b4323cd09bef47a7ba341d6fcde4af79
+msgid "Scratch analysis"
+msgstr "划痕分析"
+
+#: ../../source/user_guide/function.md:107 45a53dcd6ca143efaa57ac2391c2b851
+msgid "Advanced cell analysis"
+msgstr "高级细胞分析"
+
+#: ../../source/user_guide/function.md:109 dadaab9540e24057a7125c9d94188cee
+msgid "Time series shooting"
+msgstr "时间序列拍摄"
+
+#: ../../source/user_guide/function.md:116 06c9c9d1bfd0480b8920c14fcb57fdf1
+msgid "Experiment setup"
+msgstr "实验设置"
+
+#: ../../source/user_guide/function.md:119 4f96215a6a414fe8ae77835baac265bf
+msgid "Experiment schedule"
+msgstr "实验安排"
+
+#: ../../source/user_guide/function.md:122 5cc28dc0624c412184f0f58e65dd7d5e
+msgid "Experiment running"
+msgstr "实验运行"
+
+#: ../../source/user_guide/function.md:125 984d131365aa47fd86bf0494cc9212a4
+msgid "Local files"
+msgstr "本地文件"
+
+#: ../../source/user_guide/function.md:127 984d131365aa47fd86bf0494cc9212a4
+msgid "View File"
+msgstr "查看文件"
+
+#: ../../source/user_guide/function.md:137 57656b76df9b47f3a28f5a53ac5b6cdc
+msgid "Select Image"
+msgstr "选择图像"

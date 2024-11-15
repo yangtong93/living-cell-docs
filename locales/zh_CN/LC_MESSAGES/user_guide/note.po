@@ -1,0 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, bioimaginglab
+# This file is distributed under the same license as the CellPerception
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CellPerception \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-15 10:52+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/user_guide/note.md:1 13a554c2601942339c90db1ef366bb97
+msgid "Note"
+msgstr "注意事项"
+
+#: ../../source/user_guide/note.md:3 ../../source/user_guide/note.md:5
+#: 07054a829eb041e2aefc06ed9c2c687d ddeab81503fd473795d3c18e7bbf3fc0
+msgid "123"
+msgstr ""
+
