@@ -228,56 +228,68 @@ View the intermediate states during the experimental operation.
 8. Select the next image at the selected time point
 
 ## Local files
-XXXX
+View the relevant information of the local experimental files and have the option to perform batch analysis on the images again.
 
 ![](../_static/images/local.png)
 
-1. 
-2. 
 ### View File
-XXXX
+View relevant information about local experimental files and import external image files.
 
 ![](../_static/images/local_file.png)
 
-1. 
-2. 
+1. File name
+2. File loading status, generally including unloaded, loading, and completed states.
+3. Import a single image file
+4. Batch import all image files in the directory
+5. Previous step
+6. Next step
+7. Actual shooting time
+8. Current image number/total number of shots taken
+9. Analysis results
+10. Export analysis data to a txt file
+11. Remove analysis records (cannot be restored, permanently deleted)
+
 ### View Image
-XXXX
+Similar to the function of viewing image pages in a single shooting process.
 
 ![](../_static/images/local_view.png)
 
-1. 
-2. 
+1. Select one of the images
 
 ### Choose Experiment
-XXXX
+Select a certain analysis module to proceed to the next step of analysis.
 
 ![](../_static/images/local_chice.png)
 
-1. 
-2. 
-
 ### Image Analysis
-XXXX
+Similar to the image analysis function in a single shot.
 
 ![](../_static/images/local_analysis.png)
 
-1. 
-2. 
+1. Analyze the currently selected image
+2. Batch analyze all images
+3. Switch current image
+
 ### Select Image
-XXXX
+Select the image to be analyzed.
 
 ![](../_static/images/local_select.png)
 
-1. 
-2. 
+1. Select All
+2. Select the image to be analyzed
+3. The next step is to return to the main interface and start the task of batch analysis.
+
+
 ### Analysis running
-XXXX
+Detailed information of the analysis task
 
 ![](../_static/images/local_run.png)
 
-1. 
-2. 
+1. Task progress
+2. Pause/Resume task
+3. Click to open the detailed information of the task
+4. Analysis progress
+5. Stop analysis
 
 
 

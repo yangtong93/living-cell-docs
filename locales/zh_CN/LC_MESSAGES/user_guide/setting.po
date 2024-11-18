@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-19 09:44+0800\n"
+"POT-Creation-Date: 2024-11-18 15:47+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -23,3 +23,55 @@ msgstr ""
 #: ../../source/user_guide/setting.md:1 485589d94f3e434e95cee2cdeae62611
 msgid "Application settings"
 msgstr "系统设置"
+
+#: ../../source/user_guide/setting.md:3 a7a11b6e92d74fc3ae1ee36763a5b731
+msgid "Device settings"
+msgstr "设备设置"
+
+#: ../../source/user_guide/setting.md:4 350f836fae3b4273bbcd7eae6c6174f8
+msgid ""
+"Configure the functions according to the specific microscope equipment "
+"model."
+msgstr "根据具体显微镜设备型号，进行功能配置。"
+
+#: ../../source/user_guide/setting.md:6 a4428bdb53c841c49321940615356667
+msgid "![](../_static/images/setting.png)"
+msgstr ""
+
+#: ../../source/user_guide/setting.md:8 3eaa85987b2c4200b3c34407f50ad595
+msgid "System settings"
+msgstr "系统设置"
+
+#: ../../source/user_guide/setting.md:10 f5cabc87740740a99fbd3714c91c76fd
+msgid "![](../_static/images/setting_1.png)"
+msgstr ""
+
+#: ../../source/user_guide/setting.md:12 2b5c6ffaedd042f9bb086610fc4cfa4e
+msgid ""
+"Supports both Chinese and English languages, takes effect after "
+"restarting the software"
+msgstr "支持中文和英文两种语言，重启软件生效"
+
+#: ../../source/user_guide/setting.md:13 5583d7c1ab9444cf9dc8bcd3618c64a5
+msgid ""
+"The default storage path for experimental files. If any modifications are"
+" made, move the experimental files from the original directory to the new"
+" directory."
+msgstr "实验文件默认的存放路径，如果进行修改，将原目录下的实验文件移动至新目录即可。"
+
+#: ../../source/user_guide/setting.md:14 681fc2e1547a4b088069891651d3deae
+msgid "Set the starting point for autofocus"
+msgstr "设置自动对焦的起始点"
+
+#: ../../source/user_guide/setting.md:16 455871781d3540b99a49ae6fedc59fc3
+msgid "Module settings"
+msgstr "模块设置"
+
+#: ../../source/user_guide/setting.md:17 eaad54dc551548c5bb6198bd15394c77
+msgid "Module introduction and module authorization."
+msgstr "模块介绍和模块授权"
+
+#: ../../source/user_guide/setting.md:19 bc882a70564b4947ab7569286bbcf44e
+msgid "![](../_static/images/setting_2.png)"
+msgstr ""
+

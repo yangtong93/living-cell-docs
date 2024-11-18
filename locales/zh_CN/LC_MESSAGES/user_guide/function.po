@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-18 14:22+0800\n"
+"POT-Creation-Date: 2024-11-18 15:33+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -54,11 +54,15 @@ msgstr "读取显微镜设备的实时画面图像，并进行显示，可以调
 msgid "![](../_static/images/preview.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:13 06041067990d40cb8b8b822897fd6a22
+#: ../../source/user_guide/function.md:13
+#: ../../source/user_guide/function.md:244 06041067990d40cb8b8b822897fd6a22
+#: e24b62578fde4c3fa4d3153465a2ee5d
 msgid "Previous step"
 msgstr "上一步"
 
-#: ../../source/user_guide/function.md:14 7360c7a6d74f4d0f866cababd32243b8
+#: ../../source/user_guide/function.md:14
+#: ../../source/user_guide/function.md:245 7360c7a6d74f4d0f866cababd32243b8
+#: ddd905dab0e94088aaecab31a4b82b94
 msgid "Next step"
 msgstr "下一步"
 
@@ -184,7 +188,7 @@ msgstr "运行ZStack拍摄"
 
 #: ../../source/user_guide/function.md:46
 #: ../../source/user_guide/function.md:186
-#: ../../source/user_guide/function.md:244 467cc11a3fb5433eb31fefcbce83c392
+#: ../../source/user_guide/function.md:252 467cc11a3fb5433eb31fefcbce83c392
 msgid "View Image"
 msgstr "查看图像"
 
@@ -302,7 +306,7 @@ msgid ""
 msgstr "明场和绿色荧光叠加后的图像"
 
 #: ../../source/user_guide/function.md:79
-#: ../../source/user_guide/function.md:252 d0ec65020245466dac8849030ea4b48f
+#: ../../source/user_guide/function.md:259 d0ec65020245466dac8849030ea4b48f
 msgid "Choose Experiment"
 msgstr "选择实验"
 
@@ -338,7 +342,7 @@ msgid ""
 msgstr "高级细胞分析，采用AI深度学习方法，分析不同通道的图像，显示细胞遮罩，相关的指标数据，比如汇合度，细胞个数，荧光强度，面积，周长等指标信息。"
 
 #: ../../source/user_guide/function.md:88
-#: ../../source/user_guide/function.md:260 b4323cd09bef47a7ba341d6fcde4af79
+#: ../../source/user_guide/function.md:264 b4323cd09bef47a7ba341d6fcde4af79
 msgid "Image Analysis"
 msgstr "图像分析"
 
@@ -525,7 +529,9 @@ msgstr "与单次拍摄的实时预览界面操作类似。"
 msgid "![](../_static/images/time_preview.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:187 45860365da4d4e178c6b34c4570fea82
+#: ../../source/user_guide/function.md:187
+#: ../../source/user_guide/function.md:253 45860365da4d4e178c6b34c4570fea82
+#: b92a714b5ca1499eac43509062254853
 msgid ""
 "Similar to the function of viewing image pages in a single shooting "
 "process."
@@ -667,53 +673,158 @@ msgstr "选中时间点的下一幅图像"
 msgid "Local files"
 msgstr "本地文件"
 
-#: ../../source/user_guide/function.md:231
-#: ../../source/user_guide/function.md:238
-#: ../../source/user_guide/function.md:245
-#: ../../source/user_guide/function.md:253
-#: ../../source/user_guide/function.md:261
-#: ../../source/user_guide/function.md:268
-#: ../../source/user_guide/function.md:275 9b48e3fa769649859f1a22d8fcb8f080
-msgid "XXXX"
-msgstr ""
+#: ../../source/user_guide/function.md:231 9b340ff7f8db47949a3d4479a3a0a05e
+msgid ""
+"View the relevant information of the local experimental files and have "
+"the option to perform batch analysis on the images again."
+msgstr "查看实验文件相关的内容，并可以选择再次对图像进行批量分析"
 
 #: ../../source/user_guide/function.md:233 9eff573ee7bb4c118cbd71db5750507f
 msgid "![](../_static/images/local.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:237 984d131365aa47fd86bf0494cc9212a4
+#: ../../source/user_guide/function.md:235 984d131365aa47fd86bf0494cc9212a4
 msgid "View File"
 msgstr "查看文件"
 
-#: ../../source/user_guide/function.md:240 0f41cdbb5ef74af08dd298e67b512fd0
+#: ../../source/user_guide/function.md:236 ac79eb39dbce480a885441e12aec2353
+msgid ""
+"View relevant information about local experimental files and import "
+"external image files."
+msgstr "查看本地实验文件信息，导入外部图像文件"
+
+#: ../../source/user_guide/function.md:238 0f41cdbb5ef74af08dd298e67b512fd0
 msgid "![](../_static/images/local_file.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:247 e8264d7d19854b94a99cb0014989af3b
+#: ../../source/user_guide/function.md:240 57656b76df9b47f3a28f5a53ac5b6cdc
+msgid "File name"
+msgstr "文件名称"
+
+#: ../../source/user_guide/function.md:241 8f62b2d12d3a42c1927de7d53ac30345
+msgid ""
+"File loading status, generally including unloaded, loading, and completed"
+" states."
+msgstr "文件加载状态，一般有未加载，加载中，已完成这几张状态。"
+
+#: ../../source/user_guide/function.md:242 ea021fa0bddb42de96976f5e36be7a0b
+msgid "Import a single image file"
+msgstr "导入单个图像文件"
+
+#: ../../source/user_guide/function.md:243 8d725cd0990f48f5b57025d34ef64d1d
+msgid "Batch import all image files in the directory"
+msgstr "批量导入目录下的所有图像文件"
+
+#: ../../source/user_guide/function.md:246 77da1637172d413ca3a864bbe1928c99
+msgid "Actual shooting time"
+msgstr "实际拍摄时间"
+
+#: ../../source/user_guide/function.md:247 840dabb3b0ea408d85cba3cf45ace80c
+msgid "Current image number/total number of shots taken"
+msgstr "当前图像序号/总拍摄数量"
+
+#: ../../source/user_guide/function.md:248 4bdf126a240048a5b7c3dba50885a357
+msgid "Analysis results"
+msgstr "分析结果"
+
+#: ../../source/user_guide/function.md:249 7dd400a1dfff46629ccf417b64e906b7
+msgid "Export analysis data to a txt file"
+msgstr "分析数据导出至txt文件"
+
+#: ../../source/user_guide/function.md:250 ef5e370355504b33a4ea7d1f01d174af
+msgid "Remove analysis records (cannot be restored, permanently deleted)"
+msgstr "移除分析记录(无法恢复，永久删除)"
+
+#: ../../source/user_guide/function.md:255 e8264d7d19854b94a99cb0014989af3b
 msgid "![](../_static/images/local_view.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:255 2091932c567d40e8b9f05568b71c5c6b
+#: ../../source/user_guide/function.md:257 51b794ab42c64213b6a404a043611d06
+msgid "Select one of the images"
+msgstr "选择当前图像"
+
+#: ../../source/user_guide/function.md:260 60229bbaaa4140f58ab33568d4abc46b
+msgid "Select a certain analysis module to proceed to the next step of analysis."
+msgstr "选择某一个分析模块，进行下一步的分析"
+
+#: ../../source/user_guide/function.md:262 2091932c567d40e8b9f05568b71c5c6b
 msgid "![](../_static/images/local_chice.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:263 e8294ced27bb44d1b1cd7f47b115dcb6
+#: ../../source/user_guide/function.md:265 425279b8ae86460fbf09726af3cf598e
+msgid "Similar to the image analysis function in a single shot."
+msgstr "与单次拍摄的分析图像界面操作类似。"
+
+#: ../../source/user_guide/function.md:267 e8294ced27bb44d1b1cd7f47b115dcb6
 msgid "![](../_static/images/local_analysis.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:267 57656b76df9b47f3a28f5a53ac5b6cdc
+#: ../../source/user_guide/function.md:269 e768e96f6a634758b6b81108c29ba3e5
+msgid "Analyze the currently selected image"
+msgstr "分析当前图像"
+
+#: ../../source/user_guide/function.md:270 af6dabf3ff594784935866b7b10d7d2c
+msgid "Batch analyze all images"
+msgstr "批量分析所有图像"
+
+#: ../../source/user_guide/function.md:271 b9ba3b5a89f34531a462b88352319dd9
+msgid "Switch current image"
+msgstr "切换当前图像"
+
+#: ../../source/user_guide/function.md:273 57656b76df9b47f3a28f5a53ac5b6cdc
 msgid "Select Image"
 msgstr "选择图像"
 
-#: ../../source/user_guide/function.md:270 b65abd4747c64d729666901a49ceb696
+#: ../../source/user_guide/function.md:274 2bdbc53e21b64476b0aa4858eba9bfd0
+msgid "Select the image to be analyzed."
+msgstr "选择需要分析的图像"
+
+#: ../../source/user_guide/function.md:276 b65abd4747c64d729666901a49ceb696
 msgid "![](../_static/images/local_select.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:274 4bdf126a240048a5b7c3dba50885a357
-msgid "Analysis running"
-msgstr ""
+#: ../../source/user_guide/function.md:278 57656b76df9b47f3a28f5a53ac5b6cdc
+msgid "Select All"
+msgstr "全选"
 
-#: ../../source/user_guide/function.md:277 b431ac7f122a4af8930c1c683ec3eaa0
+#: ../../source/user_guide/function.md:279 d89ffa100b6c4effbcb69ab39dd2ceea
+msgid "Select the image to be analyzed"
+msgstr "选择需要分析的图像"
+
+#: ../../source/user_guide/function.md:280 2440867af92f4c4a9b809e17fb66e4cb
+msgid ""
+"The next step is to return to the main interface and start the task of "
+"batch analysis."
+msgstr "下一步返回主界面，并开始批量分析任务"
+
+#: ../../source/user_guide/function.md:283 4bdf126a240048a5b7c3dba50885a357
+msgid "Analysis running"
+msgstr "分析运行"
+
+#: ../../source/user_guide/function.md:284 4615925ba83a449b8f9a3d330982078a
+msgid "Detailed information of the analysis task"
+msgstr "分析任务的详细信息"
+
+#: ../../source/user_guide/function.md:286 b431ac7f122a4af8930c1c683ec3eaa0
 msgid "![](../_static/images/local_run.png)"
 msgstr ""
 
+#: ../../source/user_guide/function.md:288 eb47ecd921c44b808153f034be4ed634
+msgid "Task progress"
+msgstr "任务进度"
+
+#: ../../source/user_guide/function.md:289 52d3b79f879a4d21a40b1f08cde6d6c2
+msgid "Pause/Resume task"
+msgstr "暂停/恢复任务"
+
+#: ../../source/user_guide/function.md:290 2e5660e2debf43a0bfec5f061d78b6bb
+msgid "Click to open the detailed information of the task"
+msgstr "点击打开任务运行的详细信息"
+
+#: ../../source/user_guide/function.md:291 4bdf126a240048a5b7c3dba50885a357
+msgid "Analysis progress"
+msgstr "分析进度"
+
+#: ../../source/user_guide/function.md:292 b4323cd09bef47a7ba341d6fcde4af79
+msgid "Stop analysis"
+msgstr "停止分析"
