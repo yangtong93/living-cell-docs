@@ -17,3 +17,13 @@ Configure the functions according to the specific microscope equipment model.
 Module introduction and module authorization.
 
 ![](../_static/images/setting_2.png)
+
+1. Module Introduction
+2. Module upgrade page
+3. Online application method
+4. Offline application method
+5. Select the left module and click the button to send the application request
+6. After waiting for a reply, click on the request again
+7. Display authorization information
+
+For more detailed information, please refer to the installation and activation section.

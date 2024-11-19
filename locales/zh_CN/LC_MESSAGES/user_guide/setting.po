@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-18 15:47+0800\n"
+"POT-Creation-Date: 2024-11-19 09:31+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -74,4 +74,40 @@ msgstr "模块介绍和模块授权"
 #: ../../source/user_guide/setting.md:19 bc882a70564b4947ab7569286bbcf44e
 msgid "![](../_static/images/setting_2.png)"
 msgstr ""
+
+#: ../../source/user_guide/setting.md:21 ab5785aebc7643c68ad69d75e969d382
+msgid "Module Introduction"
+msgstr "模块介绍"
+
+#: ../../source/user_guide/setting.md:22 40919e14ca214d4ea60db1c69945bc86
+msgid "Module upgrade page"
+msgstr "模块升级页面"
+
+#: ../../source/user_guide/setting.md:23 dfe7dc90b1694fea899a306c1d128cd8
+msgid "Online application method"
+msgstr "在线申请方式"
+
+#: ../../source/user_guide/setting.md:24 b0fee87f232b4f91935bee87826debcf
+msgid "Offline application method"
+msgstr "离线申请方式"
+
+#: ../../source/user_guide/setting.md:25 a74967e93d38411eaa642f4181012c68
+msgid ""
+"Select the left module and click the button to send the application "
+"request"
+msgstr "选中左侧模块，点击按钮发送申请请求"
+
+#: ../../source/user_guide/setting.md:26 8762276d5b0142b7aa90916156020aed
+msgid "After waiting for a reply, click on the request again"
+msgstr "等待回复后，再次点击请求"
+
+#: ../../source/user_guide/setting.md:27 cfea30c700ff4761b17067628855959e
+msgid "Display authorization information"
+msgstr "显示授权信息"
+
+#: ../../source/user_guide/setting.md:29 4010c58fe4ad4fa3a02efeb1f757940f
+msgid ""
+"For more detailed information, please refer to the installation and "
+"activation section."
+msgstr "更多详细信息，请进一下查看安装与激活部分。"
 

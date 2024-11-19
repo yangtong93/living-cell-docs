@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-19 09:43+0800\n"
+"POT-Creation-Date: 2024-11-19 09:38+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -22,5 +22,24 @@ msgstr ""
 
 #: ../../source/user_guide/setup.md:1 c28021aa7ca34266aba997b749cddf88
 msgid "Installation & Activation"
+msgstr "安装与激活"
+
+#: ../../source/user_guide/setup.md:3 6db279b0ee064245b9e29bbc7ebfc96a
+#, fuzzy
+msgid "Installation"
+msgstr "安装与激活"
+
+#: ../../source/user_guide/setup.md:6 b73818ecd433483780f7c14df2b4aeaf
+msgid "Module Activation"
+msgstr ""
+
+#: ../../source/user_guide/setup.md:8 a60da59056f44d89bc4fd3d81f583d04
+#, fuzzy
+msgid "Online Activation"
+msgstr "安装与激活"
+
+#: ../../source/user_guide/setup.md:10 97067ffac15f40f38eb63dcebb6d7734
+#, fuzzy
+msgid "Offline Activation"
 msgstr "安装与激活"
 

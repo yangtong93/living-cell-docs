@@ -107,8 +107,8 @@ Select an analysis module
 3. Eccentricity: Eccentricity screening threshold. The smaller the value, the greater the filtering effect on long or irregular objects, and vice versa.
 4. Minimum area: The minimum area of the retained mask. The smaller the value, the easier it is to retain small areas of cells (and also more likely to introduce noise), and vice versa.
 5. Maximum Void: The maximum area of a closed void. The larger the value, the larger the closed cavity, and vice versa.
-6. 
-7. 
+6. Similar to 2.
+7. Domain block size: The dynamic segmentation block size of the domain. The smaller the neighborhood block, the easier it is to be sensitive to small objects and recognize local small objects.
 8. Similar to 3.
 9. Similar to 4.
 10. Similar to 5.

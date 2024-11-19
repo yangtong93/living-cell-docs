@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-18 15:33+0800\n"
+"POT-Creation-Date: 2024-11-19 09:38+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -239,35 +239,35 @@ msgstr ""
 #: ../../source/user_guide/function.md:61
 #: ../../source/user_guide/function.md:115
 #: ../../source/user_guide/function.md:143 45fde746c7a44e8ab20a563ce2939e06
-#: 5f67397b91be4477936a631058594b6e d4447772b73143d0aa4eedbbccc65c10
+#: d4447772b73143d0aa4eedbbccc65c10
 msgid "Display the channel image"
 msgstr "显示该通道图像"
 
 #: ../../source/user_guide/function.md:62
 #: ../../source/user_guide/function.md:116
-#: ../../source/user_guide/function.md:144 3d535ca2565844f4af25916d1b88dd2c
-#: 47e2e1a89c634bbab571f29a3d3f2ee8 739f1f126a74412ba28d3ef0b3cf73e8
+#: ../../source/user_guide/function.md:144 47e2e1a89c634bbab571f29a3d3f2ee8
+#: 739f1f126a74412ba28d3ef0b3cf73e8
 msgid "Brightness adjustment"
 msgstr "亮度调节"
 
 #: ../../source/user_guide/function.md:63
 #: ../../source/user_guide/function.md:117
 #: ../../source/user_guide/function.md:145 852252459ac24d3da7ef89a2e6e2435e
-#: c24dc83d78c64b969d0d6a24138825b2 d06d71b00e814e05af8b9ba540d7f34a
+#: c24dc83d78c64b969d0d6a24138825b2
 msgid "Contrast adjustment"
 msgstr "对比度调节"
 
 #: ../../source/user_guide/function.md:64
 #: ../../source/user_guide/function.md:118
-#: ../../source/user_guide/function.md:146 3c194e22ba7d4135892a407853d463d4
-#: ec4fc72198f64b1cac73de2fc5a9da69 eeb02e44c6914764b1989ba72e804684
+#: ../../source/user_guide/function.md:146 ec4fc72198f64b1cac73de2fc5a9da69
+#: eeb02e44c6914764b1989ba72e804684
 msgid "Reduce background to the left and increase brightness to the right"
 msgstr "向左减少背景，向右增加亮度"
 
 #: ../../source/user_guide/function.md:65
 #: ../../source/user_guide/function.md:119
 #: ../../source/user_guide/function.md:147 02fbea6440974dad9baf325046360792
-#: 0802a817af1d438e991a34746e854f75 685dd096f5334f9ba183997a932de0c7
+#: 0802a817af1d438e991a34746e854f75
 msgid "Pseudo color selection"
 msgstr "伪彩选择"
 
@@ -409,6 +409,17 @@ msgid ""
 "the larger the closed cavity, and vice versa."
 msgstr "最大空洞：封闭的空洞的最大面积。数值越大，封闭的空洞越大，反之则相反。"
 
+#: ../../source/user_guide/function.md:110 1dd4dc2133e84b55a04ea4ef183addb6
+msgid "Similar to 2."
+msgstr "与2类似。"
+
+#: ../../source/user_guide/function.md:111 5ee4fe7987b048ff9ad7832afe1b2597
+msgid ""
+"Domain block size: The dynamic segmentation block size of the domain. The"
+" smaller the neighborhood block, the easier it is to be sensitive to "
+"small objects and recognize local small objects."
+msgstr "领域块大小：领域动态分割块大小。邻域块越小，越容易对小物体敏感，识别出局部的小物体。"
+
 #: ../../source/user_guide/function.md:112 1dd4dc2133e84b55a04ea4ef183addb6
 msgid "Similar to 3."
 msgstr "与3类似。"
@@ -422,20 +433,17 @@ msgid "Similar to 5."
 msgstr "与5类似。"
 
 #: ../../source/user_guide/function.md:120
-#: ../../source/user_guide/function.md:148 006b94c2a8ab4da5b317a2ee9aa04b18
-#: 7f52eae263154fc0b0c0b8c7751c9b7c
+#: ../../source/user_guide/function.md:148 7f52eae263154fc0b0c0b8c7751c9b7c
 msgid "Display and hide the mask of a certain channel"
 msgstr "显示与隐藏某个通道的遮罩"
 
 #: ../../source/user_guide/function.md:121
-#: ../../source/user_guide/function.md:149 41e15223ca1d44c6a67166a049f5990a
-#: e2760c04b9a3442d83508899035a2d41
+#: ../../source/user_guide/function.md:149 e2760c04b9a3442d83508899035a2d41
 msgid "Adjust the color and width of the edge lines of the mask"
 msgstr "调节遮罩边缘线条的颜色与宽度"
 
 #: ../../source/user_guide/function.md:122
 #: ../../source/user_guide/function.md:150 7dd51a3af57e419480748db92a27d498
-#: d2c166afb16f41c282af32070a9cad54
 msgid "Adjust the color and opacity of the filled area"
 msgstr "调节填充区域的颜色与不透明度"
 
@@ -531,7 +539,6 @@ msgstr ""
 
 #: ../../source/user_guide/function.md:187
 #: ../../source/user_guide/function.md:253 45860365da4d4e178c6b34c4570fea82
-#: b92a714b5ca1499eac43509062254853
 msgid ""
 "Similar to the function of viewing image pages in a single shooting "
 "process."
@@ -828,3 +835,4 @@ msgstr "分析进度"
 #: ../../source/user_guide/function.md:292 b4323cd09bef47a7ba341d6fcde4af79
 msgid "Stop analysis"
 msgstr "停止分析"
+
