@@ -69,12 +69,20 @@ View the captured image and adjust the image effect.
 9. Image deconvolution to improve image resolution and signal-to-noise ratio
 
 ![](../_static/images/view_2.png)
+
 ![](../_static/images/view_3.png)
+
 1. Multi view display
 2. Bright field image
 3. Green fluorescence image
 4. Image obtained by superimposing bright field and green fluorescence
+
 ![](../_static/images/export.png)
+
+1. Image/video export
+2. Select the image to be exported
+3. Export image files
+4. Export video files
 
 ### Choose Experiment
 Select an analysis module
@@ -291,6 +299,11 @@ Detailed information of the analysis task
 4. Analysis progress
 5. Stop analysis
 
+## other
 
+### user manual
+By right clicking on the title bar and clicking on Help, you can open the user manual, which provides detailed instructions on how to use the software.
 
+![](../_static/images/manual.png)
 
+![](../_static/images/help.png)

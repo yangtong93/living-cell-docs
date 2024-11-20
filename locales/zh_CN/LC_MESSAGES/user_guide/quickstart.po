@@ -193,7 +193,7 @@ msgstr "离线"
 
 #: ../../source/user_guide/quickstart.md:60 9d96bd0cb1c04172b87ff8ed4628afb4
 msgid "Click **Export** to export a file"
-msgstr ""
+msgstr "点击导出一个文件"
 
 #: ../../source/user_guide/quickstart.md:61 ae8acd990fa444beb0d1b167e4fff774
 msgid ""

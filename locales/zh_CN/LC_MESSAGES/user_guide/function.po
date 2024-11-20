@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-19 09:38+0800\n"
+"POT-Creation-Date: 2024-11-20 11:49+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -39,7 +39,7 @@ msgid "![](../_static/images/single_main.png)"
 msgstr ""
 
 #: ../../source/user_guide/function.md:9
-#: ../../source/user_guide/function.md:181 34f2c10cdf2343c1bbf04eb8bd21de7c
+#: ../../source/user_guide/function.md:189 34f2c10cdf2343c1bbf04eb8bd21de7c
 msgid "Preview"
 msgstr "实时预览"
 
@@ -55,13 +55,13 @@ msgid "![](../_static/images/preview.png)"
 msgstr ""
 
 #: ../../source/user_guide/function.md:13
-#: ../../source/user_guide/function.md:244 06041067990d40cb8b8b822897fd6a22
+#: ../../source/user_guide/function.md:252 06041067990d40cb8b8b822897fd6a22
 #: e24b62578fde4c3fa4d3153465a2ee5d
 msgid "Previous step"
 msgstr "上一步"
 
 #: ../../source/user_guide/function.md:14
-#: ../../source/user_guide/function.md:245 7360c7a6d74f4d0f866cababd32243b8
+#: ../../source/user_guide/function.md:253 7360c7a6d74f4d0f866cababd32243b8
 #: ddd905dab0e94088aaecab31a4b82b94
 msgid "Next step"
 msgstr "下一步"
@@ -86,7 +86,7 @@ msgstr "光源通道切换"
 
 #: ../../source/user_guide/function.md:19
 #: ../../source/user_guide/function.md:56
-#: ../../source/user_guide/function.md:97 1aedbe2cc7f94cbfb0729a2baa576b4c
+#: ../../source/user_guide/function.md:105 1aedbe2cc7f94cbfb0729a2baa576b4c
 #: 393668486275403eaf5ac9f917b3a32c ea58af019d854990ace0e86c28349936
 msgid "Full screen display"
 msgstr "全屏显示"
@@ -187,8 +187,8 @@ msgid "Run ZStack to shoot"
 msgstr "运行ZStack拍摄"
 
 #: ../../source/user_guide/function.md:46
-#: ../../source/user_guide/function.md:186
-#: ../../source/user_guide/function.md:252 467cc11a3fb5433eb31fefcbce83c392
+#: ../../source/user_guide/function.md:194
+#: ../../source/user_guide/function.md:260 467cc11a3fb5433eb31fefcbce83c392
 msgid "View Image"
 msgstr "查看图像"
 
@@ -201,7 +201,7 @@ msgid "![](../_static/images/view.png)"
 msgstr ""
 
 #: ../../source/user_guide/function.md:52
-#: ../../source/user_guide/function.md:95 a7806dd184e343988eb40a4c1bba6c38
+#: ../../source/user_guide/function.md:103 a7806dd184e343988eb40a4c1bba6c38
 #: cbdc1e82b0374acab815b427771360e1
 msgid "Adjustment of image effects for each channel"
 msgstr "每个通道的图像效果调节"
@@ -215,19 +215,19 @@ msgid "Export image files/videos"
 msgstr "导出图像文件/视频"
 
 #: ../../source/user_guide/function.md:55
-#: ../../source/user_guide/function.md:73 01e5401721854f2c8ac1738a3c9a0ec2
+#: ../../source/user_guide/function.md:75 01e5401721854f2c8ac1738a3c9a0ec2
 #: 1815489909bc41b794c2c141e6e0cd27
 msgid "Multi view display"
 msgstr "多视图显示"
 
 #: ../../source/user_guide/function.md:57
-#: ../../source/user_guide/function.md:98 316440a6bc3749bbabe2e54c8a1a97b6
+#: ../../source/user_guide/function.md:106 316440a6bc3749bbabe2e54c8a1a97b6
 #: 8230cecc7a004e3bae35c6bfe092e935
 msgid "Scale bar"
 msgstr "比例尺"
 
 #: ../../source/user_guide/function.md:58
-#: ../../source/user_guide/function.md:99 316440a6bc3749bbabe2e54c8a1a97b6
+#: ../../source/user_guide/function.md:107 316440a6bc3749bbabe2e54c8a1a97b6
 #: 984d131365aa47fd86bf0494cc9212a4
 msgid "Scale units"
 msgstr "比例尺单位"
@@ -237,36 +237,36 @@ msgid "![](../_static/images/view_1.png)"
 msgstr ""
 
 #: ../../source/user_guide/function.md:61
-#: ../../source/user_guide/function.md:115
-#: ../../source/user_guide/function.md:143 45fde746c7a44e8ab20a563ce2939e06
+#: ../../source/user_guide/function.md:123
+#: ../../source/user_guide/function.md:151 45fde746c7a44e8ab20a563ce2939e06
 #: d4447772b73143d0aa4eedbbccc65c10
 msgid "Display the channel image"
 msgstr "显示该通道图像"
 
 #: ../../source/user_guide/function.md:62
-#: ../../source/user_guide/function.md:116
-#: ../../source/user_guide/function.md:144 47e2e1a89c634bbab571f29a3d3f2ee8
+#: ../../source/user_guide/function.md:124
+#: ../../source/user_guide/function.md:152 47e2e1a89c634bbab571f29a3d3f2ee8
 #: 739f1f126a74412ba28d3ef0b3cf73e8
 msgid "Brightness adjustment"
 msgstr "亮度调节"
 
 #: ../../source/user_guide/function.md:63
-#: ../../source/user_guide/function.md:117
-#: ../../source/user_guide/function.md:145 852252459ac24d3da7ef89a2e6e2435e
+#: ../../source/user_guide/function.md:125
+#: ../../source/user_guide/function.md:153 852252459ac24d3da7ef89a2e6e2435e
 #: c24dc83d78c64b969d0d6a24138825b2
 msgid "Contrast adjustment"
 msgstr "对比度调节"
 
 #: ../../source/user_guide/function.md:64
-#: ../../source/user_guide/function.md:118
-#: ../../source/user_guide/function.md:146 ec4fc72198f64b1cac73de2fc5a9da69
+#: ../../source/user_guide/function.md:126
+#: ../../source/user_guide/function.md:154 ec4fc72198f64b1cac73de2fc5a9da69
 #: eeb02e44c6914764b1989ba72e804684
 msgid "Reduce background to the left and increase brightness to the right"
 msgstr "向左减少背景，向右增加亮度"
 
 #: ../../source/user_guide/function.md:65
-#: ../../source/user_guide/function.md:119
-#: ../../source/user_guide/function.md:147 02fbea6440974dad9baf325046360792
+#: ../../source/user_guide/function.md:127
+#: ../../source/user_guide/function.md:155 02fbea6440974dad9baf325046360792
 #: 0802a817af1d438e991a34746e854f75
 msgid "Pseudo color selection"
 msgstr "伪彩选择"
@@ -287,38 +287,60 @@ msgstr "图像锐化，增强图像的边缘，使图像变得清晰"
 msgid "Image deconvolution to improve image resolution and signal-to-noise ratio"
 msgstr "图像反卷积，提高图像的分辨率与信噪比"
 
-#: ../../source/user_guide/function.md:71 ba639f65ec6c43e987ff8e0c84ae5886
-msgid "![](../_static/images/view_2.png) ![](../_static/images/view_3.png)"
+#: ../../source/user_guide/function.md:71 40adcd79f94e4fee873743820011b85b
+msgid "![](../_static/images/view_2.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:74 56a64cff988e497caa2ec70cf3963e01
+#: ../../source/user_guide/function.md:73 40adcd79f94e4fee873743820011b85b
+msgid "![](../_static/images/view_3.png)"
+msgstr ""
+
+#: ../../source/user_guide/function.md:76 56a64cff988e497caa2ec70cf3963e01
 msgid "Bright field image"
 msgstr "明场图像"
 
-#: ../../source/user_guide/function.md:75 9041f4dc1a8f4360bcbbf30b922aa127
+#: ../../source/user_guide/function.md:77 9041f4dc1a8f4360bcbbf30b922aa127
 msgid "Green fluorescence image"
 msgstr "绿色荧光图像"
 
-#: ../../source/user_guide/function.md:76 ba639f65ec6c43e987ff8e0c84ae5886
-msgid ""
-"Image obtained by superimposing bright field and green fluorescence "
-"![](../_static/images/export.png)"
-msgstr "明场和绿色荧光叠加后的图像"
+#: ../../source/user_guide/function.md:78 ba639f65ec6c43e987ff8e0c84ae5886
+msgid "Image obtained by superimposing bright field and green fluorescence"
+msgstr "明场和绿色荧光通道图像叠加后的图像"
 
-#: ../../source/user_guide/function.md:79
-#: ../../source/user_guide/function.md:259 d0ec65020245466dac8849030ea4b48f
+#: ../../source/user_guide/function.md:80 e27ebce0ad39405d93444805b7c07440
+msgid "![](../_static/images/export.png)"
+msgstr ""
+
+#: ../../source/user_guide/function.md:82 346af92fc091472395e916cf4103699b
+msgid "Image/video export"
+msgstr "图像/视频导出"
+
+#: ../../source/user_guide/function.md:83 d89ffa100b6c4effbcb69ab39dd2ceea
+msgid "Select the image to be exported"
+msgstr "选择需要导出的图像"
+
+#: ../../source/user_guide/function.md:84 075e0dc297e94ddfb0a26fc4bc3c040c
+msgid "Export image files"
+msgstr "导出图像文件"
+
+#: ../../source/user_guide/function.md:85 06c9c9d1bfd0480b8920c14fcb57fdf1
+msgid "Export video files"
+msgstr "导出视频文件"
+
+#: ../../source/user_guide/function.md:87
+#: ../../source/user_guide/function.md:267 d0ec65020245466dac8849030ea4b48f
 msgid "Choose Experiment"
 msgstr "选择实验"
 
-#: ../../source/user_guide/function.md:80 e27ebce0ad39405d93444805b7c07440
+#: ../../source/user_guide/function.md:88 e27ebce0ad39405d93444805b7c07440
 msgid "Select an analysis module"
 msgstr "选择一个分析模块"
 
-#: ../../source/user_guide/function.md:82 e27ebce0ad39405d93444805b7c07440
+#: ../../source/user_guide/function.md:90 e27ebce0ad39405d93444805b7c07440
 msgid "![](../_static/images/choose.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:84 db015a7f38334e30b947688eea196929
+#: ../../source/user_guide/function.md:92 db015a7f38334e30b947688eea196929
 msgid ""
 "Basic cell analysis, using traditional methods to analyze images from "
 "different channels, displaying cell masks and related indicator data such"
@@ -326,14 +348,14 @@ msgid ""
 "perimeter, and other indicator information."
 msgstr "基础细胞分析，采用传统方法，分析不同通道的图像，显示细胞遮罩，相关的指标数据，比如汇合度，细胞个数，荧光强度，面积，周长等指标信息。"
 
-#: ../../source/user_guide/function.md:85 1e32efee80e04092bef8d4b93c9ea01c
+#: ../../source/user_guide/function.md:93 1e32efee80e04092bef8d4b93c9ea01c
 msgid ""
 "Scratch analysis, analyzing the scratch areas of different channels, "
 "displaying the scratch areas and related indicator data, such as scratch "
 "width, cure rate, and other indicator information."
 msgstr "划痕分析，分析不同通道的划痕区域，显示出划痕区域，相关的指标数据，比如划痕宽度，治愈率等指标信息。"
 
-#: ../../source/user_guide/function.md:86 1578d5214b564d73a5c85c999977ff47
+#: ../../source/user_guide/function.md:94 1578d5214b564d73a5c85c999977ff47
 msgid ""
 "Advanced cell analysis, using AI deep learning methods to analyze images "
 "from different channels, display cell masks, and related indicator data "
@@ -341,40 +363,40 @@ msgid ""
 " perimeter, and other indicator information."
 msgstr "高级细胞分析，采用AI深度学习方法，分析不同通道的图像，显示细胞遮罩，相关的指标数据，比如汇合度，细胞个数，荧光强度，面积，周长等指标信息。"
 
-#: ../../source/user_guide/function.md:88
-#: ../../source/user_guide/function.md:264 b4323cd09bef47a7ba341d6fcde4af79
+#: ../../source/user_guide/function.md:96
+#: ../../source/user_guide/function.md:272 b4323cd09bef47a7ba341d6fcde4af79
 msgid "Image Analysis"
 msgstr "图像分析"
 
-#: ../../source/user_guide/function.md:90 bec844df21c746b7bac2ba669af3c18a
+#: ../../source/user_guide/function.md:98 bec844df21c746b7bac2ba669af3c18a
 msgid "Basic cell analysis"
 msgstr "基础细胞分析"
 
-#: ../../source/user_guide/function.md:92 3adccd44b0f4402ab7aec5e7b5f9ad49
+#: ../../source/user_guide/function.md:100 3adccd44b0f4402ab7aec5e7b5f9ad49
 msgid "![](../_static/images/analysis.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:94 1338df79936e46ff89966c557c3b33b1
+#: ../../source/user_guide/function.md:102 1338df79936e46ff89966c557c3b33b1
 msgid "Adjustment of analysis parameters for each channel"
 msgstr "每个通道的分析参数调节"
 
-#: ../../source/user_guide/function.md:96 d0ec65020245466dac8849030ea4b48f
+#: ../../source/user_guide/function.md:104 d0ec65020245466dac8849030ea4b48f
 msgid "Mask adjustment"
 msgstr "遮罩效果调节"
 
-#: ../../source/user_guide/function.md:100 e230670d27724d35ab60841f91a9c0eb
+#: ../../source/user_guide/function.md:108 e230670d27724d35ab60841f91a9c0eb
 msgid "Analysis of areas of interest"
 msgstr "感兴趣区域分析"
 
-#: ../../source/user_guide/function.md:101 4379158f59514f7c9ae40203f3213c64
+#: ../../source/user_guide/function.md:109 4379158f59514f7c9ae40203f3213c64
 msgid "Analyze the current image"
 msgstr "分析当前图像"
 
-#: ../../source/user_guide/function.md:103 027fc72e07c34aef934381a588665d08
+#: ../../source/user_guide/function.md:111 027fc72e07c34aef934381a588665d08
 msgid "![](../_static/images/analysis_1.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:105 3d40f315221f4c9dbdfe88b70b6b17f1
+#: ../../source/user_guide/function.md:113 3d40f315221f4c9dbdfe88b70b6b17f1
 msgid ""
 "Bandwidth: Detail retention. The smaller the l-value, the easier it is to"
 " preserve large objects (such as uniform plaque contamination in the "
@@ -383,456 +405,482 @@ msgid ""
 "selecting the middle value"
 msgstr "带宽：细节保留度。左值越小，越容易保留大物体（如图象中均匀的斑块污染）；右值越大，越容易保留小物体（如设备产生的随机高斯噪声）；建议选取中间值"
 
-#: ../../source/user_guide/function.md:106 10508cbe744a45cf9e55908b73010b04
+#: ../../source/user_guide/function.md:114 10508cbe744a45cf9e55908b73010b04
 msgid ""
 "Threshold: Signal threshold. The smaller the value, the easier it is to "
 "preserve image details, and vice versa."
 msgstr "阈值：信号阈值。数值越小，越容易保留图像细节，反之则相反。"
 
-#: ../../source/user_guide/function.md:107 0bc2bb472c344de2a443d2600f673359
+#: ../../source/user_guide/function.md:115 0bc2bb472c344de2a443d2600f673359
 msgid ""
 "Eccentricity: Eccentricity screening threshold. The smaller the value, "
 "the greater the filtering effect on long or irregular objects, and vice "
 "versa."
 msgstr "偏心率：偏心率筛选阈值。数值越小，对长条形或不规则形的物体过滤程度更大，反之则相反。"
 
-#: ../../source/user_guide/function.md:108 afb7a60de3394b4fbe615741e543ea70
+#: ../../source/user_guide/function.md:116 afb7a60de3394b4fbe615741e543ea70
 msgid ""
 "Minimum area: The minimum area of the retained mask. The smaller the "
 "value, the easier it is to retain small areas of cells (and also more "
 "likely to introduce noise), and vice versa."
 msgstr "最小面积：保留的遮罩的最小面积。数值越小，越容易保留小面积的细胞（同时也更容易引入噪声），反之则相反。"
 
-#: ../../source/user_guide/function.md:109 cfdda2de172a4569b2866e728bb3052b
+#: ../../source/user_guide/function.md:117 cfdda2de172a4569b2866e728bb3052b
 msgid ""
 "Maximum Void: The maximum area of a closed void. The larger the value, "
 "the larger the closed cavity, and vice versa."
 msgstr "最大空洞：封闭的空洞的最大面积。数值越大，封闭的空洞越大，反之则相反。"
 
-#: ../../source/user_guide/function.md:110 1dd4dc2133e84b55a04ea4ef183addb6
+#: ../../source/user_guide/function.md:118 1dd4dc2133e84b55a04ea4ef183addb6
 msgid "Similar to 2."
 msgstr "与2类似。"
 
-#: ../../source/user_guide/function.md:111 5ee4fe7987b048ff9ad7832afe1b2597
+#: ../../source/user_guide/function.md:119 5ee4fe7987b048ff9ad7832afe1b2597
 msgid ""
 "Domain block size: The dynamic segmentation block size of the domain. The"
 " smaller the neighborhood block, the easier it is to be sensitive to "
 "small objects and recognize local small objects."
 msgstr "领域块大小：领域动态分割块大小。邻域块越小，越容易对小物体敏感，识别出局部的小物体。"
 
-#: ../../source/user_guide/function.md:112 1dd4dc2133e84b55a04ea4ef183addb6
+#: ../../source/user_guide/function.md:120 1dd4dc2133e84b55a04ea4ef183addb6
 msgid "Similar to 3."
 msgstr "与3类似。"
 
-#: ../../source/user_guide/function.md:113 1f3de4fd7ce3460cb57e7f0785f1d67d
+#: ../../source/user_guide/function.md:121 1f3de4fd7ce3460cb57e7f0785f1d67d
 msgid "Similar to 4."
 msgstr "与4类似。"
 
-#: ../../source/user_guide/function.md:114 8443f87cbe6740e5b909ddc846daef39
+#: ../../source/user_guide/function.md:122 8443f87cbe6740e5b909ddc846daef39
 msgid "Similar to 5."
 msgstr "与5类似。"
 
-#: ../../source/user_guide/function.md:120
-#: ../../source/user_guide/function.md:148 7f52eae263154fc0b0c0b8c7751c9b7c
+#: ../../source/user_guide/function.md:128
+#: ../../source/user_guide/function.md:156 7f52eae263154fc0b0c0b8c7751c9b7c
 msgid "Display and hide the mask of a certain channel"
 msgstr "显示与隐藏某个通道的遮罩"
 
-#: ../../source/user_guide/function.md:121
-#: ../../source/user_guide/function.md:149 e2760c04b9a3442d83508899035a2d41
+#: ../../source/user_guide/function.md:129
+#: ../../source/user_guide/function.md:157 e2760c04b9a3442d83508899035a2d41
 msgid "Adjust the color and width of the edge lines of the mask"
 msgstr "调节遮罩边缘线条的颜色与宽度"
 
-#: ../../source/user_guide/function.md:122
-#: ../../source/user_guide/function.md:150 7dd51a3af57e419480748db92a27d498
+#: ../../source/user_guide/function.md:130
+#: ../../source/user_guide/function.md:158 7dd51a3af57e419480748db92a27d498
 msgid "Adjust the color and opacity of the filled area"
 msgstr "调节填充区域的颜色与不透明度"
 
-#: ../../source/user_guide/function.md:124
-#: ../../source/user_guide/function.md:152
-#: ../../source/user_guide/function.md:164 c0510d6ca87946b28405dc9735331b5c
+#: ../../source/user_guide/function.md:132
+#: ../../source/user_guide/function.md:160
+#: ../../source/user_guide/function.md:172 c0510d6ca87946b28405dc9735331b5c
 msgid "Demonstration of bright channel analysis results:"
 msgstr "明场相差通道分析结果演示："
 
-#: ../../source/user_guide/function.md:126 027fc72e07c34aef934381a588665d08
+#: ../../source/user_guide/function.md:134 027fc72e07c34aef934381a588665d08
 msgid "![](../_static/images/analysis_3.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:128
-#: ../../source/user_guide/function.md:156
-#: ../../source/user_guide/function.md:168 e71ae9bfc3af42218b9d6cfd42f18955
+#: ../../source/user_guide/function.md:136
+#: ../../source/user_guide/function.md:164
+#: ../../source/user_guide/function.md:176 e71ae9bfc3af42218b9d6cfd42f18955
 msgid "Demonstration of green fluorescence channel analysis results:"
 msgstr "绿色荧光通道分析结果演示："
 
-#: ../../source/user_guide/function.md:130 027fc72e07c34aef934381a588665d08
+#: ../../source/user_guide/function.md:138 027fc72e07c34aef934381a588665d08
 msgid "![](../_static/images/analysis_2.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:136 b4323cd09bef47a7ba341d6fcde4af79
+#: ../../source/user_guide/function.md:144 b4323cd09bef47a7ba341d6fcde4af79
 msgid "Scratch analysis"
 msgstr "划痕分析"
 
-#: ../../source/user_guide/function.md:138 d441083cacb04f208476e0b6d0335ed2
+#: ../../source/user_guide/function.md:146 d441083cacb04f208476e0b6d0335ed2
 msgid "![](../_static/images/analysis_4.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:141 b90febfa388a40c2a33ce3bd3535f7f4
+#: ../../source/user_guide/function.md:149 b90febfa388a40c2a33ce3bd3535f7f4
 msgid ""
 "Smoothness: The smaller the size, the smaller the recognition area, and "
 "vice versa."
 msgstr "平滑度：越小识别区域越小，反之相反。"
 
-#: ../../source/user_guide/function.md:142 3ebadae472a8480196e598d0d18a0272
+#: ../../source/user_guide/function.md:150 3ebadae472a8480196e598d0d18a0272
 msgid ""
 "Boundary adhesion: The smaller the size, the larger the recognition area,"
 " and vice versa."
 msgstr "边界粘连度：越小识别区域越大，反之相反。"
 
-#: ../../source/user_guide/function.md:154 d441083cacb04f208476e0b6d0335ed2
+#: ../../source/user_guide/function.md:162 d441083cacb04f208476e0b6d0335ed2
 msgid "![](../_static/images/analysis_5.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:158 3bedd6d1609d47a88ca33080039b8522
+#: ../../source/user_guide/function.md:166 3bedd6d1609d47a88ca33080039b8522
 msgid "![](../_static/images/analysis_6.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:161 45a53dcd6ca143efaa57ac2391c2b851
+#: ../../source/user_guide/function.md:169 45a53dcd6ca143efaa57ac2391c2b851
 msgid "Advanced cell analysis"
 msgstr "高级细胞分析"
 
-#: ../../source/user_guide/function.md:162 2aecd1d97971478eafc25aab354511da
+#: ../../source/user_guide/function.md:170 2aecd1d97971478eafc25aab354511da
 msgid ""
 "Similar to basic cell interfaces and operations, the advantage is higher "
 "accuracy."
 msgstr "与基础细胞分析的界面和操作一致，优点是更高的准确度。"
 
-#: ../../source/user_guide/function.md:166 83daffe9a4d24494918f8b8ed50296cc
+#: ../../source/user_guide/function.md:174 83daffe9a4d24494918f8b8ed50296cc
 msgid "![](../_static/images/analysis_7.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:170 83daffe9a4d24494918f8b8ed50296cc
+#: ../../source/user_guide/function.md:178 83daffe9a4d24494918f8b8ed50296cc
 msgid "![](../_static/images/analysis_8.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:173 dadaab9540e24057a7125c9d94188cee
+#: ../../source/user_guide/function.md:181 dadaab9540e24057a7125c9d94188cee
 msgid "Time series shooting"
 msgstr "时间序列拍摄"
 
-#: ../../source/user_guide/function.md:174 b343801b975346588a0d67fb3701045a
+#: ../../source/user_guide/function.md:182 b343801b975346588a0d67fb3701045a
 msgid "Start the time series shooting task according to the settings."
 msgstr "开始时间序列拍摄任务设置"
 
-#: ../../source/user_guide/function.md:177 278aa0c24ae743ab9044b589dae1aec0
+#: ../../source/user_guide/function.md:185 278aa0c24ae743ab9044b589dae1aec0
 msgid "![](../_static/images/time_shot.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:179 af51355fed6e484f8903f737b8fa1e86
+#: ../../source/user_guide/function.md:187 af51355fed6e484f8903f737b8fa1e86
 msgid "Click to enter the time series shooting task creation process"
 msgstr "点击进入时间序列拍摄任务的创建流程"
 
-#: ../../source/user_guide/function.md:182 bf9bdb6cd2914d708d4975f5a58d2f9d
+#: ../../source/user_guide/function.md:190 bf9bdb6cd2914d708d4975f5a58d2f9d
 msgid "Similar to the real-time preview page in a single shooting process."
 msgstr "与单次拍摄的实时预览界面操作类似。"
 
-#: ../../source/user_guide/function.md:184 dc56b24b28084ca4b1fa621362beacbf
+#: ../../source/user_guide/function.md:192 dc56b24b28084ca4b1fa621362beacbf
 msgid "![](../_static/images/time_preview.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:187
-#: ../../source/user_guide/function.md:253 45860365da4d4e178c6b34c4570fea82
+#: ../../source/user_guide/function.md:195
+#: ../../source/user_guide/function.md:261 45860365da4d4e178c6b34c4570fea82
 msgid ""
 "Similar to the function of viewing image pages in a single shooting "
 "process."
 msgstr "与单次拍摄的查看图像界面操作类似。"
 
-#: ../../source/user_guide/function.md:189 2ee945d7fac54a28a8a61ba55ddc0ca1
+#: ../../source/user_guide/function.md:197 2ee945d7fac54a28a8a61ba55ddc0ca1
 msgid "![](../_static/images/time_view.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:191 06c9c9d1bfd0480b8920c14fcb57fdf1
+#: ../../source/user_guide/function.md:199 06c9c9d1bfd0480b8920c14fcb57fdf1
 msgid "Experiment setup"
 msgstr "实验设置"
 
-#: ../../source/user_guide/function.md:192 5a286a1de81d4dc8a4abcebf76145046
+#: ../../source/user_guide/function.md:200 5a286a1de81d4dc8a4abcebf76145046
 msgid "Set the shooting method of the experimental equipment."
 msgstr "设置实验设备的拍摄方式"
 
-#: ../../source/user_guide/function.md:194 2509da3cf5a848d880f0fcbf02503aa9
+#: ../../source/user_guide/function.md:202 2509da3cf5a848d880f0fcbf02503aa9
 msgid "![](../_static/images/time_setup.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:196 361e3afa5f514e5f9137bd7946075285
+#: ../../source/user_guide/function.md:204 361e3afa5f514e5f9137bd7946075285
 msgid "The experiment name is also the name of the experimental file"
 msgstr "实验名称，也是实验文件的名称"
 
-#: ../../source/user_guide/function.md:197 fd33f4d1246e49fbb28a8a0b49aacd32
+#: ../../source/user_guide/function.md:205 fd33f4d1246e49fbb28a8a0b49aacd32
 msgid ""
 "Channel selection for shooting, supports up to 4 channels for "
 "simultaneous shooting, multiple choices."
 msgstr "拍摄通道选择，最多可支持同时拍摄4个通道，多选。"
 
-#: ../../source/user_guide/function.md:198 4001687485c443898817c79d9e018ab0
+#: ../../source/user_guide/function.md:206 4001687485c443898817c79d9e018ab0
 msgid "Objective lens selection, single choice."
 msgstr "物镜选择，单选"
 
-#: ../../source/user_guide/function.md:199 3a576d25c2594ce2bfe518574501b141
+#: ../../source/user_guide/function.md:207 3a576d25c2594ce2bfe518574501b141
 msgid "Whether to enable autofocus"
 msgstr "是否启用自动对焦"
 
-#: ../../source/user_guide/function.md:200 cda6292fa3b14ea5a903e18d9c0c22fe
+#: ../../source/user_guide/function.md:208 cda6292fa3b14ea5a903e18d9c0c22fe
 msgid ""
 "Enable ZStack and select one of the depth of field extension methods to "
 "merge multiple images into one image."
 msgstr "是否启用ZStack，选择其中一种景深扩展方法，用于将多个图像融合成一张图像。"
 
-#: ../../source/user_guide/function.md:201 928a3c34848241359fb87c097e09cf39
+#: ../../source/user_guide/function.md:209 928a3c34848241359fb87c097e09cf39
 msgid "Remarks: Some information can be recorded."
 msgstr "备注：可记录一些信息。"
 
-#: ../../source/user_guide/function.md:202 83143017248344fe86920b386e47f662
+#: ../../source/user_guide/function.md:210 83143017248344fe86920b386e47f662
 msgid "Select the analysis module, single choice."
 msgstr "选择一个分析模块，可单选，可以不选"
 
-#: ../../source/user_guide/function.md:203 b7953c2ac89d476a8d417f9a1c3ad0cd
+#: ../../source/user_guide/function.md:211 b7953c2ac89d476a8d417f9a1c3ad0cd
 msgid ""
 "Warning reminder: Convergence degree and scratch healing rate warning can"
 " be selected. If the set value is exceeded, warning information will be "
 "displayed in the form of a dialog box."
 msgstr "警告提醒：可选择汇合度，划痕治愈率预警，超过设定值将会有预警信息以对话框的形式显示。"
 
-#: ../../source/user_guide/function.md:204 18d9b9b2e63d4a74905c06f73c9c13fa
+#: ../../source/user_guide/function.md:212 18d9b9b2e63d4a74905c06f73c9c13fa
 msgid "Warning reminder method, supports sending email messages to your mailbox."
 msgstr "警告的提醒方式，支持发送邮件消息至您的邮箱。"
 
-#: ../../source/user_guide/function.md:205 4f7645aa1d694f4083cd81a062766db4
+#: ../../source/user_guide/function.md:213 4f7645aa1d694f4083cd81a062766db4
 msgid "Send a test email to your email."
 msgstr "发送一份测试邮件至您的邮箱。"
 
-#: ../../source/user_guide/function.md:207 4f96215a6a414fe8ae77835baac265bf
+#: ../../source/user_guide/function.md:215 4f96215a6a414fe8ae77835baac265bf
 msgid "Experiment schedule"
 msgstr "实验安排"
 
-#: ../../source/user_guide/function.md:208 261fd4124fb84055b77ea8cb785eca0e
+#: ../../source/user_guide/function.md:216 261fd4124fb84055b77ea8cb785eca0e
 msgid "Set the time period for the experiment."
 msgstr "设置实验的拍摄周期。"
 
-#: ../../source/user_guide/function.md:210 f8836195bab748a583725675c459bccb
+#: ../../source/user_guide/function.md:218 f8836195bab748a583725675c459bccb
 msgid "![](../_static/images/time_schedule.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:212 370f768651164efe9eb75edc4b31011d
+#: ../../source/user_guide/function.md:220 370f768651164efe9eb75edc4b31011d
 msgid ""
 "According to the total duration: Calculate the number of shots based on "
 "the set total duration and interval, and start the shooting task at the "
 "start time."
 msgstr "按照总时长：根据设置的总时长和间隔，计算拍摄数量，在开始时间进行拍摄任务。"
 
-#: ../../source/user_guide/function.md:213 fa6c63623ac44d089d5da4d02ca6d589
+#: ../../source/user_guide/function.md:221 fa6c63623ac44d089d5da4d02ca6d589
 msgid ""
 "According to the time interval: Based on the number of shots and the "
 "interval, the shooting task is carried out at the starting time."
 msgstr "按照时间间隔：根据拍摄数量和间隔，在开始时间进行拍摄任务。"
 
-#: ../../source/user_guide/function.md:215 5cc28dc0624c412184f0f58e65dd7d5e
+#: ../../source/user_guide/function.md:223 5cc28dc0624c412184f0f58e65dd7d5e
 msgid "Experiment running"
 msgstr "实验运行"
 
-#: ../../source/user_guide/function.md:217 65d2c07bfd5b431e90e8d90390c17221
+#: ../../source/user_guide/function.md:225 65d2c07bfd5b431e90e8d90390c17221
 msgid "View the intermediate states during the experimental operation."
 msgstr "查看实验运行过程中的状态信息。"
 
-#: ../../source/user_guide/function.md:219 1a45cdcf04b04a5fb36e7861eeb3daf5
+#: ../../source/user_guide/function.md:227 1a45cdcf04b04a5fb36e7861eeb3daf5
 msgid "![](../_static/images/time_run.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:221 075e0dc297e94ddfb0a26fc4bc3c040c
+#: ../../source/user_guide/function.md:229 075e0dc297e94ddfb0a26fc4bc3c040c
 msgid "Experimental progress"
 msgstr "实验进度"
 
-#: ../../source/user_guide/function.md:222 d0ec65020245466dac8849030ea4b48f
+#: ../../source/user_guide/function.md:230 d0ec65020245466dac8849030ea4b48f
 msgid "Pause/Resume Experiment"
 msgstr "暂停/恢复实验"
 
-#: ../../source/user_guide/function.md:223 389fa7390e8344b3b1de3576a724ea3a
+#: ../../source/user_guide/function.md:231 389fa7390e8344b3b1de3576a724ea3a
 msgid "Click to open the detailed information of the experiment run"
 msgstr "点击打开运行实验的详细信息"
 
-#: ../../source/user_guide/function.md:224 0f301db102dc4e838351ffec40243f3e
+#: ../../source/user_guide/function.md:232 0f301db102dc4e838351ffec40243f3e
 msgid "The time point at which the shooting has been completed"
 msgstr "已经完成拍摄的时间点"
 
-#: ../../source/user_guide/function.md:225 95e22f0ca9de4b06a7b809dc92a0b1de
+#: ../../source/user_guide/function.md:233 95e22f0ca9de4b06a7b809dc92a0b1de
 msgid "Shooting and analyzing progress, as well as remaining time"
 msgstr "拍摄和分析进度，以及剩余时间"
 
-#: ../../source/user_guide/function.md:226 3e7a14c829e54e888604d00143649402
+#: ../../source/user_guide/function.md:234 3e7a14c829e54e888604d00143649402
 msgid "Stop the experiment (unable to recover)"
 msgstr "停止实验(无法恢复)"
 
-#: ../../source/user_guide/function.md:227 653f8d760a0f4df9997fc81356ce674d
+#: ../../source/user_guide/function.md:235 653f8d760a0f4df9997fc81356ce674d
 msgid "Select the previous image at the selected time point"
 msgstr "选中时间点的上一幅图像"
 
-#: ../../source/user_guide/function.md:228 247f8d5e94a84ca6a4618a4199149169
+#: ../../source/user_guide/function.md:236 247f8d5e94a84ca6a4618a4199149169
 msgid "Select the next image at the selected time point"
 msgstr "选中时间点的下一幅图像"
 
-#: ../../source/user_guide/function.md:230 984d131365aa47fd86bf0494cc9212a4
+#: ../../source/user_guide/function.md:238 984d131365aa47fd86bf0494cc9212a4
 msgid "Local files"
 msgstr "本地文件"
 
-#: ../../source/user_guide/function.md:231 9b340ff7f8db47949a3d4479a3a0a05e
+#: ../../source/user_guide/function.md:239 9b340ff7f8db47949a3d4479a3a0a05e
 msgid ""
 "View the relevant information of the local experimental files and have "
 "the option to perform batch analysis on the images again."
 msgstr "查看实验文件相关的内容，并可以选择再次对图像进行批量分析"
 
-#: ../../source/user_guide/function.md:233 9eff573ee7bb4c118cbd71db5750507f
+#: ../../source/user_guide/function.md:241 9eff573ee7bb4c118cbd71db5750507f
 msgid "![](../_static/images/local.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:235 984d131365aa47fd86bf0494cc9212a4
+#: ../../source/user_guide/function.md:243 984d131365aa47fd86bf0494cc9212a4
 msgid "View File"
 msgstr "查看文件"
 
-#: ../../source/user_guide/function.md:236 ac79eb39dbce480a885441e12aec2353
+#: ../../source/user_guide/function.md:244 ac79eb39dbce480a885441e12aec2353
 msgid ""
 "View relevant information about local experimental files and import "
 "external image files."
 msgstr "查看本地实验文件信息，导入外部图像文件"
 
-#: ../../source/user_guide/function.md:238 0f41cdbb5ef74af08dd298e67b512fd0
+#: ../../source/user_guide/function.md:246 0f41cdbb5ef74af08dd298e67b512fd0
 msgid "![](../_static/images/local_file.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:240 57656b76df9b47f3a28f5a53ac5b6cdc
+#: ../../source/user_guide/function.md:248 57656b76df9b47f3a28f5a53ac5b6cdc
 msgid "File name"
 msgstr "文件名称"
 
-#: ../../source/user_guide/function.md:241 8f62b2d12d3a42c1927de7d53ac30345
+#: ../../source/user_guide/function.md:249 8f62b2d12d3a42c1927de7d53ac30345
 msgid ""
 "File loading status, generally including unloaded, loading, and completed"
 " states."
 msgstr "文件加载状态，一般有未加载，加载中，已完成这几张状态。"
 
-#: ../../source/user_guide/function.md:242 ea021fa0bddb42de96976f5e36be7a0b
+#: ../../source/user_guide/function.md:250 ea021fa0bddb42de96976f5e36be7a0b
 msgid "Import a single image file"
 msgstr "导入单个图像文件"
 
-#: ../../source/user_guide/function.md:243 8d725cd0990f48f5b57025d34ef64d1d
+#: ../../source/user_guide/function.md:251 8d725cd0990f48f5b57025d34ef64d1d
 msgid "Batch import all image files in the directory"
 msgstr "批量导入目录下的所有图像文件"
 
-#: ../../source/user_guide/function.md:246 77da1637172d413ca3a864bbe1928c99
+#: ../../source/user_guide/function.md:254 77da1637172d413ca3a864bbe1928c99
 msgid "Actual shooting time"
 msgstr "实际拍摄时间"
 
-#: ../../source/user_guide/function.md:247 840dabb3b0ea408d85cba3cf45ace80c
+#: ../../source/user_guide/function.md:255 840dabb3b0ea408d85cba3cf45ace80c
 msgid "Current image number/total number of shots taken"
 msgstr "当前图像序号/总拍摄数量"
 
-#: ../../source/user_guide/function.md:248 4bdf126a240048a5b7c3dba50885a357
+#: ../../source/user_guide/function.md:256 4bdf126a240048a5b7c3dba50885a357
 msgid "Analysis results"
 msgstr "分析结果"
 
-#: ../../source/user_guide/function.md:249 7dd400a1dfff46629ccf417b64e906b7
+#: ../../source/user_guide/function.md:257 7dd400a1dfff46629ccf417b64e906b7
 msgid "Export analysis data to a txt file"
 msgstr "分析数据导出至txt文件"
 
-#: ../../source/user_guide/function.md:250 ef5e370355504b33a4ea7d1f01d174af
+#: ../../source/user_guide/function.md:258 ef5e370355504b33a4ea7d1f01d174af
 msgid "Remove analysis records (cannot be restored, permanently deleted)"
 msgstr "移除分析记录(无法恢复，永久删除)"
 
-#: ../../source/user_guide/function.md:255 e8264d7d19854b94a99cb0014989af3b
+#: ../../source/user_guide/function.md:263 e8264d7d19854b94a99cb0014989af3b
 msgid "![](../_static/images/local_view.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:257 51b794ab42c64213b6a404a043611d06
+#: ../../source/user_guide/function.md:265 51b794ab42c64213b6a404a043611d06
 msgid "Select one of the images"
 msgstr "选择当前图像"
 
-#: ../../source/user_guide/function.md:260 60229bbaaa4140f58ab33568d4abc46b
+#: ../../source/user_guide/function.md:268 60229bbaaa4140f58ab33568d4abc46b
 msgid "Select a certain analysis module to proceed to the next step of analysis."
 msgstr "选择某一个分析模块，进行下一步的分析"
 
-#: ../../source/user_guide/function.md:262 2091932c567d40e8b9f05568b71c5c6b
+#: ../../source/user_guide/function.md:270 2091932c567d40e8b9f05568b71c5c6b
 msgid "![](../_static/images/local_chice.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:265 425279b8ae86460fbf09726af3cf598e
+#: ../../source/user_guide/function.md:273 425279b8ae86460fbf09726af3cf598e
 msgid "Similar to the image analysis function in a single shot."
 msgstr "与单次拍摄的分析图像界面操作类似。"
 
-#: ../../source/user_guide/function.md:267 e8294ced27bb44d1b1cd7f47b115dcb6
+#: ../../source/user_guide/function.md:275 e8294ced27bb44d1b1cd7f47b115dcb6
 msgid "![](../_static/images/local_analysis.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:269 e768e96f6a634758b6b81108c29ba3e5
+#: ../../source/user_guide/function.md:277 e768e96f6a634758b6b81108c29ba3e5
 msgid "Analyze the currently selected image"
 msgstr "分析当前图像"
 
-#: ../../source/user_guide/function.md:270 af6dabf3ff594784935866b7b10d7d2c
+#: ../../source/user_guide/function.md:278 af6dabf3ff594784935866b7b10d7d2c
 msgid "Batch analyze all images"
 msgstr "批量分析所有图像"
 
-#: ../../source/user_guide/function.md:271 b9ba3b5a89f34531a462b88352319dd9
+#: ../../source/user_guide/function.md:279 b9ba3b5a89f34531a462b88352319dd9
 msgid "Switch current image"
 msgstr "切换当前图像"
 
-#: ../../source/user_guide/function.md:273 57656b76df9b47f3a28f5a53ac5b6cdc
+#: ../../source/user_guide/function.md:281 57656b76df9b47f3a28f5a53ac5b6cdc
 msgid "Select Image"
 msgstr "选择图像"
 
-#: ../../source/user_guide/function.md:274 2bdbc53e21b64476b0aa4858eba9bfd0
+#: ../../source/user_guide/function.md:282 2bdbc53e21b64476b0aa4858eba9bfd0
 msgid "Select the image to be analyzed."
 msgstr "选择需要分析的图像"
 
-#: ../../source/user_guide/function.md:276 b65abd4747c64d729666901a49ceb696
+#: ../../source/user_guide/function.md:284 b65abd4747c64d729666901a49ceb696
 msgid "![](../_static/images/local_select.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:278 57656b76df9b47f3a28f5a53ac5b6cdc
+#: ../../source/user_guide/function.md:286 57656b76df9b47f3a28f5a53ac5b6cdc
 msgid "Select All"
 msgstr "全选"
 
-#: ../../source/user_guide/function.md:279 d89ffa100b6c4effbcb69ab39dd2ceea
+#: ../../source/user_guide/function.md:287 d89ffa100b6c4effbcb69ab39dd2ceea
 msgid "Select the image to be analyzed"
 msgstr "选择需要分析的图像"
 
-#: ../../source/user_guide/function.md:280 2440867af92f4c4a9b809e17fb66e4cb
+#: ../../source/user_guide/function.md:288 2440867af92f4c4a9b809e17fb66e4cb
 msgid ""
 "The next step is to return to the main interface and start the task of "
 "batch analysis."
 msgstr "下一步返回主界面，并开始批量分析任务"
 
-#: ../../source/user_guide/function.md:283 4bdf126a240048a5b7c3dba50885a357
+#: ../../source/user_guide/function.md:291 4bdf126a240048a5b7c3dba50885a357
 msgid "Analysis running"
 msgstr "分析运行"
 
-#: ../../source/user_guide/function.md:284 4615925ba83a449b8f9a3d330982078a
+#: ../../source/user_guide/function.md:292 4615925ba83a449b8f9a3d330982078a
 msgid "Detailed information of the analysis task"
 msgstr "分析任务的详细信息"
 
-#: ../../source/user_guide/function.md:286 b431ac7f122a4af8930c1c683ec3eaa0
+#: ../../source/user_guide/function.md:294 b431ac7f122a4af8930c1c683ec3eaa0
 msgid "![](../_static/images/local_run.png)"
 msgstr ""
 
-#: ../../source/user_guide/function.md:288 eb47ecd921c44b808153f034be4ed634
+#: ../../source/user_guide/function.md:296 eb47ecd921c44b808153f034be4ed634
 msgid "Task progress"
 msgstr "任务进度"
 
-#: ../../source/user_guide/function.md:289 52d3b79f879a4d21a40b1f08cde6d6c2
+#: ../../source/user_guide/function.md:297 52d3b79f879a4d21a40b1f08cde6d6c2
 msgid "Pause/Resume task"
 msgstr "暂停/恢复任务"
 
-#: ../../source/user_guide/function.md:290 2e5660e2debf43a0bfec5f061d78b6bb
+#: ../../source/user_guide/function.md:298 2e5660e2debf43a0bfec5f061d78b6bb
 msgid "Click to open the detailed information of the task"
 msgstr "点击打开任务运行的详细信息"
 
-#: ../../source/user_guide/function.md:291 4bdf126a240048a5b7c3dba50885a357
+#: ../../source/user_guide/function.md:299 4bdf126a240048a5b7c3dba50885a357
 msgid "Analysis progress"
 msgstr "分析进度"
 
-#: ../../source/user_guide/function.md:292 b4323cd09bef47a7ba341d6fcde4af79
+#: ../../source/user_guide/function.md:300 b4323cd09bef47a7ba341d6fcde4af79
 msgid "Stop analysis"
 msgstr "停止分析"
+
+#: ../../source/user_guide/function.md:302 8b164255f3064260b8924ba1ff19c860
+msgid "other"
+msgstr "其他"
+
+#: ../../source/user_guide/function.md:304 4172f8154cb84168b522a6abaf65f011
+msgid "user manual"
+msgstr "用户手册"
+
+#: ../../source/user_guide/function.md:305 f1ebbc70dfc84ef799aa304eb2a62a73
+msgid ""
+"By right clicking on the title bar and clicking on Help, you can open the"
+" user manual, which provides detailed instructions on how to use the "
+"software."
+msgstr "通过右键标题栏，点击帮助，可打开用户手册，里面介绍了软件的详细使用。"
+
+#: ../../source/user_guide/function.md:307 8cd2543735794084b5c4f062e40d6145
+msgid "![](../_static/images/manual.png)"
+msgstr ""
+
+#: ../../source/user_guide/function.md:309 40adcd79f94e4fee873743820011b85b
+msgid "![](../_static/images/help.png)"
+msgstr ""
+
+#~ msgid "![](../_static/images/view_2.png) ![](../_static/images/view_3.png)"
+#~ msgstr ""
 
