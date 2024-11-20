@@ -83,6 +83,26 @@ View the captured image and adjust the image effect.
 2. Select the image to be exported
 3. Export image files
 4. Export video files
+5. Multiple selection of single channel images
+6. Multiple channel images can be stacked and exported
+7. Export channel images captured by Z-Stack
+8. The exported image comes with relative time
+9. The exported image comes with a scale bar
+10. Export images with scale units attached
+11. Choose the export path
+12. Click OK to batch export multiple image files
+
+![](../_static/images/export_video.png)
+
+1. Image/video export
+2. Export video files
+3. Multiple selection of single channel images
+4. Multiple channel images can be stacked and exported
+5. The exported video comes with relative time
+6. The exported video comes with a scale bar
+7. Export videos with scale units attached
+8. Choose the export path
+9. Click OK to batch export multiple video files
 
 ### Choose Experiment
 Select an analysis module
