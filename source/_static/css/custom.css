@@ -86,3 +86,7 @@ a.icon-home img.logo {
 .rst-content dl dd {
     margin: 0px;
 }
+img {
+    width: 70%; 
+    height: 70%;  
+}
