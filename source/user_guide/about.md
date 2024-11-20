@@ -1,12 +1,12 @@
 # About
 ## Contact us
 
-**Wuhan Life Sciences Image Intelligence Technology Co.,Ltd**
+** Wuhan Life Science Intelligence Foundation Technology LLC**
 
-Address : 2nd floor, podium building, Building C2, Future Science and Technology City, Donghu High tech Zone, Wuhan City
+Address: Room 016, 5th Floor, Building B4, Longshan Innovation Park, Wuhan Future Science and Technology City, No. 999 Gaoxin Avenue, Donghu New Technology Development Zone, Wuhan City, Hubei Province
 
 E-mail : service@bioimaginglab.cn
 
-Tel : +8615623839281
+Tel : +8618140576260
 
 Official website address : [www.bioimaginglab.cn](https://www.bioimaginglab.cn/)

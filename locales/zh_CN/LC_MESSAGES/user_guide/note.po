@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CellPerception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-15 10:52+0800\n"
+"POT-Creation-Date: 2024-11-20 11:20+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -24,8 +24,121 @@ msgstr ""
 msgid "Note"
 msgstr "注意事项"
 
-#: ../../source/user_guide/note.md:3 ../../source/user_guide/note.md:5
-#: 07054a829eb041e2aefc06ed9c2c687d ddeab81503fd473795d3c18e7bbf3fc0
-msgid "123"
+#: ../../source/user_guide/note.md:3 537b7d5e0c104d969f99e2ddc959af0c
+msgid ""
+"This chapter mainly introduces some precautions and how to handle "
+"unexpected situations when they occur."
+msgstr "此章节主要介绍一些注意事项，防止意外情况发生的时候，如何进行处理。"
+
+#: ../../source/user_guide/note.md:5 b33f5e3d02dc45738d0f17da78de38de
+msgid ""
+"If none of the following situations can solve your problem, please "
+"contact us promptly."
+msgstr "如果下列情况都无法解决您的问题，请及时联系我们。"
+
+#: ../../source/user_guide/note.md:7 fcd26ad84d4b41f3b4da9b4cb3dd9bc5
+msgid "Installation"
+msgstr "安装"
+
+#: ../../source/user_guide/note.md:8 0d7cf8f11c244a6db16daa669295739f
+msgid ""
+"Unable to connect the device, possibly due to insufficient USB power "
+"supply. If it is a desktop computer, it is recommended to use the USB "
+"interface behind the chassis."
+msgstr "连接不上设备，可能是usb供电不足，如果是台式机，推荐使用机箱后的USB接口。"
+
+#: ../../source/user_guide/note.md:9 20b6386a26e7431f965127cc63061a2b
+msgid "Installation path, recommended in English."
+msgstr "安装路径，推荐英文路径"
+
+#: ../../source/user_guide/note.md:10 69b4495d66e844c4b88b0e5d6a2f338e
+msgid ""
+"Unable to connect to the device, it may be due to driver not being "
+"installed or installation failure. Please check if the firewall is turned"
+" off and if there are any errors during the driver installation process."
+msgstr "连接不上设备，可能是驱动未安装，或者安装失败。请排查防火墙是否关闭，驱动安装过程中是否报错。"
+
+#: ../../source/user_guide/note.md:12 64398d626fba4b639cc0a59ecc228232
+msgid "First use"
+msgstr "第一次使用"
+
+#: ../../source/user_guide/note.md:13 c97ccb1faae644fea3fd8d5d01fa92eb
+msgid ""
+"After entering the main interface, authorization is required for the "
+"corresponding module before it can be used."
+msgstr "进入主界面后，有些模块需要授权才能使用。"
+
+#: ../../source/user_guide/note.md:14 c51a7ec55cfa42059790e400fd44159e
+msgid ""
+"If you need to connect a microscope device, please first configure the "
+"device's functions in the software, such as channels and objectives."
+msgstr "如果需要连接显微镜设备，请先在软件中配置设备的功能，比如通道，物镜。"
+
+#: ../../source/user_guide/note.md:16 89d78b1971f142a5bf47282d507ca513
+msgid "Time series shooting"
+msgstr "时间序列拍摄"
+
+#: ../../source/user_guide/note.md:18 41d061e2d8b24e909e4a931010c50859
+msgid ""
+"In the following situations, the experiment will be terminated and a "
+"failure message will be pushed."
+msgstr "以下情况，将中止实验，并推送失败消息。"
+
+#: ../../source/user_guide/note.md:20 a93316eab3b0435894df8d1a6a708a88
+msgid "a. Auto focus failure"
+msgstr "a. 自动对焦失败"
+
+#: ../../source/user_guide/note.md:22 5b90aecdecd94a579eeb41356e654164
+msgid "b. Failed to open device"
+msgstr "b. 打开设备失败"
+
+#: ../../source/user_guide/note.md:24 6d8488b9fb4f4a9fb471a4d7bfc83f10
+msgid "c. Depth of field expansion failed"
+msgstr "c. 景深扩展失败"
+
+#: ../../source/user_guide/note.md:26 84ed6496ae564779bab323cf6fbe6c22
+msgid "d. Camera exposure time, exposure gain setting failed"
+msgstr "d. 相机曝光时间，曝光增益设置失败"
+
+#: ../../source/user_guide/note.md:28 8025e15ddeed4123bb68ae8a497d600c
+msgid "e. Objective switching and light source setting failed"
+msgstr "e. 物镜切换、光源设置失败"
+
+#: ../../source/user_guide/note.md:30 a9c5f940e021467182ce0c111a4b7b50
+msgid "f. Data storage to file failed"
+msgstr "f. 数据存储至文件失败"
+
+#: ../../source/user_guide/note.md:32 350b1438c353424b9a307f90a0108597
+msgid ""
+"If there is insufficient memory or disk, a warning will be issued and the"
+" experiment will not be aborted. The experiment will still continue to "
+"run. Recommend timely handling to prevent any impact on subsequent "
+"shooting work and irreversible losses."
+msgstr "内存或磁盘不足，会进行警告，并不会中止实验，仍然会继续运行实验。推荐及时进行处理，防止影响后续拍摄工作，造成无法挽回的损失。"
+
+#: ../../source/user_guide/note.md:33 3c45b8a74e0c465ead506e4d713fb1be
+msgid ""
+"If you encounter the following prompt, it means that the program has "
+"crashed and cannot be restored. It is recommended to click OK, close the "
+"software, and restart."
+msgstr "遇到下列提示，代表程序已经崩溃，无法恢复，建议点击OK，关闭软件，重新开始。"
+
+#: ../../source/user_guide/note.md:35 92fcb7b7315b490f82556542751f27ab
+msgid "![](../_static/images/crash.png)"
 msgstr ""
+
+#: ../../source/user_guide/note.md:37 9470f60f1add4a298b70f5b5b088bb5c
+msgid "other"
+msgstr "其他"
+
+#: ../../source/user_guide/note.md:39 db10831d039d442ab1e90cc757fd24d2
+msgid ""
+"If you encounter the following situations, you can solve them by "
+"restarting the software."
+msgstr "如果遇到以下几种情况，通过重启软件，即可解决。"
+
+#: ../../source/user_guide/note.md:41 4cd04d67583645379789ea4abd6d4d6d
+msgid "a. Abnormal screen display"
+msgstr "a. 图像画面显示异常"
+
 

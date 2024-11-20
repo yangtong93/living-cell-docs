@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-19 09:43+0800\n"
+"POT-Creation-Date: 2024-11-20 11:25+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -29,21 +29,22 @@ msgid "Contact us"
 msgstr "联系我们"
 
 #: ../../source/user_guide/about.md:4 6e26580b32de4284ba48b63447566010
-msgid "**Wuhan Life Sciences Image Intelligence Technology Co.,Ltd**"
-msgstr "**武汉生科图智技术有限公司**"
+msgid "** Wuhan Life Science Intelligence Foundation Technology LLC**"
+msgstr "**武汉生科智基科技有限公司**"
 
-#: ../../source/user_guide/about.md:6 410f2c7bf1f54572889a3a1b1bdce95a
+#: ../../source/user_guide/about.md:6 85cf168f19564cb6aa64aa200302020a
 msgid ""
-"Address : 2nd floor, podium building, Building C2, Future Science and "
-"Technology City, Donghu High tech Zone, Wuhan City"
-msgstr "地址：武汉市东湖高新区未来科技城C2栋裙楼2楼"
+"Address: Room 016, 5th Floor, Building B4, Longshan Innovation Park, "
+"Wuhan Future Science and Technology City, No. 999 Gaoxin Avenue, Donghu "
+"New Technology Development Zone, Wuhan City, Hubei Province"
+msgstr "地址：湖北省武汉市东湖新技术开发区高新大道999号武汉未来科技城龙山创新园B4栋5楼016室"
 
 #: ../../source/user_guide/about.md:8 0c56730a599b461ba5e1218d2c9a0788
 msgid "E-mail : service@bioimaginglab.cn"
 msgstr "邮箱：service@bioimaginglab.cn"
 
 #: ../../source/user_guide/about.md:10 a6eae0af70514065a428da4e2c1cdf5e
-msgid "Tel : +8615623839281"
+msgid "Tel : +8618140576260"
 msgstr "电话：+8618140576260"
 
 #: ../../source/user_guide/about.md:12 2617def22653444e986c17bc6a91c7d7
