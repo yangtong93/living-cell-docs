@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-20 10:41+0800\n"
+"POT-Creation-Date: 2024-11-21 11:17+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -226,4 +226,24 @@ msgid ""
 "Wait for the customer service manager to reply with another activation "
 "code file, and click to import the file."
 msgstr "等待客服经理回复另外一个激活码文件，点击导入该文件。"
+
+#: ../../source/user_guide/setup.md:87 7359b0861f964032b63ccb7e3d8e8258
+msgid "upgrade installation"
+msgstr "升级安装"
+
+#: ../../source/user_guide/setup.md:88 60ea60e2025947c9bdfb7596eb3285ed
+msgid "Download the latest version and simply overwrite the installation."
+msgstr "下载最新版本，直接覆盖安装即可。"
+
+#: ../../source/user_guide/setup.md:89 29f0614790194bd8a3f76b8d6b58d2eb
+msgid ""
+"If the driver has been successfully installed before, there is no need to"
+" repeatedly install it. Simply close the driver installation dialog box."
+msgstr "如果之前驱动已经安装成功了，则不需要重复进行安装，只需关闭驱动安装对话框即可。"
+
+#: ../../source/user_guide/setup.md:90 b128557143e349fdb2e5076dad4d800c
+msgid ""
+"The license does not need to be reactivated. By default, the previous "
+"license information will be loaded."
+msgstr "许可证不需要重新进行激活。默认会加载之前的许可证信息。"
 

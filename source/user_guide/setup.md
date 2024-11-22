@@ -82,3 +82,13 @@ Suitable for online application without internet connection.
 4. Click on export registration file and send the file to the account manager.
 5. Wait for the customer service manager to reply with another activation code file, and click to import the file.
 6. Authorized modules, expiration dates, and other related information.
+
+
+## upgrade installation
+* Download the latest version and simply overwrite the installation.
+* If the driver has been successfully installed before, there is no need to repeatedly install it. Simply close the driver installation dialog box.
+* The license does not need to be reactivated. By default, the previous license information will be loaded.
+
+
+
+
