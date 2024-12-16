@@ -1,5 +1,37 @@
 # Version Update Notes
 
+## Version 0.4.2-beta
+
+Release Date : 2024/12/16
+
+### Update
+* Modify the server address of the license
+* Change the screen refresh mechanism to global refresh
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
+
+## Version 0.4.1-beta
+
+Release Date : 2024/12/16
+
+### Fix
+* Fix license related errors
+* Fix errors related to single shot files
+* Fix module license status display error
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.4.0-beta
 
 Release Date : 2024/11/22
