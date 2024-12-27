@@ -1,5 +1,19 @@
 # Version Update Notes
 
+## Version 0.5.1-beta
+
+Release Date : 2024/12/27
+
+### Update
+* Adapt to the new license application address
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.5.0-beta
 
 Release Date : 2024/12/27
