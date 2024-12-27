@@ -1,5 +1,48 @@
 # Version Update Notes
 
+## Version 0.5.0-beta
+
+Release Date : 2024/12/27
+
+### New
+* During software operation, it will prevent the system from entering sleep mode and turning off the screen
+* Real time preview interface, newly added prompt dialog box for hardware operation failure
+
+### Fix
+* Fixed the issue where the analysis results on the detailed page of the experiment were not cleared when switching between different time points
+* Fix the issue of email failure in scratch analysis warning function
+* Fixed the issue of license expiration due to occasional clicking on a single shot
+* Fixed the issue of incorrect display effect after switching between SA_TenX and SA_TwentyX objectives
+* When the analysis of the page is not completed, limit the progress to the previous or next step
+* Occasionally unrecognized issues when importing local image files
+* Repair the hard drive occasionally causing error warning judgment
+* Image viewing page, pre-processing changed to single choice.
+* Incorrect display of scale bar length when switching channels and objective lens to view images
+* The issue of incorrect display of scale color and length
+* The problem of unable to export images after z-stack shooting
+* The problem of incomplete display of images in the experimental selection/module introduction interface
+* Fixed the issue of incorrect scale display after overlaying images taken with different objective lenses
+
+
+### Optimize
+* Optimize scratch analysis, add adaptive parameter function, remove smoothness adjustment
+* Refine English translation
+* Before switching the objective lens, reset it first
+* Select multi-channel fusion for exporting videos, add channel name to the export name
+* The default directory for storing experimental files is the hard disk partition with the maximum available space
+* The minimum area adjustment upper limit of the bright field and fluorescence channel in basic cell analysis remains consistent
+* Limit the input of circular kernel radius and Gaussian fuzzy kernel size
+* Z-stack page parameter input restrictions
+* Optimized contrast algorithm
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
+
 ## Version 0.4.2-beta
 
 Release Date : 2024/12/16
