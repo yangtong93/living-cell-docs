@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, bioimaginglab
+# This file is distributed under the same license as the CellPerception
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CellPerception \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-07 10:58+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/user_guide/upgrade2025.md:1 caf2c8e8fbb04072a4a43c496888217c
+msgid "2025 Version Update"
+msgstr "2025版本更新说明"
+
+#: ../../source/user_guide/upgrade2025.md:3 e9e23ad699bc4cc98adb8df754f795cb
+msgid "Version 0.5.2-beta"
+msgstr ""
+
+#: ../../source/user_guide/upgrade2025.md:5 021cde3712174a66b893c35f45b7205e
+msgid "Release Date : 2025/1/7"
+msgstr "发布日期：2025/1/7"
+
+#: ../../source/user_guide/upgrade2025.md:7 be1e35e8289446b49c9861a9d22ffba9
+msgid "New"
+msgstr "新增"
+
+#: ../../source/user_guide/upgrade2025.md:8 d9b8ba1f0d7d4315af6dde63db829151
+msgid "Some pages add pseudo color mapping"
+msgstr "一些页面新增伪彩显示"
+
+#: ../../source/user_guide/upgrade2025.md:9 f72d451420d04fa594a42eba34c14a80
+msgid ""
+"Time series shooting adds warning information for all black or all white "
+"images"
+msgstr "时间序列拍摄过程中新增图像全黑或全白的预警提示"
+
+#: ../../source/user_guide/upgrade2025.md:11 7e6b2f0001b148eca5b49a22ff6ecd9d
+msgid "Fix"
+msgstr "修复"
+
+#: ../../source/user_guide/upgrade2025.md:12 8b4b41ec7cdd4613bbb0f99835cb4ca2
+msgid ""
+"Fixed the issue of incorrect image switching between different channels "
+"on the detailed page of the experiment run"
+msgstr "修复不正确的图像切换在实验运行详细页面"
+
+#: ../../source/user_guide/upgrade2025.md:13 196caf32f72346d0ad69bab73671bfd7
+msgid "Prevent screen shaking caused by multiple resets"
+msgstr "防止多次复位导致画面抖动"
+
+#: ../../source/user_guide/upgrade2025.md:15 3995f03c44ee402aac9310ab80140fe5
+msgid "Optimize"
+msgstr "优化"
+
+#: ../../source/user_guide/upgrade2025.md:16 8772fe416bc44c309f8a5d874facd4ee
+msgid "Modify the default mask color"
+msgstr "修改默认的遮罩颜色"
+
+#: ../../source/user_guide/upgrade2025.md:19 d45b8b8fb9ac48a4ac5e73a41a4a221a
+msgid "Notes"
+msgstr "注意"
+
+#: ../../source/user_guide/upgrade2025.md:20 661bd50cf6c04af88f9e7ca241e9cd5e
+msgid "This is still a beta version and may contain many bugs."
+msgstr "这是一个测试版，可能存在许多bug"
+
+#: ../../source/user_guide/upgrade2025.md:21 50a5123aab4b4dababb332ca9a375c03
+msgid "Only supports Windows 7/10 (x64) or above"
+msgstr "只支持Windows 7/10 (x64) 及以上"
+
+#: ../../source/user_guide/upgrade2025.md:22 e08cd074820a44f2b0f7a8920fd98350
+msgid "OpenGL 2.1 or above"
+msgstr "OpenGL 2.1 及以上"
+
+#: ../../source/user_guide/upgrade2025.md:23 b821536fe6ee4d16bbb352f82fa05ebc
+msgid "Some modules require license authorization to be used"
+msgstr "一些模块需要许可证授权才可使用"
+

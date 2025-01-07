@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-27 15:48+0800\n"
+"POT-Creation-Date: 2025-01-07 10:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -21,8 +21,8 @@ msgstr ""
 "Generated-By: Babel 2.15.0\n"
 
 #: ../../source/user_guide/upgrade.md:1 8ff5964b5aa140099244b4856f043035
-msgid "Version Update Notes"
-msgstr "版本更新说明"
+msgid "2024 Version Update"
+msgstr "2024版本更新说明"
 
 #: ../../source/user_guide/upgrade.md:3 00421abf6a044c9aa7565bdd22caf3fa
 msgid "Version 0.5.1-beta"
