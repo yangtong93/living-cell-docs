@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CellPerception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-14 11:14+0800\n"
+"POT-Creation-Date: 2025-01-14 11:33+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -29,12 +29,11 @@ msgid "Version 0.5.3-beta"
 msgstr ""
 
 #: ../../source/user_guide/upgrade2025.md:5 021cde3712174a66b893c35f45b7205e
-#, fuzzy
 msgid "Release Date : 2025/1/14"
-msgstr "发布日期：2025/1/7"
+msgstr "发布日期：2025/1/14"
 
 #: ../../source/user_guide/upgrade2025.md:7
-#: ../../source/user_guide/upgrade2025.md:38 be1e35e8289446b49c9861a9d22ffba9
+#: ../../source/user_guide/upgrade2025.md:39 be1e35e8289446b49c9861a9d22ffba9
 #: d45b8b8fb9ac48a4ac5e73a41a4a221a
 msgid "New"
 msgstr "新增"
@@ -59,96 +58,100 @@ msgstr "新增退出程序时的二次确认对话框"
 msgid "Automatically obtain the latest license status at regular intervals"
 msgstr "自动获取许可证的最新状态信息"
 
-#: ../../source/user_guide/upgrade2025.md:14
-#: ../../source/user_guide/upgrade2025.md:42 7e6b2f0001b148eca5b49a22ff6ecd9d
+#: ../../source/user_guide/upgrade2025.md:13 cec0dc834796497bb6d9c0054eb79b13
+msgid "Export ZStack image with pseudo color"
+msgstr "导出ZStack图像带伪彩"
+
+#: ../../source/user_guide/upgrade2025.md:15
+#: ../../source/user_guide/upgrade2025.md:43 7e6b2f0001b148eca5b49a22ff6ecd9d
 msgid "Fix"
 msgstr "修复"
 
-#: ../../source/user_guide/upgrade2025.md:15 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:16 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Fix the issue of inaccurate calculation of remaining time in the "
 "experiment run"
 msgstr "修复实验运行剩余时间计算的不准确问题"
 
-#: ../../source/user_guide/upgrade2025.md:16 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:17 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of incorrect calculation of the quantity of exported ZStack"
 msgstr "修复导出ZStack的图像个数计算不正确问题"
 
-#: ../../source/user_guide/upgrade2025.md:17 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:18 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of unable to interrupt the process of exporting ZStack"
 msgstr "修复导出ZStack图像无法被中断的问题"
 
-#: ../../source/user_guide/upgrade2025.md:18 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:19 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of abnormal crashes caused by stopping experiments"
 msgstr "修复停止实验的异常崩溃问题"
 
-#: ../../source/user_guide/upgrade2025.md:19 f6701b4eaca54ddd8f8340b3db2a5ca6
+#: ../../source/user_guide/upgrade2025.md:20 f6701b4eaca54ddd8f8340b3db2a5ca6
 msgid "Fix the issue where exported AVI format videos cannot be played"
 msgstr "修复导出的AVI格式视频无法正常播放问题"
 
-#: ../../source/user_guide/upgrade2025.md:22
-#: ../../source/user_guide/upgrade2025.md:46 3995f03c44ee402aac9310ab80140fe5
+#: ../../source/user_guide/upgrade2025.md:23
+#: ../../source/user_guide/upgrade2025.md:47 3995f03c44ee402aac9310ab80140fe5
 msgid "Optimize"
 msgstr "优化"
 
-#: ../../source/user_guide/upgrade2025.md:23 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:24 a4915f5d504e4e96a954520c1e0e793f
 msgid "Optimize the loading speed of export pages and image selection pages"
 msgstr "优化导出页面和图像选择页面的加载速度"
 
-#: ../../source/user_guide/upgrade2025.md:26
-#: ../../source/user_guide/upgrade2025.md:50 d45b8b8fb9ac48a4ac5e73a41a4a221a
+#: ../../source/user_guide/upgrade2025.md:27
+#: ../../source/user_guide/upgrade2025.md:51 d45b8b8fb9ac48a4ac5e73a41a4a221a
 msgid "Notes"
 msgstr "注意"
 
-#: ../../source/user_guide/upgrade2025.md:27
-#: ../../source/user_guide/upgrade2025.md:51 661bd50cf6c04af88f9e7ca241e9cd5e
+#: ../../source/user_guide/upgrade2025.md:28
+#: ../../source/user_guide/upgrade2025.md:52 661bd50cf6c04af88f9e7ca241e9cd5e
 msgid "This is still a beta version and may contain many bugs."
 msgstr "这是一个测试版，可能存在许多bug"
 
-#: ../../source/user_guide/upgrade2025.md:28
-#: ../../source/user_guide/upgrade2025.md:52 50a5123aab4b4dababb332ca9a375c03
+#: ../../source/user_guide/upgrade2025.md:29
+#: ../../source/user_guide/upgrade2025.md:53 50a5123aab4b4dababb332ca9a375c03
 msgid "Only supports Windows 7/10 (x64) or above"
 msgstr "只支持Windows 7/10 (x64) 及以上"
 
-#: ../../source/user_guide/upgrade2025.md:29
-#: ../../source/user_guide/upgrade2025.md:53 e08cd074820a44f2b0f7a8920fd98350
+#: ../../source/user_guide/upgrade2025.md:30
+#: ../../source/user_guide/upgrade2025.md:54 e08cd074820a44f2b0f7a8920fd98350
 msgid "OpenGL 2.1 or above"
 msgstr "OpenGL 2.1 及以上"
 
-#: ../../source/user_guide/upgrade2025.md:30
-#: ../../source/user_guide/upgrade2025.md:54 b821536fe6ee4d16bbb352f82fa05ebc
+#: ../../source/user_guide/upgrade2025.md:31
+#: ../../source/user_guide/upgrade2025.md:55 b821536fe6ee4d16bbb352f82fa05ebc
 msgid "Some modules require license authorization to be used"
 msgstr "一些模块需要许可证授权才可使用"
 
-#: ../../source/user_guide/upgrade2025.md:34 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:35 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.5.2-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:36 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:37 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/1/7"
 msgstr "发布日期：2025/1/7"
 
-#: ../../source/user_guide/upgrade2025.md:39 d9b8ba1f0d7d4315af6dde63db829151
+#: ../../source/user_guide/upgrade2025.md:40 d9b8ba1f0d7d4315af6dde63db829151
 msgid "Some pages add pseudo color mapping"
 msgstr "一些页面新增伪彩显示"
 
-#: ../../source/user_guide/upgrade2025.md:40 f72d451420d04fa594a42eba34c14a80
+#: ../../source/user_guide/upgrade2025.md:41 f72d451420d04fa594a42eba34c14a80
 msgid ""
 "Time series shooting adds warning information for all black or all white "
 "images"
 msgstr "时间序列拍摄过程中新增图像全黑或全白的预警提示"
 
-#: ../../source/user_guide/upgrade2025.md:43 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:44 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Fixed the issue of incorrect image switching between different channels "
 "on the detailed page of the experiment run"
 msgstr "修复不正确的图像切换在实验运行详细页面"
 
-#: ../../source/user_guide/upgrade2025.md:44 196caf32f72346d0ad69bab73671bfd7
+#: ../../source/user_guide/upgrade2025.md:45 196caf32f72346d0ad69bab73671bfd7
 msgid "Prevent screen shaking caused by multiple resets"
 msgstr "防止多次复位导致画面抖动"
 
-#: ../../source/user_guide/upgrade2025.md:47 8772fe416bc44c309f8a5d874facd4ee
+#: ../../source/user_guide/upgrade2025.md:48 8772fe416bc44c309f8a5d874facd4ee
 msgid "Modify the default mask color"
 msgstr "修改默认的遮罩颜色"
 

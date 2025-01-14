@@ -10,6 +10,7 @@ Release Date : 2025/1/14
 * New device connection status and open/close status display
 * Add a secondary confirmation dialog box for exiting the program
 * Automatically obtain the latest license status at regular intervals
+* Export ZStack image with pseudo color
 
 ### Fix
 * Fix the issue of inaccurate calculation of remaining time in the experiment run
