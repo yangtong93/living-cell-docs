@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cell Perception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-19 13:33+0800\n"
+"POT-Creation-Date: 2025-01-14 11:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -34,6 +34,6 @@ msgstr "此页面主要介绍软件所支持的显微镜硬件设备。"
 msgid "Cell Analyzer"
 msgstr ""
 
-#: ../../source/user_guide/support.md:6 2437e70df712462ab4f638ab0397d5e7
-msgid "![](../_static/images/device.png)"
-msgstr ""
+#~ msgid "![](../_static/images/device.png)"
+#~ msgstr ""
+
