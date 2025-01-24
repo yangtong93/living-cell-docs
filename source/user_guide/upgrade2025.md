@@ -1,5 +1,22 @@
 # 2025 Version Update
 
+## Version 0.5.6-beta
+
+Release Date : 2025/1/24
+
+
+### Fix
+* Fix the automatic calculation of mapping range for bright field images
+* Fix AVI video frame abnormality issue
+* Fix the issue of blurry images in MP4 videos
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.5.5-beta
 
 Release Date : 2025/1/23
