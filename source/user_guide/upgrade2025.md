@@ -1,5 +1,29 @@
 # 2025 Version Update
 
+## Version 0.5.7-beta
+
+Release Date : 2025/2/11
+
+### New
+* Add Transfection Efficiency indicator
+* Analyzing data export will export image files with masks
+
+
+### Fix
+* When the scale bar is dragged outside the image, scaling will affect the centering display.
+
+
+### Optimize
+* Double click the scale bar to adjust color, opacity, and width.
+* Reduce the time consumption of image/video export function
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
+
 ## Version 0.5.6-beta
 
 Release Date : 2025/1/24
