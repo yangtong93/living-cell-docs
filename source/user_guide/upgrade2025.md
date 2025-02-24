@@ -1,5 +1,23 @@
 # 2025 Version Update
 
+## Version 0.6.0-beta
+
+Release Date : 2025/2/22
+
+### New
+* Most pages have added the function of saving and restoring user parameters
+* Analyze the channel adjustment page on the page and add a restore function.
+* Video export page, adding video preview function
+* View image page, add preview Z-Stack function
+* The results and adjustment effects of image preprocessing, participate in the subsequent analysis process
+* Image viewing page, added automatic calculation of color mapping range
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above  
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.5.7-beta
 
 Release Date : 2025/2/11
