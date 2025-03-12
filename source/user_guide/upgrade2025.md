@@ -1,5 +1,49 @@
 # 2025 Version Update
 
+## Version 0.6.2-beta
+
+Release Date : 2025/3/12
+
+### Fix
+* When switching between different experimental files, the previous state was not cleared.
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
+## Version 0.6.1-beta
+
+Release Date : 2025/3/12
+
+### New
+* The left page in the analysis page supports floating
+* Real time preview and viewing of the left page of the image page, supporting automatic tiling.
+* Analyze data export, add a dialog box to select whether to export image files with masks.
+* The Z-Stack preview page defaults to displaying the image of the first channel.
+
+### Fix
+* Image processing did not participate in the export process
+* The problem of fluorescence transfection efficiency not being displayed
+* RWD value display error in scratch analysis
+* Fix the time series shooting crash caused by abnormal Z-Stack settings
+* Taskbar progress status not restored
+* Real time preview page, equal color range leads to abnormal display
+
+### Optimize
+* Brightness and contrast are not saved by default
+* The performance of image preprocessing and Z-Stack algorithm has been optimized.
+* Simulate device module, supporting loop reading of image files in the directory.
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
+
 ## Version 0.6.0-beta
 
 Release Date : 2025/2/22
