@@ -1,5 +1,37 @@
 # 2025 Version Update
 
+## Version 0.6.3-beta
+
+Release Date : 2025/4/7
+
+### New
+* Add a neural tracking analysis module.
+* Add automatic settings and adjust the color range in the real-time preview page
+* Reset relevant interfaces and functions between different samples
+
+### Fix
+* Fix the issue of inaccurate analysis progress bar
+* Fix the crash caused by the mismatch between the default configuration obtained and the actual configuration
+* Fix image display anomalies in multi view situations
+* The file has not been fully loaded, restricting access to the next step
+* The experiment name cannot be repeated
+* Invalid image deletion repair, in the real-time preview page,
+
+
+### Optimize
+* Optimize file loading
+* During the time series shooting process, analysis failure will not stop the task
+* Scratch healing rate supports setting decimals
+* Verify the parameters of time series shooting
+* Optimized the parameter storage for channel effect adjustment
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.6.2-beta
 
 Release Date : 2025/3/12
