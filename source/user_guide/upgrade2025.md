@@ -1,5 +1,21 @@
 # 2025 Version Update
 
+## Version 0.6.4-beta
+
+Release Date : 2025/4/8
+
+### Fix
+* Fix the issue of mask adjustment crashing
+* The default time interval mode is selected for experimental settings
+* Fixed the issue of being unable to proceed to the next step after importing the local image file
+* Fix the image/video of the exported fluorescence channel with image enhancement effect
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.6.3-beta
 
 Release Date : 2025/4/7
