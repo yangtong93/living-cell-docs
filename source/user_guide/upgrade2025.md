@@ -1,5 +1,33 @@
 # 2025 Version Update
 
+## Version 0.6.6-beta
+
+Release Date : 2025/6/16
+
+### New
+* Real time preview, supports exporting images with multi-channel fusion
+* View the file page and display the shooting parameter information of a single image
+* Added autofocus algorithm
+* Add DD-2 and SM-1 equipment control
+* Real time preview page, adding XY movement control
+* Support Z-axis position settings for different channels for time series shooting
+
+### Optimize
+* Enhancement of objective lens module
+* Optimize parameter templates
+* Mask parameters are saved/loaded according to different analysis methods
+* Real time preview, when switching objectives, it will be linked to switch Z-axis position, light intensity, gain, exposure time, etc.
+
+### Fix
+* Fix the issue of inconsistent histogram parameters between the real-time preview page and the image viewing page
+* Fix occasional serial communication failure issues
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.6.4-beta
 
 Release Date : 2025/4/8
