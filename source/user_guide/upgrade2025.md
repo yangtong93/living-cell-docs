@@ -1,5 +1,35 @@
 # 2025 Version Update
 
+## Version 0.6.8-RC
+
+Release Date : 2025/7/24
+
+###  New
+* Support different Z-axis movement ranges for different objective lens configurations
+* Real time preview supports partial scanning version function
+
+### Fix
+* Fix control issues related to DD-2 devices
+* Fixed the issue of abnormal shooting process after enabling Z-Stack for time series shooting
+* Fix the issue where advanced cell analysis cannot be used
+* Repair batch scratch analysis function abnormality
+* Fix that autofocus cannot be manually stopped
+
+### Optimize
+* Improve autofocus accuracy
+* The exposure gain range is uniformly from 0 to 10
+* Optimize the Z-axis user experience
+* The convergence degree of advanced cell analysis has been changed to the initial version
+* Optimize video recording memory usage
+* Optimization of User Parameter Template Process
+
+
+
+### Notes
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.6.7-beta
 
 Release Date : 2025/6/17
