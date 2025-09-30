@@ -1,5 +1,32 @@
 # 2025 Version Update
 
+## Version 1.0.0
+
+Release Date : 2025/9/28
+
+###  New
+* Add Galaxy_2Window_CN_32bits-64bits_2.4.2504.9091.exe to the installation package
+* License application supports setting expiration time according to module settings
+* Limit the input range of Z-Stack parameters
+* New prompt for repeatedly opening processes
+* Add writing of complete dump file
+* Auto focus is offset according to z-offset
+
+### Fix
+* Fixed the issue of mask not being cleared after switching algorithms
+* Fix Z-Stack preview related issues
+* Fix Z-axis calculation errors in time series shooting
+
+### Optimize
+* Optimize the accuracy of autofocus algorithm
+* Optimization of Z-axis adjustment usage
+* Optimize the usage process of parameter templates
+
+### Notes
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 0.6.8-RC
 
 Release Date : 2025/7/24
