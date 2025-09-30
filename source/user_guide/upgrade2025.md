@@ -1,5 +1,35 @@
 # 2025 Version Update
 
+## Version 1.0.1-beta
+
+Release Date : 2025/9/22
+
+###  New
+* Vessel selection supports glass slides, well plates, and culture dishes
+* Add manual and automatic modes
+* Add the function of editing orifice plate information
+* Increase the management of utensils and consumables
+* Vessel calibration supports glass slides, well plates, and culture dishes
+* XY axis control, supports field of view navigation and positioning, joystick movement, up, down, left, and right buttons to move the field of view, mouse drag to move the field of view.
+* View, hole supports single selection, multiple selection. Copy and paste the view between holes.
+* View recording, save view, click to move view.
+* One click multi-channel shooting, exporting shooting results.
+* Multi view and multi-point shooting function, supporting two position stitching, Z-Stack， Auto focus is optional.
+* Setting and Display of Overlapping Field of View
+* Add album function to preview captured images
+* Scale supports fixed length
+* Time series shooting, supporting millisecond level shooting intervals
+
+
+### Optimize
+* Optimize the jumping logic between pages
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.0.0
 
 Release Date : 2025/9/28
