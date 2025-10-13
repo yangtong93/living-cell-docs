@@ -1,5 +1,22 @@
 # 2025 Version Update
 
+## Version 1.0.0-RC1
+
+Release Date : 2025/10/13
+
+
+### Fix
+* Fix the crash issue when entering the device configuration page
+
+### Optimize
+* Optimizing the calculation of autofocus starting point during time series shooting process
+* Add a new way to obtain hardware information
+
+### Notes
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.0.1-beta
 
 Release Date : 2025/9/22
