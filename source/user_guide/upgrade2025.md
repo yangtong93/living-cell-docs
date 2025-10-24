@@ -1,5 +1,22 @@
 # 2025 Version Update
 
+## Version 1.0.2-beta
+
+Release Date : 2025/10/24
+
+### New
+* Real time preview page adjustment interface.
+* Real time preview page adjustment of most functions, such as effect settings, ZStack， Objective lens switching, XYZ axis setting, channel switching, automatic mode, manual mode.
+* View the image page to display the image of the porous plate taken.
+* Add scanning version device model SM-2.
+* Time series shooting supports multi-stage operation with a single field of view.
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.0.0-RC1
 
 Release Date : 2025/10/13
