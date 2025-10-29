@@ -1,5 +1,27 @@
 # 2025 Version Update
 
+## Version 1.0.3-beta
+
+Release Date : 2025/10/29
+
+### New
+* The analysis page supports scanned data sources
+
+### Fix
+* Improve the support of SM-2 equipment for orifice plate vessels
+* Fixed the issue of running termination after enabling auto focus in time series shooting
+* Fix the issue of switching channel Z-axis to zero
+* Repair occasional Y-axis failure issue of SM-2 equipment
+
+### Optimize
+* Optimize 2D stitching algorithm
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.0.2-beta
 
 Release Date : 2025/10/24
