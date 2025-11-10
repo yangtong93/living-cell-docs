@@ -1,5 +1,26 @@
 # 2025 Version Update
 
+## Version 1.0.4-beta
+
+Release Date : 2025/10/31
+
+### Fix
+* Fix histogram adjustment display error
+* Fix inability to access time series shooting page
+* Flip the screen of SM-2 left and right
+
+### Optimize
+* Optimize one click multi-channel shooting
+* Optimize light intensity, gain, and exposure time adjustment functions
+* Optimize XY movement
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.0.3-beta
 
 Release Date : 2025/10/29
