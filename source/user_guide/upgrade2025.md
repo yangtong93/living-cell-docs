@@ -1,5 +1,21 @@
 # 2025 Version Update
 
+## Version 1.0.5-beta
+
+Release Date : 2025/11/6
+
+### New
+* View image page, add image/video file export
+* Real time preview page, adding scale bar and unit display
+* Real time preview page, added autofocus parameter setting function, autofocus stop function
+* Real time preview page, adding video recording, snapshot export, and album functions
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.0.4-beta
 
 Release Date : 2025/10/31
