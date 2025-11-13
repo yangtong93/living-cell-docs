@@ -1,5 +1,35 @@
 # 2025 Version Update
 
+## Version 1.0.6-beta
+
+Release Date : 2025/11/13
+
+### New
+* Add auxiliary lines for vessel calibration
+* Store and read autofocus parameters
+* Increase the gamma, brightness, and contrast adjustment functions of the camera
+* Add the function of holding down the right mouse button and dragging to move the field of view
+* Add the function of moving the field of view up, down, left, right with buttons
+* Add mouse double-click to move the field of view to the center position on the screen
+
+### Fix
+* Fix the issue of inconsistent reading values in parameter templates
+* Fix zstack parameter calculation error
+* Resolve issues related to multi-point shooting
+* Fixed the issue of incorrect display of multi-point captured images in the album
+* Fix the issue of device configuration page crashing when entering DD-2
+* Fix the problem of Z-axis roller movement function failure
+
+### Optimize
+* Modify default shooting parameters
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.0.5-beta
 
 Release Date : 2025/11/6
