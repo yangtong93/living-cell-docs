@@ -1,5 +1,29 @@
 # 2025 Version Update
 
+## Version 1.0.7-beta
+
+Release Date : 2025/11/20
+
+### New
+* Add zoffset interface and functionality, suitable for one click multi-channel shooting and time-series shooting
+* Multi point multi view shooting supports multi-channel selection and execution
+* Time series shooting supports scanning devices for multi view shooting
+
+### Fix
+* Multi point multi view shooting does not automatically focus by default
+* Fix the crash issue after modifying camera parameters
+
+### Optimize
+* Optimize the accuracy of vessel calibration
+* Optimize the scope of the internal frame
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.0.6-beta
 
 Release Date : 2025/11/13
