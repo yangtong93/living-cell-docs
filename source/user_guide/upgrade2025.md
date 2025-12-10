@@ -1,5 +1,30 @@
 # 2025 Version Update
 
+## Version 1.0.8-beta
+
+Release Date : 2025/12/10
+
+### New
+* Support SM-3 devices
+* Add analysis page related functions
+* Add functions related to viewing image pages
+* Time series shooting supports automatic focusing at intervals of N fields of view
+* Time series shooting supports execution analysis and display analysis results
+
+### Fix
+* Fix the problem of inaccurate coordinate calculation of holes and field of view
+* Fix ZStack parameter calculation error issue
+
+### Optimize
+* Optimize the schematic display module of the orifice plate
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
+
 ## Version 1.0.7-beta
 
 Release Date : 2025/11/20
