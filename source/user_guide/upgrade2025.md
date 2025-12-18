@@ -1,5 +1,33 @@
 # 2025 Version Update
 
+## Version 1.0.9-beta
+
+Release Date : 2025/12/17
+
+### New
+* Real time preview and time series shooting with added hole pre focus function
+* Time series shooting supports 2D image stitching
+
+### Fix
+* Re calibrate the correspondence between the objective lens and the scale bar
+* Analyzing image collapse issues without adjusting brightness and contrast
+* Fix the issue of overlapping rate errors in image stitching
+* Fix the time-consuming process of generating masks
+* Multi point multi view shooting, first capture multiple channels of a single view, and then move to the next view
+* Fix SM-2 coordinate movement anomaly issue
+* Fix the problem of incorrect orientation of spliced images
+* Fix one click multi-channel crash issue
+
+### Optimize
+* Optimize path planning for real-time preview view scanning
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
+
 ## Version 1.0.8-beta
 
 Release Date : 2025/12/10
