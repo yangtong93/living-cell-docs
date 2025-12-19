@@ -1,5 +1,21 @@
 # 2025 Version Update
 
+## Version 1.1.0-beta
+
+Release Date : 2025/12/18
+
+### Fix
+* Autofocus only works on the first channel of the field of view
+
+### Optimize
+* Adjust the display mode of shooting information for viewing images
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.0.9-beta
 
 Release Date : 2025/12/17
