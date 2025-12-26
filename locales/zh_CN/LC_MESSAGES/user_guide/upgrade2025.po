@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CellPerception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-19 14:34+0800\n"
+"POT-Creation-Date: 2025-12-26 16:58+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -25,1288 +25,1374 @@ msgid "2025 Version Update"
 msgstr "2025版本更新说明"
 
 #: ../../source/user_guide/upgrade2025.md:3 e9e23ad699bc4cc98adb8df754f795cb
-msgid "Version 1.1.0-beta"
+msgid "Version 1.1.1-beta"
 msgstr ""
 
 #: ../../source/user_guide/upgrade2025.md:5 021cde3712174a66b893c35f45b7205e
-msgid "Release Date : 2025/12/18"
-msgstr "发布日期：2025/12/18"
+msgid "Release Date : 2025/12/26"
+msgstr "发布日期：2025/12/26"
 
 #: ../../source/user_guide/upgrade2025.md:7
-#: ../../source/user_guide/upgrade2025.md:27
-#: ../../source/user_guide/upgrade2025.md:58
+#: ../../source/user_guide/upgrade2025.md:53
 #: ../../source/user_guide/upgrade2025.md:81
-#: ../../source/user_guide/upgrade2025.md:108
-#: ../../source/user_guide/upgrade2025.md:146
-#: ../../source/user_guide/upgrade2025.md:170
-#: ../../source/user_guide/upgrade2025.md:207
-#: ../../source/user_guide/upgrade2025.md:261
-#: ../../source/user_guide/upgrade2025.md:284
-#: ../../source/user_guide/upgrade2025.md:314
-#: ../../source/user_guide/upgrade2025.md:342
-#: ../../source/user_guide/upgrade2025.md:356
-#: ../../source/user_guide/upgrade2025.md:377
-#: ../../source/user_guide/upgrade2025.md:404
-#: ../../source/user_guide/upgrade2025.md:423
-#: ../../source/user_guide/upgrade2025.md:471
-#: ../../source/user_guide/upgrade2025.md:491
-#: ../../source/user_guide/upgrade2025.md:517
-#: ../../source/user_guide/upgrade2025.md:542
-#: ../../source/user_guide/upgrade2025.md:570 7e6b2f0001b148eca5b49a22ff6ecd9d
-msgid "Fix"
-msgstr "修复"
-
-#: ../../source/user_guide/upgrade2025.md:8 adeba27f6c5d47a8b5235f512589edbc
-msgid "Autofocus only works on the first channel of the field of view"
-msgstr "自动对焦只对视野的第一个通道进行生效"
-
-#: ../../source/user_guide/upgrade2025.md:10
-#: ../../source/user_guide/upgrade2025.md:37
-#: ../../source/user_guide/upgrade2025.md:62
-#: ../../source/user_guide/upgrade2025.md:85
-#: ../../source/user_guide/upgrade2025.md:116
-#: ../../source/user_guide/upgrade2025.md:151
-#: ../../source/user_guide/upgrade2025.md:176
-#: ../../source/user_guide/upgrade2025.md:210
-#: ../../source/user_guide/upgrade2025.md:240
-#: ../../source/user_guide/upgrade2025.md:266
-#: ../../source/user_guide/upgrade2025.md:291
-#: ../../source/user_guide/upgrade2025.md:310
-#: ../../source/user_guide/upgrade2025.md:336
-#: ../../source/user_guide/upgrade2025.md:386
-#: ../../source/user_guide/upgrade2025.md:431
-#: ../../source/user_guide/upgrade2025.md:475
-#: ../../source/user_guide/upgrade2025.md:550
-#: ../../source/user_guide/upgrade2025.md:574 3995f03c44ee402aac9310ab80140fe5
-msgid "Optimize"
-msgstr "优化"
-
-#: ../../source/user_guide/upgrade2025.md:11 b4d139c59c37433a809ef9cbb90797c5
-msgid "Adjust the display mode of shooting information for viewing images"
-msgstr "调整查看图像的拍摄信息显示方式"
-
-#: ../../source/user_guide/upgrade2025.md:13
-#: ../../source/user_guide/upgrade2025.md:40
-#: ../../source/user_guide/upgrade2025.md:65
-#: ../../source/user_guide/upgrade2025.md:90
-#: ../../source/user_guide/upgrade2025.md:120
-#: ../../source/user_guide/upgrade2025.md:136
-#: ../../source/user_guide/upgrade2025.md:157
-#: ../../source/user_guide/upgrade2025.md:179
-#: ../../source/user_guide/upgrade2025.md:196
-#: ../../source/user_guide/upgrade2025.md:214
-#: ../../source/user_guide/upgrade2025.md:243
-#: ../../source/user_guide/upgrade2025.md:271
-#: ../../source/user_guide/upgrade2025.md:301
-#: ../../source/user_guide/upgrade2025.md:318
-#: ../../source/user_guide/upgrade2025.md:346
-#: ../../source/user_guide/upgrade2025.md:362
-#: ../../source/user_guide/upgrade2025.md:394
-#: ../../source/user_guide/upgrade2025.md:407
-#: ../../source/user_guide/upgrade2025.md:437
-#: ../../source/user_guide/upgrade2025.md:456
-#: ../../source/user_guide/upgrade2025.md:479
-#: ../../source/user_guide/upgrade2025.md:497
-#: ../../source/user_guide/upgrade2025.md:524
-#: ../../source/user_guide/upgrade2025.md:554
-#: ../../source/user_guide/upgrade2025.md:578 d45b8b8fb9ac48a4ac5e73a41a4a221a
-msgid "Notes"
-msgstr "注意"
-
-#: ../../source/user_guide/upgrade2025.md:14
-#: ../../source/user_guide/upgrade2025.md:41
-#: ../../source/user_guide/upgrade2025.md:66
-#: ../../source/user_guide/upgrade2025.md:91
-#: ../../source/user_guide/upgrade2025.md:121
-#: ../../source/user_guide/upgrade2025.md:137
-#: ../../source/user_guide/upgrade2025.md:158
-#: ../../source/user_guide/upgrade2025.md:180
-#: ../../source/user_guide/upgrade2025.md:197
-#: ../../source/user_guide/upgrade2025.md:244
-#: ../../source/user_guide/upgrade2025.md:319
-#: ../../source/user_guide/upgrade2025.md:347
-#: ../../source/user_guide/upgrade2025.md:363
-#: ../../source/user_guide/upgrade2025.md:395
-#: ../../source/user_guide/upgrade2025.md:408
-#: ../../source/user_guide/upgrade2025.md:438
-#: ../../source/user_guide/upgrade2025.md:457
-#: ../../source/user_guide/upgrade2025.md:480
-#: ../../source/user_guide/upgrade2025.md:498
-#: ../../source/user_guide/upgrade2025.md:525
-#: ../../source/user_guide/upgrade2025.md:555
-#: ../../source/user_guide/upgrade2025.md:579 661bd50cf6c04af88f9e7ca241e9cd5e
-msgid "This is still a beta version and may contain many bugs."
-msgstr "这是一个测试版，可能存在许多bug"
-
-#: ../../source/user_guide/upgrade2025.md:15
-#: ../../source/user_guide/upgrade2025.md:42
-#: ../../source/user_guide/upgrade2025.md:67
-#: ../../source/user_guide/upgrade2025.md:92
-#: ../../source/user_guide/upgrade2025.md:122
-#: ../../source/user_guide/upgrade2025.md:138
-#: ../../source/user_guide/upgrade2025.md:159
-#: ../../source/user_guide/upgrade2025.md:181
-#: ../../source/user_guide/upgrade2025.md:198
-#: ../../source/user_guide/upgrade2025.md:215
-#: ../../source/user_guide/upgrade2025.md:245
-#: ../../source/user_guide/upgrade2025.md:272
-#: ../../source/user_guide/upgrade2025.md:302
-#: ../../source/user_guide/upgrade2025.md:320
-#: ../../source/user_guide/upgrade2025.md:348
-#: ../../source/user_guide/upgrade2025.md:364
-#: ../../source/user_guide/upgrade2025.md:396
-#: ../../source/user_guide/upgrade2025.md:409
-#: ../../source/user_guide/upgrade2025.md:439
-#: ../../source/user_guide/upgrade2025.md:458
-#: ../../source/user_guide/upgrade2025.md:481
-#: ../../source/user_guide/upgrade2025.md:499
-#: ../../source/user_guide/upgrade2025.md:526
-#: ../../source/user_guide/upgrade2025.md:556
-#: ../../source/user_guide/upgrade2025.md:580 50a5123aab4b4dababb332ca9a375c03
-msgid "Only supports Windows 7/10 (x64) or above"
-msgstr "只支持Windows 7/10 (x64) 及以上"
-
-#: ../../source/user_guide/upgrade2025.md:16
-#: ../../source/user_guide/upgrade2025.md:43
-#: ../../source/user_guide/upgrade2025.md:68
-#: ../../source/user_guide/upgrade2025.md:93
-#: ../../source/user_guide/upgrade2025.md:123
-#: ../../source/user_guide/upgrade2025.md:139
-#: ../../source/user_guide/upgrade2025.md:160
-#: ../../source/user_guide/upgrade2025.md:182
-#: ../../source/user_guide/upgrade2025.md:199
-#: ../../source/user_guide/upgrade2025.md:216
-#: ../../source/user_guide/upgrade2025.md:246
-#: ../../source/user_guide/upgrade2025.md:273
-#: ../../source/user_guide/upgrade2025.md:303
-#: ../../source/user_guide/upgrade2025.md:321
-#: ../../source/user_guide/upgrade2025.md:349
-#: ../../source/user_guide/upgrade2025.md:365
-#: ../../source/user_guide/upgrade2025.md:397
-#: ../../source/user_guide/upgrade2025.md:410
-#: ../../source/user_guide/upgrade2025.md:440
-#: ../../source/user_guide/upgrade2025.md:459
-#: ../../source/user_guide/upgrade2025.md:482
-#: ../../source/user_guide/upgrade2025.md:500
-#: ../../source/user_guide/upgrade2025.md:527
-#: ../../source/user_guide/upgrade2025.md:557
-#: ../../source/user_guide/upgrade2025.md:581 e08cd074820a44f2b0f7a8920fd98350
-msgid "OpenGL 2.1 or above"
-msgstr "OpenGL 2.1 及以上"
-
-#: ../../source/user_guide/upgrade2025.md:17
-#: ../../source/user_guide/upgrade2025.md:44
-#: ../../source/user_guide/upgrade2025.md:69
-#: ../../source/user_guide/upgrade2025.md:94
-#: ../../source/user_guide/upgrade2025.md:124
-#: ../../source/user_guide/upgrade2025.md:140
-#: ../../source/user_guide/upgrade2025.md:161
-#: ../../source/user_guide/upgrade2025.md:183
-#: ../../source/user_guide/upgrade2025.md:200
-#: ../../source/user_guide/upgrade2025.md:217
-#: ../../source/user_guide/upgrade2025.md:247
-#: ../../source/user_guide/upgrade2025.md:274
-#: ../../source/user_guide/upgrade2025.md:304
-#: ../../source/user_guide/upgrade2025.md:322
-#: ../../source/user_guide/upgrade2025.md:350
-#: ../../source/user_guide/upgrade2025.md:366
-#: ../../source/user_guide/upgrade2025.md:398
-#: ../../source/user_guide/upgrade2025.md:411
-#: ../../source/user_guide/upgrade2025.md:441
-#: ../../source/user_guide/upgrade2025.md:460
-#: ../../source/user_guide/upgrade2025.md:483
-#: ../../source/user_guide/upgrade2025.md:501
-#: ../../source/user_guide/upgrade2025.md:528
-#: ../../source/user_guide/upgrade2025.md:558
-#: ../../source/user_guide/upgrade2025.md:582 b821536fe6ee4d16bbb352f82fa05ebc
-msgid "Some modules require license authorization to be used"
-msgstr "一些模块需要许可证授权才可使用"
-
-#: ../../source/user_guide/upgrade2025.md:19 e9e23ad699bc4cc98adb8df754f795cb
-msgid "Version 1.0.9-beta"
-msgstr ""
-
-#: ../../source/user_guide/upgrade2025.md:21 021cde3712174a66b893c35f45b7205e
-msgid "Release Date : 2025/12/17"
-msgstr "发布日期：2025/12/17"
-
-#: ../../source/user_guide/upgrade2025.md:23
-#: ../../source/user_guide/upgrade2025.md:51
-#: ../../source/user_guide/upgrade2025.md:76
-#: ../../source/user_guide/upgrade2025.md:100
+#: ../../source/user_guide/upgrade2025.md:106
 #: ../../source/user_guide/upgrade2025.md:130
-#: ../../source/user_guide/upgrade2025.md:167
-#: ../../source/user_guide/upgrade2025.md:189
-#: ../../source/user_guide/upgrade2025.md:223
+#: ../../source/user_guide/upgrade2025.md:160
+#: ../../source/user_guide/upgrade2025.md:197
+#: ../../source/user_guide/upgrade2025.md:219
 #: ../../source/user_guide/upgrade2025.md:253
-#: ../../source/user_guide/upgrade2025.md:280
-#: ../../source/user_guide/upgrade2025.md:328
-#: ../../source/user_guide/upgrade2025.md:372
-#: ../../source/user_guide/upgrade2025.md:417
-#: ../../source/user_guide/upgrade2025.md:448
-#: ../../source/user_guide/upgrade2025.md:466
-#: ../../source/user_guide/upgrade2025.md:507
-#: ../../source/user_guide/upgrade2025.md:534
-#: ../../source/user_guide/upgrade2025.md:566 be1e35e8289446b49c9861a9d22ffba9
+#: ../../source/user_guide/upgrade2025.md:283
+#: ../../source/user_guide/upgrade2025.md:310
+#: ../../source/user_guide/upgrade2025.md:358
+#: ../../source/user_guide/upgrade2025.md:402
+#: ../../source/user_guide/upgrade2025.md:447
+#: ../../source/user_guide/upgrade2025.md:478
+#: ../../source/user_guide/upgrade2025.md:496
+#: ../../source/user_guide/upgrade2025.md:537
+#: ../../source/user_guide/upgrade2025.md:564
+#: ../../source/user_guide/upgrade2025.md:596 be1e35e8289446b49c9861a9d22ffba9
 msgid "New"
 msgstr "新增"
 
-#: ../../source/user_guide/upgrade2025.md:24 8d6fd495ae214321a32c952e0aa4cbce
+#: ../../source/user_guide/upgrade2025.md:8 6f579a219cb54cdeaa560c6aa3813dc4
+msgid "Real time preview page, with adjustable field of view overlap rate."
+msgstr "实时预览页面，视野重叠率可以进行设置。"
+
+#: ../../source/user_guide/upgrade2025.md:9 b203b347471e4f2793c46e6f41ded9ba
+msgid ""
+"Multi hole multi view shooting and one click multi-channel shooting, "
+"supporting customizable channel sequence."
+msgstr "多孔多视野拍摄和一键多通道拍摄，支持通道顺序可自定义。"
+
+#: ../../source/user_guide/upgrade2025.md:10 8d6fd495ae214321a32c952e0aa4cbce
+msgid ""
+"Real time preview page, add a button for setting the starting point of "
+"hole focusing."
+msgstr "实时预览页面，增加一个按钮，用于设置孔对焦起点。"
+
+#: ../../source/user_guide/upgrade2025.md:11 66e0ea610acb4806a330950db53dc9d3
+msgid ""
+"Add shadow correction processing to the image page. (Used for stitched "
+"images)"
+msgstr "查看图像页面增加阴影矫正处理。（用于拼接后的图像）"
+
+#: ../../source/user_guide/upgrade2025.md:12 e5832180a96346ffa16c7a379fc9519e
+msgid "Add fluorescence denoising algorithm to the image page."
+msgstr "查看图像页面增加荧光降噪算法。"
+
+#: ../../source/user_guide/upgrade2025.md:13 8b4b41ec7cdd4613bbb0f99835cb4ca2
+msgid "Shoot the hole positions in order according to the shortest path."
+msgstr "拍摄孔位顺序，按照最短路径来。"
+
+#: ../../source/user_guide/upgrade2025.md:15
+#: ../../source/user_guide/upgrade2025.md:40
+#: ../../source/user_guide/upgrade2025.md:67
+#: ../../source/user_guide/upgrade2025.md:92
+#: ../../source/user_guide/upgrade2025.md:115
+#: ../../source/user_guide/upgrade2025.md:146
+#: ../../source/user_guide/upgrade2025.md:181
+#: ../../source/user_guide/upgrade2025.md:206
+#: ../../source/user_guide/upgrade2025.md:240
+#: ../../source/user_guide/upgrade2025.md:270
+#: ../../source/user_guide/upgrade2025.md:296
+#: ../../source/user_guide/upgrade2025.md:321
+#: ../../source/user_guide/upgrade2025.md:340
+#: ../../source/user_guide/upgrade2025.md:366
+#: ../../source/user_guide/upgrade2025.md:416
+#: ../../source/user_guide/upgrade2025.md:461
+#: ../../source/user_guide/upgrade2025.md:505
+#: ../../source/user_guide/upgrade2025.md:580
+#: ../../source/user_guide/upgrade2025.md:604 3995f03c44ee402aac9310ab80140fe5
+msgid "Optimize"
+msgstr "优化"
+
+#: ../../source/user_guide/upgrade2025.md:16 14c906505fa64957b0030de9bf7deed7
+msgid "SM-3's movement speed has increased."
+msgstr "SM-3移动速度提高。"
+
+#: ../../source/user_guide/upgrade2025.md:18
+#: ../../source/user_guide/upgrade2025.md:37
+#: ../../source/user_guide/upgrade2025.md:57
+#: ../../source/user_guide/upgrade2025.md:88
+#: ../../source/user_guide/upgrade2025.md:111
+#: ../../source/user_guide/upgrade2025.md:138
+#: ../../source/user_guide/upgrade2025.md:176
+#: ../../source/user_guide/upgrade2025.md:200
+#: ../../source/user_guide/upgrade2025.md:237
+#: ../../source/user_guide/upgrade2025.md:291
+#: ../../source/user_guide/upgrade2025.md:314
+#: ../../source/user_guide/upgrade2025.md:344
+#: ../../source/user_guide/upgrade2025.md:372
+#: ../../source/user_guide/upgrade2025.md:386
+#: ../../source/user_guide/upgrade2025.md:407
+#: ../../source/user_guide/upgrade2025.md:434
+#: ../../source/user_guide/upgrade2025.md:453
+#: ../../source/user_guide/upgrade2025.md:501
+#: ../../source/user_guide/upgrade2025.md:521
+#: ../../source/user_guide/upgrade2025.md:547
+#: ../../source/user_guide/upgrade2025.md:572
+#: ../../source/user_guide/upgrade2025.md:600 7e6b2f0001b148eca5b49a22ff6ecd9d
+msgid "Fix"
+msgstr "修复"
+
+#: ../../source/user_guide/upgrade2025.md:19 1e2ecf450e0149e99bdb68084a3b86ef
+msgid ""
+"Fixed issues with real-time preview, multi hole multi view shooting, and "
+"ineffective focus starting point/range."
+msgstr "修复实时预览，多孔多视野拍摄，对焦起点/范围不生效问题。 "
+
+#: ../../source/user_guide/upgrade2025.md:20 8b4b41ec7cdd4613bbb0f99835cb4ca2
+msgid ""
+"Fixed the issue of ineffective focus starting point/range during time "
+"series shooting."
+msgstr "修复时间序列拍摄拍摄，对焦起点/范围不生效问题。 "
+
+#: ../../source/user_guide/upgrade2025.md:21 c4581427a8f14abb8c73f136d19c1fcc
+msgid ""
+"Interval autofocus starts from the first field of view within each hole, "
+"with N fields of view spaced apart."
+msgstr "间隔N个视野，按照每个孔内的第一个视野开始进行间隔自动对焦。"
+
+#: ../../source/user_guide/upgrade2025.md:22 20ec841d0fb0471f8d74813e617a54e6
+msgid "Fix abnormal image viewing function for local files"
+msgstr "修复本地文件的查看图像功能异常"
+
+#: ../../source/user_guide/upgrade2025.md:23 8b4b41ec7cdd4613bbb0f99835cb4ca2
+msgid "Fix abnormal export image/video function of local files."
+msgstr "修复本地文件的导出图像/视频功能异常。"
+
+#: ../../source/user_guide/upgrade2025.md:24 8ff5f26c956d45a792cf3f53f4346408
+msgid ""
+"Switching the fluorescent channel to the bright field channel can solve "
+"occasional overexposure in the image."
+msgstr "荧光通道切换明场通道，解决偶尔画面过曝情况。"
+
+#: ../../source/user_guide/upgrade2025.md:25 8b4b41ec7cdd4613bbb0f99835cb4ca2
+msgid "Solve the problem of shortest path planning and long time"
+msgstr "解决最短路径规划，时间过长问题"
+
+#: ../../source/user_guide/upgrade2025.md:27
+#: ../../source/user_guide/upgrade2025.md:43
+#: ../../source/user_guide/upgrade2025.md:70
+#: ../../source/user_guide/upgrade2025.md:95
+#: ../../source/user_guide/upgrade2025.md:120
+#: ../../source/user_guide/upgrade2025.md:150
+#: ../../source/user_guide/upgrade2025.md:166
+#: ../../source/user_guide/upgrade2025.md:187
+#: ../../source/user_guide/upgrade2025.md:209
+#: ../../source/user_guide/upgrade2025.md:226
+#: ../../source/user_guide/upgrade2025.md:244
+#: ../../source/user_guide/upgrade2025.md:273
+#: ../../source/user_guide/upgrade2025.md:301
+#: ../../source/user_guide/upgrade2025.md:331
+#: ../../source/user_guide/upgrade2025.md:348
+#: ../../source/user_guide/upgrade2025.md:376
+#: ../../source/user_guide/upgrade2025.md:392
+#: ../../source/user_guide/upgrade2025.md:424
+#: ../../source/user_guide/upgrade2025.md:437
+#: ../../source/user_guide/upgrade2025.md:467
+#: ../../source/user_guide/upgrade2025.md:486
+#: ../../source/user_guide/upgrade2025.md:509
+#: ../../source/user_guide/upgrade2025.md:527
+#: ../../source/user_guide/upgrade2025.md:554
+#: ../../source/user_guide/upgrade2025.md:584
+#: ../../source/user_guide/upgrade2025.md:608 d45b8b8fb9ac48a4ac5e73a41a4a221a
+msgid "Notes"
+msgstr "注意"
+
+#: ../../source/user_guide/upgrade2025.md:28
+#: ../../source/user_guide/upgrade2025.md:44
+#: ../../source/user_guide/upgrade2025.md:71
+#: ../../source/user_guide/upgrade2025.md:96
+#: ../../source/user_guide/upgrade2025.md:121
+#: ../../source/user_guide/upgrade2025.md:151
+#: ../../source/user_guide/upgrade2025.md:167
+#: ../../source/user_guide/upgrade2025.md:188
+#: ../../source/user_guide/upgrade2025.md:210
+#: ../../source/user_guide/upgrade2025.md:227
+#: ../../source/user_guide/upgrade2025.md:274
+#: ../../source/user_guide/upgrade2025.md:349
+#: ../../source/user_guide/upgrade2025.md:377
+#: ../../source/user_guide/upgrade2025.md:393
+#: ../../source/user_guide/upgrade2025.md:425
+#: ../../source/user_guide/upgrade2025.md:438
+#: ../../source/user_guide/upgrade2025.md:468
+#: ../../source/user_guide/upgrade2025.md:487
+#: ../../source/user_guide/upgrade2025.md:510
+#: ../../source/user_guide/upgrade2025.md:528
+#: ../../source/user_guide/upgrade2025.md:555
+#: ../../source/user_guide/upgrade2025.md:585
+#: ../../source/user_guide/upgrade2025.md:609 661bd50cf6c04af88f9e7ca241e9cd5e
+msgid "This is still a beta version and may contain many bugs."
+msgstr "这是一个测试版，可能存在许多bug"
+
+#: ../../source/user_guide/upgrade2025.md:29
+#: ../../source/user_guide/upgrade2025.md:45
+#: ../../source/user_guide/upgrade2025.md:72
+#: ../../source/user_guide/upgrade2025.md:97
+#: ../../source/user_guide/upgrade2025.md:122
+#: ../../source/user_guide/upgrade2025.md:152
+#: ../../source/user_guide/upgrade2025.md:168
+#: ../../source/user_guide/upgrade2025.md:189
+#: ../../source/user_guide/upgrade2025.md:211
+#: ../../source/user_guide/upgrade2025.md:228
+#: ../../source/user_guide/upgrade2025.md:245
+#: ../../source/user_guide/upgrade2025.md:275
+#: ../../source/user_guide/upgrade2025.md:302
+#: ../../source/user_guide/upgrade2025.md:332
+#: ../../source/user_guide/upgrade2025.md:350
+#: ../../source/user_guide/upgrade2025.md:378
+#: ../../source/user_guide/upgrade2025.md:394
+#: ../../source/user_guide/upgrade2025.md:426
+#: ../../source/user_guide/upgrade2025.md:439
+#: ../../source/user_guide/upgrade2025.md:469
+#: ../../source/user_guide/upgrade2025.md:488
+#: ../../source/user_guide/upgrade2025.md:511
+#: ../../source/user_guide/upgrade2025.md:529
+#: ../../source/user_guide/upgrade2025.md:556
+#: ../../source/user_guide/upgrade2025.md:586
+#: ../../source/user_guide/upgrade2025.md:610 50a5123aab4b4dababb332ca9a375c03
+msgid "Only supports Windows 7/10 (x64) or above"
+msgstr "只支持Windows 7/10 (x64) 及以上"
+
+#: ../../source/user_guide/upgrade2025.md:30
+#: ../../source/user_guide/upgrade2025.md:46
+#: ../../source/user_guide/upgrade2025.md:73
+#: ../../source/user_guide/upgrade2025.md:98
+#: ../../source/user_guide/upgrade2025.md:123
+#: ../../source/user_guide/upgrade2025.md:153
+#: ../../source/user_guide/upgrade2025.md:169
+#: ../../source/user_guide/upgrade2025.md:190
+#: ../../source/user_guide/upgrade2025.md:212
+#: ../../source/user_guide/upgrade2025.md:229
+#: ../../source/user_guide/upgrade2025.md:246
+#: ../../source/user_guide/upgrade2025.md:276
+#: ../../source/user_guide/upgrade2025.md:303
+#: ../../source/user_guide/upgrade2025.md:333
+#: ../../source/user_guide/upgrade2025.md:351
+#: ../../source/user_guide/upgrade2025.md:379
+#: ../../source/user_guide/upgrade2025.md:395
+#: ../../source/user_guide/upgrade2025.md:427
+#: ../../source/user_guide/upgrade2025.md:440
+#: ../../source/user_guide/upgrade2025.md:470
+#: ../../source/user_guide/upgrade2025.md:489
+#: ../../source/user_guide/upgrade2025.md:512
+#: ../../source/user_guide/upgrade2025.md:530
+#: ../../source/user_guide/upgrade2025.md:557
+#: ../../source/user_guide/upgrade2025.md:587
+#: ../../source/user_guide/upgrade2025.md:611 e08cd074820a44f2b0f7a8920fd98350
+msgid "OpenGL 2.1 or above"
+msgstr "OpenGL 2.1 及以上"
+
+#: ../../source/user_guide/upgrade2025.md:31
+#: ../../source/user_guide/upgrade2025.md:47
+#: ../../source/user_guide/upgrade2025.md:74
+#: ../../source/user_guide/upgrade2025.md:99
+#: ../../source/user_guide/upgrade2025.md:124
+#: ../../source/user_guide/upgrade2025.md:154
+#: ../../source/user_guide/upgrade2025.md:170
+#: ../../source/user_guide/upgrade2025.md:191
+#: ../../source/user_guide/upgrade2025.md:213
+#: ../../source/user_guide/upgrade2025.md:230
+#: ../../source/user_guide/upgrade2025.md:247
+#: ../../source/user_guide/upgrade2025.md:277
+#: ../../source/user_guide/upgrade2025.md:304
+#: ../../source/user_guide/upgrade2025.md:334
+#: ../../source/user_guide/upgrade2025.md:352
+#: ../../source/user_guide/upgrade2025.md:380
+#: ../../source/user_guide/upgrade2025.md:396
+#: ../../source/user_guide/upgrade2025.md:428
+#: ../../source/user_guide/upgrade2025.md:441
+#: ../../source/user_guide/upgrade2025.md:471
+#: ../../source/user_guide/upgrade2025.md:490
+#: ../../source/user_guide/upgrade2025.md:513
+#: ../../source/user_guide/upgrade2025.md:531
+#: ../../source/user_guide/upgrade2025.md:558
+#: ../../source/user_guide/upgrade2025.md:588
+#: ../../source/user_guide/upgrade2025.md:612 b821536fe6ee4d16bbb352f82fa05ebc
+msgid "Some modules require license authorization to be used"
+msgstr "一些模块需要许可证授权才可使用"
+
+#: ../../source/user_guide/upgrade2025.md:33 e9e23ad699bc4cc98adb8df754f795cb
+msgid "Version 1.1.0-beta"
+msgstr ""
+
+#: ../../source/user_guide/upgrade2025.md:35 021cde3712174a66b893c35f45b7205e
+msgid "Release Date : 2025/12/18"
+msgstr "发布日期：2025/12/18"
+
+#: ../../source/user_guide/upgrade2025.md:38 adeba27f6c5d47a8b5235f512589edbc
+msgid "Autofocus only works on the first channel of the field of view"
+msgstr "自动对焦只对视野的第一个通道进行生效"
+
+#: ../../source/user_guide/upgrade2025.md:41 b4d139c59c37433a809ef9cbb90797c5
+msgid "Adjust the display mode of shooting information for viewing images"
+msgstr "调整查看图像的拍摄信息显示方式"
+
+#: ../../source/user_guide/upgrade2025.md:49 e9e23ad699bc4cc98adb8df754f795cb
+msgid "Version 1.0.9-beta"
+msgstr ""
+
+#: ../../source/user_guide/upgrade2025.md:51 021cde3712174a66b893c35f45b7205e
+msgid "Release Date : 2025/12/17"
+msgstr "发布日期：2025/12/17"
+
+#: ../../source/user_guide/upgrade2025.md:54 8d6fd495ae214321a32c952e0aa4cbce
 msgid ""
 "Real time preview and time series shooting with added hole pre focus "
 "function"
 msgstr "实时预览和时间序列拍摄增加孔预对焦功能"
 
-#: ../../source/user_guide/upgrade2025.md:25 f72d451420d04fa594a42eba34c14a80
+#: ../../source/user_guide/upgrade2025.md:55 f72d451420d04fa594a42eba34c14a80
 msgid "Time series shooting supports 2D image stitching"
 msgstr "时间序列拍摄支持二维图像拼接"
 
-#: ../../source/user_guide/upgrade2025.md:28 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:58 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Re calibrate the correspondence between the objective lens and the scale "
 "bar"
 msgstr "重新标定物镜与比例尺对应关系"
 
-#: ../../source/user_guide/upgrade2025.md:29 9c48aeb5d4f646309f6d8ac613e1007e
+#: ../../source/user_guide/upgrade2025.md:59 9c48aeb5d4f646309f6d8ac613e1007e
 msgid "Analyzing image collapse issues without adjusting brightness and contrast"
 msgstr "未调节亮度与对比度情况下，分析图像崩溃问题"
 
-#: ../../source/user_guide/upgrade2025.md:30 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:60 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of overlapping rate errors in image stitching"
 msgstr "修复图像拼接的重叠率错误问题"
 
-#: ../../source/user_guide/upgrade2025.md:31 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:61 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the time-consuming process of generating masks"
 msgstr "修复生成遮罩过程耗时问题"
 
-#: ../../source/user_guide/upgrade2025.md:32 b203b347471e4f2793c46e6f41ded9ba
+#: ../../source/user_guide/upgrade2025.md:62 b203b347471e4f2793c46e6f41ded9ba
 msgid ""
 "Multi point multi view shooting, first capture multiple channels of a "
 "single view, and then move to the next view"
 msgstr "多点多视野拍摄，先拍单个视野的多通道，再进行移动到下一个视野"
 
-#: ../../source/user_guide/upgrade2025.md:33 ba7fa7e58bfd49d9ab651e9f3d6ef64a
+#: ../../source/user_guide/upgrade2025.md:63 ba7fa7e58bfd49d9ab651e9f3d6ef64a
 msgid "Fix SM-2 coordinate movement anomaly issue"
 msgstr "修复SM-2坐标移动异常问题"
 
-#: ../../source/user_guide/upgrade2025.md:34 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:64 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the problem of incorrect orientation of spliced images"
 msgstr "修复拼接图像方向不正确问题"
 
-#: ../../source/user_guide/upgrade2025.md:35 0a96160d0c354cffb7411e49a255dfcc
+#: ../../source/user_guide/upgrade2025.md:65 0a96160d0c354cffb7411e49a255dfcc
 msgid "Fix one click multi-channel crash issue"
 msgstr "修复一键多通道崩溃问题"
 
-#: ../../source/user_guide/upgrade2025.md:38 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:68 a4915f5d504e4e96a954520c1e0e793f
 msgid "Optimize path planning for real-time preview view scanning"
 msgstr "优化实时预览视野扫描的路径规划"
 
-#: ../../source/user_guide/upgrade2025.md:47 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:77 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 1.0.8-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:49 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:79 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/12/10"
 msgstr "发布日期：2025/12/10"
 
-#: ../../source/user_guide/upgrade2025.md:52 69baaad404b444758536d615bd521dad
+#: ../../source/user_guide/upgrade2025.md:82 69baaad404b444758536d615bd521dad
 msgid "Support SM-3 devices"
 msgstr "支持SM-3设备"
 
-#: ../../source/user_guide/upgrade2025.md:53 8a6d2d513bab47b79b137ed896751ea4
+#: ../../source/user_guide/upgrade2025.md:83 8a6d2d513bab47b79b137ed896751ea4
 msgid "Add analysis page related functions"
 msgstr "新增分析页面相关功能"
 
-#: ../../source/user_guide/upgrade2025.md:54 311b34a0e1564eb3bbf8365186cf91e0
+#: ../../source/user_guide/upgrade2025.md:84 311b34a0e1564eb3bbf8365186cf91e0
 msgid "Add functions related to viewing image pages"
 msgstr "新增查看图像页面相关功能"
 
-#: ../../source/user_guide/upgrade2025.md:55 f72d451420d04fa594a42eba34c14a80
+#: ../../source/user_guide/upgrade2025.md:85 f72d451420d04fa594a42eba34c14a80
 msgid ""
 "Time series shooting supports automatic focusing at intervals of N fields"
 " of view"
 msgstr "时间序列拍摄支持间隔N个视野自动对焦"
 
-#: ../../source/user_guide/upgrade2025.md:56 f72d451420d04fa594a42eba34c14a80
+#: ../../source/user_guide/upgrade2025.md:86 f72d451420d04fa594a42eba34c14a80
 msgid ""
 "Time series shooting supports execution analysis and display analysis "
 "results"
 msgstr "时间序列拍摄支持执行分析与显示分析结果"
 
-#: ../../source/user_guide/upgrade2025.md:59 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:89 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Fix the problem of inaccurate coordinate calculation of holes and field "
 "of view"
 msgstr "修复孔和视野的坐标计算不准确问题"
 
-#: ../../source/user_guide/upgrade2025.md:60 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:90 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix ZStack parameter calculation error issue"
 msgstr "修复ZStack参数计算错误问题"
 
-#: ../../source/user_guide/upgrade2025.md:63 bda6878af19940e9b4d46ac8a75fb154
+#: ../../source/user_guide/upgrade2025.md:93 bda6878af19940e9b4d46ac8a75fb154
 msgid "Optimize the schematic display module of the orifice plate"
 msgstr "优化孔板示意图显示模块"
 
-#: ../../source/user_guide/upgrade2025.md:72 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:102 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 1.0.7-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:74 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:104 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/11/20"
 msgstr "发布日期：2025/11/20"
 
-#: ../../source/user_guide/upgrade2025.md:77 c68f655573ad419eb646965650ab0643
+#: ../../source/user_guide/upgrade2025.md:107 c68f655573ad419eb646965650ab0643
 msgid ""
 "Add zoffset interface and functionality, suitable for one click multi-"
 "channel shooting and time-series shooting"
 msgstr "增加zoffset界面及功能，适用于一键多通道拍摄和时间序列拍摄"
 
-#: ../../source/user_guide/upgrade2025.md:78 a504a8174f26473384fd23ab997184fc
+#: ../../source/user_guide/upgrade2025.md:108 a504a8174f26473384fd23ab997184fc
 msgid ""
 "Multi point multi view shooting supports multi-channel selection and "
 "execution"
 msgstr "多点多视野拍摄支持多通道的选择与执行"
 
-#: ../../source/user_guide/upgrade2025.md:79 f72d451420d04fa594a42eba34c14a80
+#: ../../source/user_guide/upgrade2025.md:109 f72d451420d04fa594a42eba34c14a80
 msgid "Time series shooting supports scanning devices for multi view shooting"
 msgstr "时间序列拍摄支持扫描设备进行多视野拍摄"
 
-#: ../../source/user_guide/upgrade2025.md:82 a504a8174f26473384fd23ab997184fc
+#: ../../source/user_guide/upgrade2025.md:112 a504a8174f26473384fd23ab997184fc
 msgid "Multi point multi view shooting does not automatically focus by default"
 msgstr "多点多视野拍摄默认不进行自动对焦"
 
-#: ../../source/user_guide/upgrade2025.md:83 92f907c09e594f1fa96a72656a7117af
+#: ../../source/user_guide/upgrade2025.md:113 92f907c09e594f1fa96a72656a7117af
 msgid "Fix the crash issue after modifying camera parameters"
 msgstr "修复相机参数修改后的崩溃问题"
 
-#: ../../source/user_guide/upgrade2025.md:86 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:116 a4915f5d504e4e96a954520c1e0e793f
 msgid "Optimize the accuracy of vessel calibration"
 msgstr "优化器皿校准准确度"
 
-#: ../../source/user_guide/upgrade2025.md:87 325659858b72411f99319caf76ba4dfe
+#: ../../source/user_guide/upgrade2025.md:117 325659858b72411f99319caf76ba4dfe
 msgid "Optimize the scope of the internal frame"
 msgstr "优化内接框的范围"
 
-#: ../../source/user_guide/upgrade2025.md:96 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:126 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 1.0.6-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:98 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:128 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/11/13"
 msgstr "发布日期：2025/11/13"
 
-#: ../../source/user_guide/upgrade2025.md:101 4d095746bf374309999ca8fcd73c8784
+#: ../../source/user_guide/upgrade2025.md:131 4d095746bf374309999ca8fcd73c8784
 msgid "Add auxiliary lines for vessel calibration"
 msgstr "器皿校准增加辅助线"
 
-#: ../../source/user_guide/upgrade2025.md:102 ec21dadc06e246fc932a0d74959693bf
+#: ../../source/user_guide/upgrade2025.md:132 ec21dadc06e246fc932a0d74959693bf
 msgid "Store and read autofocus parameters"
 msgstr "存储和读取自动对焦参数"
 
-#: ../../source/user_guide/upgrade2025.md:103 73dd610fccfc40c1b6a2151f21c9153c
+#: ../../source/user_guide/upgrade2025.md:133 73dd610fccfc40c1b6a2151f21c9153c
 msgid ""
 "Increase the gamma, brightness, and contrast adjustment functions of the "
 "camera"
 msgstr "增加相机的Gamma,亮度，对比度调节功能"
 
-#: ../../source/user_guide/upgrade2025.md:104 adeba27f6c5d47a8b5235f512589edbc
+#: ../../source/user_guide/upgrade2025.md:134 adeba27f6c5d47a8b5235f512589edbc
 msgid ""
 "Add the function of holding down the right mouse button and dragging to "
 "move the field of view"
 msgstr "增加鼠标右键按住拖动视野移动功能"
 
-#: ../../source/user_guide/upgrade2025.md:105 8a924c0d8c6d45a7ab7777c807f90832
+#: ../../source/user_guide/upgrade2025.md:135 8a924c0d8c6d45a7ab7777c807f90832
 msgid ""
 "Add the function of moving the field of view up, down, left, right with "
 "buttons"
 msgstr "增加按键上下左右移动视野功能"
 
-#: ../../source/user_guide/upgrade2025.md:106 77a30f625a1d4a29a564782f6c7459d4
+#: ../../source/user_guide/upgrade2025.md:136 77a30f625a1d4a29a564782f6c7459d4
 msgid ""
 "Add mouse double-click to move the field of view to the center position "
 "on the screen"
 msgstr "增加鼠标双击画面移动视野至中心位置"
 
-#: ../../source/user_guide/upgrade2025.md:109 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:139 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of inconsistent reading values in parameter templates"
 msgstr "修复参数模板读取数值不一致问题"
 
-#: ../../source/user_guide/upgrade2025.md:110 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:140 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix zstack parameter calculation error"
 msgstr "修复zstack参数计算错误"
 
-#: ../../source/user_guide/upgrade2025.md:111 ec2777a15df64225b8ff6d8a184d0663
+#: ../../source/user_guide/upgrade2025.md:141 ec2777a15df64225b8ff6d8a184d0663
 msgid "Resolve issues related to multi-point shooting"
 msgstr "解决多点拍摄相关问题"
 
-#: ../../source/user_guide/upgrade2025.md:112 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:142 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Fixed the issue of incorrect display of multi-point captured images in "
 "the album"
 msgstr "修复相册显示多点拍摄图像的显示不正确问题"
 
-#: ../../source/user_guide/upgrade2025.md:113 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:143 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of device configuration page crashing when entering DD-2"
 msgstr "修复进入DD-2的设备配置页面崩溃问题"
 
-#: ../../source/user_guide/upgrade2025.md:114 ba7fa7e58bfd49d9ab651e9f3d6ef64a
+#: ../../source/user_guide/upgrade2025.md:144 ba7fa7e58bfd49d9ab651e9f3d6ef64a
 msgid "Fix the problem of Z-axis roller movement function failure"
 msgstr "修复Z轴滚轮移动功能失效问题"
 
-#: ../../source/user_guide/upgrade2025.md:117 ec21dadc06e246fc932a0d74959693bf
+#: ../../source/user_guide/upgrade2025.md:147 ec21dadc06e246fc932a0d74959693bf
 msgid "Modify default shooting parameters"
 msgstr "修改默认的拍摄参数"
 
-#: ../../source/user_guide/upgrade2025.md:126 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:156 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 1.0.5-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:128 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:158 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/11/6"
 msgstr "发布日期：2025/11/6"
 
-#: ../../source/user_guide/upgrade2025.md:131 9b5ff9c7c47749469e002f6b545c6fed
+#: ../../source/user_guide/upgrade2025.md:161 9b5ff9c7c47749469e002f6b545c6fed
 msgid "View image page, add image/video file export"
 msgstr "查看图像页面，增加图像/视频文件导出"
 
-#: ../../source/user_guide/upgrade2025.md:132 6f579a219cb54cdeaa560c6aa3813dc4
+#: ../../source/user_guide/upgrade2025.md:162 6f579a219cb54cdeaa560c6aa3813dc4
 msgid "Real time preview page, adding scale bar and unit display"
 msgstr "实时预览页面，增加比例尺和单位显示"
 
-#: ../../source/user_guide/upgrade2025.md:133 8d6fd495ae214321a32c952e0aa4cbce
+#: ../../source/user_guide/upgrade2025.md:163 8d6fd495ae214321a32c952e0aa4cbce
 msgid ""
 "Real time preview page, added autofocus parameter setting function, "
 "autofocus stop function"
 msgstr "实时预览页面，增加自动对焦参数设置功能，自动对焦停止功能"
 
-#: ../../source/user_guide/upgrade2025.md:134 8d6fd495ae214321a32c952e0aa4cbce
+#: ../../source/user_guide/upgrade2025.md:164 8d6fd495ae214321a32c952e0aa4cbce
 msgid ""
 "Real time preview page, adding video recording, snapshot export, and "
 "album functions"
 msgstr "实时预览页面，增加视频录制，快照导出，相册功能"
 
-#: ../../source/user_guide/upgrade2025.md:142 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:172 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 1.0.4-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:144 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:174 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/10/31"
 msgstr "发布日期：2025/10/31"
 
-#: ../../source/user_guide/upgrade2025.md:147 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:177 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix histogram adjustment display error"
 msgstr "修复直方图调节显示错误"
 
-#: ../../source/user_guide/upgrade2025.md:148 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:178 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix inability to access time series shooting page"
 msgstr "修复无法进入时间序列拍摄页面"
 
-#: ../../source/user_guide/upgrade2025.md:149 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:179 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Flip the screen of SM-2 left and right"
 msgstr "SM-2的画面进行左右翻转"
 
-#: ../../source/user_guide/upgrade2025.md:152 0a96160d0c354cffb7411e49a255dfcc
+#: ../../source/user_guide/upgrade2025.md:182 0a96160d0c354cffb7411e49a255dfcc
 msgid "Optimize one click multi-channel shooting"
 msgstr "优化一键多通道拍摄"
 
-#: ../../source/user_guide/upgrade2025.md:153 b41caa34688643098929d391b4f51ab4
+#: ../../source/user_guide/upgrade2025.md:183 b41caa34688643098929d391b4f51ab4
 msgid "Optimize light intensity, gain, and exposure time adjustment functions"
 msgstr "优化光强，增益，曝光时间调节功能"
 
-#: ../../source/user_guide/upgrade2025.md:154 2a6da9eabddc4607b234c3c646faaca6
+#: ../../source/user_guide/upgrade2025.md:184 2a6da9eabddc4607b234c3c646faaca6
 msgid "Optimize XY movement"
 msgstr "优化XY轴移动"
 
-#: ../../source/user_guide/upgrade2025.md:163 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:193 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 1.0.3-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:165 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:195 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/10/29"
 msgstr "发布日期：2025/10/29"
 
-#: ../../source/user_guide/upgrade2025.md:168 8a6d2d513bab47b79b137ed896751ea4
+#: ../../source/user_guide/upgrade2025.md:198 8a6d2d513bab47b79b137ed896751ea4
 msgid "The analysis page supports scanned data sources"
 msgstr "分析页面支持扫描版数据源"
 
-#: ../../source/user_guide/upgrade2025.md:171 66a5441156944ba7b5ab5f40811ba472
+#: ../../source/user_guide/upgrade2025.md:201 66a5441156944ba7b5ab5f40811ba472
 msgid "Improve the support of SM-2 equipment for orifice plate vessels"
 msgstr "完善SM-2设备对孔板器皿的支持"
 
-#: ../../source/user_guide/upgrade2025.md:172 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:202 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Fixed the issue of running termination after enabling auto focus in time "
 "series shooting"
 msgstr "修复时间序列拍摄启用自动对焦后运行终止问题"
 
-#: ../../source/user_guide/upgrade2025.md:173 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:203 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of switching channel Z-axis to zero"
 msgstr "修复切换通道Z轴归0问题"
 
-#: ../../source/user_guide/upgrade2025.md:174 30dfd6936a384f708737b3e6c848eaa5
+#: ../../source/user_guide/upgrade2025.md:204 30dfd6936a384f708737b3e6c848eaa5
 msgid "Repair occasional Y-axis failure issue of SM-2 equipment"
 msgstr "修复SM-2设备的Y轴偶尔失效问题"
 
-#: ../../source/user_guide/upgrade2025.md:177 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:207 a4915f5d504e4e96a954520c1e0e793f
 msgid "Optimize 2D stitching algorithm"
 msgstr "优化二维拼接算法"
 
-#: ../../source/user_guide/upgrade2025.md:185 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:215 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 1.0.2-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:187 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:217 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/10/24"
 msgstr "发布日期：2025/10/24"
 
-#: ../../source/user_guide/upgrade2025.md:190 9b5ff9c7c47749469e002f6b545c6fed
+#: ../../source/user_guide/upgrade2025.md:220 9b5ff9c7c47749469e002f6b545c6fed
 msgid "Real time preview page adjustment interface."
 msgstr "实时预览页面调整界面。"
 
-#: ../../source/user_guide/upgrade2025.md:191 227c2c6a1ab34152b9e95929dcd4909d
+#: ../../source/user_guide/upgrade2025.md:221 227c2c6a1ab34152b9e95929dcd4909d
 msgid ""
 "Real time preview page adjustment of most functions, such as effect "
 "settings, ZStack， Objective lens switching, XYZ axis setting, channel "
 "switching, automatic mode, manual mode."
 msgstr "实时预览页面调整大部分功能，例如效果设置，ZStack，物镜切换，XYZ轴设置，通道切换，自动模式，手动模式。"
 
-#: ../../source/user_guide/upgrade2025.md:192 bda6878af19940e9b4d46ac8a75fb154
+#: ../../source/user_guide/upgrade2025.md:222 bda6878af19940e9b4d46ac8a75fb154
 msgid "View the image page to display the image of the porous plate taken."
 msgstr "查看图像页面，显示多孔板拍摄后的图像。"
 
-#: ../../source/user_guide/upgrade2025.md:193 ae6d7e2f0f8541a29d875546a839362b
+#: ../../source/user_guide/upgrade2025.md:223 ae6d7e2f0f8541a29d875546a839362b
 msgid "Add scanning version device model SM-2."
 msgstr "新增扫描版设备型号SM-2."
 
-#: ../../source/user_guide/upgrade2025.md:194 f72d451420d04fa594a42eba34c14a80
+#: ../../source/user_guide/upgrade2025.md:224 f72d451420d04fa594a42eba34c14a80
 msgid ""
 "Time series shooting supports multi-stage operation with a single field "
 "of view."
 msgstr "时间序列拍摄支持单视野的多阶段运行。"
 
-#: ../../source/user_guide/upgrade2025.md:202 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:232 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 1.0.0-RC1"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:204 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:234 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/10/13"
 msgstr "发布日期：2025/10/13"
 
-#: ../../source/user_guide/upgrade2025.md:208 92f907c09e594f1fa96a72656a7117af
+#: ../../source/user_guide/upgrade2025.md:238 92f907c09e594f1fa96a72656a7117af
 msgid "Fix the crash issue when entering the device configuration page"
 msgstr "修复进入设备配置页面崩溃问题"
 
-#: ../../source/user_guide/upgrade2025.md:211 1af2a1a3bbca4bf0bf8d372bc3e7c92d
+#: ../../source/user_guide/upgrade2025.md:241 1af2a1a3bbca4bf0bf8d372bc3e7c92d
 msgid ""
 "Optimizing the calculation of autofocus starting point during time series"
 " shooting process"
 msgstr "优化时间序列拍摄过程中自动对焦起点的计算"
 
-#: ../../source/user_guide/upgrade2025.md:212 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:242 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Add a new way to obtain hardware information"
 msgstr "新增获取硬件信息的途径"
 
-#: ../../source/user_guide/upgrade2025.md:219 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:249 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 1.0.1-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:221 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:251 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/9/22"
 msgstr "发布日期：2025/9/22"
 
-#: ../../source/user_guide/upgrade2025.md:224 f2b3931f94074b3a978bdd3a72675fba
+#: ../../source/user_guide/upgrade2025.md:254 f2b3931f94074b3a978bdd3a72675fba
 msgid "Vessel selection supports glass slides, well plates, and culture dishes"
 msgstr "器皿选择支持载玻片，孔板，培养皿"
 
-#: ../../source/user_guide/upgrade2025.md:225 f4183cbd9c56491296659f28353dae30
+#: ../../source/user_guide/upgrade2025.md:255 f4183cbd9c56491296659f28353dae30
 msgid "Add manual and automatic modes"
 msgstr "增加手动模式和自动模式"
 
-#: ../../source/user_guide/upgrade2025.md:226 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:256 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Add the function of editing orifice plate information"
 msgstr "增加孔板信息编辑功能"
 
-#: ../../source/user_guide/upgrade2025.md:227 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:257 a4915f5d504e4e96a954520c1e0e793f
 msgid "Increase the management of utensils and consumables"
 msgstr "增加器皿耗材管理"
 
-#: ../../source/user_guide/upgrade2025.md:228 19e41bb498924e8893ec9a8f1d688ff3
+#: ../../source/user_guide/upgrade2025.md:258 19e41bb498924e8893ec9a8f1d688ff3
 msgid "Vessel calibration supports glass slides, well plates, and culture dishes"
 msgstr "器皿校准支持载玻片，孔板，培养皿"
 
-#: ../../source/user_guide/upgrade2025.md:229 63fef43cf79c4b6483d5a16bb7eb8141
+#: ../../source/user_guide/upgrade2025.md:259 63fef43cf79c4b6483d5a16bb7eb8141
 msgid ""
 "XY axis control, supports field of view navigation and positioning, "
 "joystick movement, up, down, left, and right buttons to move the field of"
 " view, mouse drag to move the field of view."
 msgstr "XY轴控制，支持视野导航与定位，手柄移动，上下左右按键移动视野，鼠标拖动移动视野。"
 
-#: ../../source/user_guide/upgrade2025.md:230 8e3baf7f487e4fd5af85a827123fd7ff
+#: ../../source/user_guide/upgrade2025.md:260 8e3baf7f487e4fd5af85a827123fd7ff
 msgid ""
 "View, hole supports single selection, multiple selection. Copy and paste "
 "the view between holes."
 msgstr "视野，孔支持单选，多选。孔之间视野复制，粘贴。"
 
-#: ../../source/user_guide/upgrade2025.md:231 440e50cefe514b4eb04ba90088108fbb
+#: ../../source/user_guide/upgrade2025.md:261 440e50cefe514b4eb04ba90088108fbb
 msgid "View recording, save view, click to move view."
 msgstr "视野记录，保存视野，点击移动视野。"
 
-#: ../../source/user_guide/upgrade2025.md:232 0a96160d0c354cffb7411e49a255dfcc
+#: ../../source/user_guide/upgrade2025.md:262 0a96160d0c354cffb7411e49a255dfcc
 msgid "One click multi-channel shooting, exporting shooting results."
 msgstr "一键多通道拍摄，拍摄结果导出。"
 
-#: ../../source/user_guide/upgrade2025.md:233 a504a8174f26473384fd23ab997184fc
+#: ../../source/user_guide/upgrade2025.md:263 a504a8174f26473384fd23ab997184fc
 msgid ""
 "Multi view and multi-point shooting function, supporting two position "
 "stitching, Z-Stack， Auto focus is optional."
 msgstr "多视野多点拍摄功能，支持二位拼接，Z-Stack，自动对焦作为可选项。"
 
-#: ../../source/user_guide/upgrade2025.md:234 981d3e248f264fdbb1fd410ed2d2b0a7
+#: ../../source/user_guide/upgrade2025.md:264 981d3e248f264fdbb1fd410ed2d2b0a7
 msgid "Setting and Display of Overlapping Field of View"
 msgstr "视野重叠区域设置与显示"
 
-#: ../../source/user_guide/upgrade2025.md:235 311b34a0e1564eb3bbf8365186cf91e0
+#: ../../source/user_guide/upgrade2025.md:265 311b34a0e1564eb3bbf8365186cf91e0
 msgid "Add album function to preview captured images"
 msgstr "新增相册功能，预览拍摄过的图像"
 
-#: ../../source/user_guide/upgrade2025.md:236 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:266 a4915f5d504e4e96a954520c1e0e793f
 msgid "Scale supports fixed length"
 msgstr "比例尺支持固定长度"
 
-#: ../../source/user_guide/upgrade2025.md:237 f72d451420d04fa594a42eba34c14a80
+#: ../../source/user_guide/upgrade2025.md:267 f72d451420d04fa594a42eba34c14a80
 msgid "Time series shooting, supporting millisecond level shooting intervals"
 msgstr "时间序列拍摄，支持毫秒级别拍摄间隔"
 
-#: ../../source/user_guide/upgrade2025.md:241 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:271 a4915f5d504e4e96a954520c1e0e793f
 msgid "Optimize the jumping logic between pages"
 msgstr "优化页面之间跳转逻辑"
 
-#: ../../source/user_guide/upgrade2025.md:249 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:279 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 1.0.0"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:251 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:281 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/9/28"
 msgstr "发布日期：2025/9/28"
 
-#: ../../source/user_guide/upgrade2025.md:254 d33dbbb67b2e43de9016caf43ed67625
+#: ../../source/user_guide/upgrade2025.md:284 d33dbbb67b2e43de9016caf43ed67625
 msgid ""
 "Add Galaxy_2Window_CN_32bits-64bits_2.4.2504.9091.exe to the installation"
 " package"
 msgstr "安装包中增加Galaxy_Windows_CN_32bits-64bits_2.4.2504.9091.exe"
 
-#: ../../source/user_guide/upgrade2025.md:255 69cd99cf5c13439c944a31843f93696e
+#: ../../source/user_guide/upgrade2025.md:285 69cd99cf5c13439c944a31843f93696e
 msgid ""
 "License application supports setting expiration time according to module "
 "settings"
 msgstr "license申请支持按照模块设置过期时间"
 
-#: ../../source/user_guide/upgrade2025.md:256 ec21dadc06e246fc932a0d74959693bf
+#: ../../source/user_guide/upgrade2025.md:286 ec21dadc06e246fc932a0d74959693bf
 msgid "Limit the input range of Z-Stack parameters"
 msgstr "对Z-Stack参数输入范围进行限制"
 
-#: ../../source/user_guide/upgrade2025.md:257 82e74b4ad4dd4c6e80dd761949af6df6
+#: ../../source/user_guide/upgrade2025.md:287 82e74b4ad4dd4c6e80dd761949af6df6
 msgid "New prompt for repeatedly opening processes"
 msgstr "新增重复开启进程的提示"
 
-#: ../../source/user_guide/upgrade2025.md:258 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:288 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Add writing of complete dump file"
 msgstr "新增完整dump文件的写入"
 
-#: ../../source/user_guide/upgrade2025.md:259 8b5ed4ad8bdf4468a6d951e2f30cf9e9
+#: ../../source/user_guide/upgrade2025.md:289 8b5ed4ad8bdf4468a6d951e2f30cf9e9
 msgid "Auto focus is offset according to z-offset"
 msgstr "自动对焦按照z-offset进行偏移"
 
-#: ../../source/user_guide/upgrade2025.md:262 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:292 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fixed the issue of mask not being cleared after switching algorithms"
 msgstr "修复切换算法后，遮罩未清空问题"
 
-#: ../../source/user_guide/upgrade2025.md:263 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:293 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix Z-Stack preview related issues"
 msgstr "修复Z-Stack预览相关问题"
 
-#: ../../source/user_guide/upgrade2025.md:264 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:294 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix Z-axis calculation errors in time series shooting"
 msgstr "修复时间序列拍摄Z轴计算错误问题"
 
-#: ../../source/user_guide/upgrade2025.md:267 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:297 a4915f5d504e4e96a954520c1e0e793f
 msgid "Optimize the accuracy of autofocus algorithm"
 msgstr "优化自动对焦算法准确度"
 
-#: ../../source/user_guide/upgrade2025.md:268 4d2fd060231747c28ec5392f466c4891
+#: ../../source/user_guide/upgrade2025.md:298 4d2fd060231747c28ec5392f466c4891
 msgid "Optimization of Z-axis adjustment usage"
 msgstr "Z轴调节使用优化"
 
-#: ../../source/user_guide/upgrade2025.md:269 325659858b72411f99319caf76ba4dfe
+#: ../../source/user_guide/upgrade2025.md:299 325659858b72411f99319caf76ba4dfe
 msgid "Optimize the usage process of parameter templates"
 msgstr "优化参数模板的使用流程"
 
-#: ../../source/user_guide/upgrade2025.md:276 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:306 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.6.8-RC"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:278 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:308 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/7/24"
 msgstr "发布日期：2025/7/24"
 
-#: ../../source/user_guide/upgrade2025.md:281 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:311 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Support different Z-axis movement ranges for different objective lens "
 "configurations"
 msgstr "支持不同物镜配置不同的Z轴移动范围"
 
-#: ../../source/user_guide/upgrade2025.md:282 8d6fd495ae214321a32c952e0aa4cbce
+#: ../../source/user_guide/upgrade2025.md:312 8d6fd495ae214321a32c952e0aa4cbce
 msgid "Real time preview supports partial scanning version function"
 msgstr "实时预览支持部分扫描版功能"
 
-#: ../../source/user_guide/upgrade2025.md:285 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:315 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix control issues related to DD-2 devices"
 msgstr "修复DD-2设备相关控制问题"
 
-#: ../../source/user_guide/upgrade2025.md:286 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:316 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Fixed the issue of abnormal shooting process after enabling Z-Stack for "
 "time series shooting"
 msgstr "修复时间序列拍摄启用Z-Stack后拍摄流程异常问题"
 
-#: ../../source/user_guide/upgrade2025.md:287 f6701b4eaca54ddd8f8340b3db2a5ca6
+#: ../../source/user_guide/upgrade2025.md:317 f6701b4eaca54ddd8f8340b3db2a5ca6
 msgid "Fix the issue where advanced cell analysis cannot be used"
 msgstr "修复高级细胞分析无法使用问题"
 
-#: ../../source/user_guide/upgrade2025.md:288 b85c9f87ec034b4487041f643d487c0e
+#: ../../source/user_guide/upgrade2025.md:318 b85c9f87ec034b4487041f643d487c0e
 msgid "Repair batch scratch analysis function abnormality"
 msgstr "修复批量划痕分析功能异常"
 
-#: ../../source/user_guide/upgrade2025.md:289 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:319 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix that autofocus cannot be manually stopped"
 msgstr "修复自动对焦无法被手动停止"
 
-#: ../../source/user_guide/upgrade2025.md:292 baf0df7214544ca29fff62f7dad51316
+#: ../../source/user_guide/upgrade2025.md:322 baf0df7214544ca29fff62f7dad51316
 msgid "Improve autofocus accuracy"
 msgstr "提高自动对焦准确率"
 
-#: ../../source/user_guide/upgrade2025.md:293 3421cf824bcf45419ce8f4c7db064954
+#: ../../source/user_guide/upgrade2025.md:323 3421cf824bcf45419ce8f4c7db064954
 msgid "The exposure gain range is uniformly from 0 to 10"
 msgstr "曝光增益范围统一为0-10"
 
-#: ../../source/user_guide/upgrade2025.md:294 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:324 a4915f5d504e4e96a954520c1e0e793f
 msgid "Optimize the Z-axis user experience"
 msgstr "优化Z轴使用体验"
 
-#: ../../source/user_guide/upgrade2025.md:295 1bb1061330f44c97be5db0b7e0b0fea9
+#: ../../source/user_guide/upgrade2025.md:325 1bb1061330f44c97be5db0b7e0b0fea9
 msgid ""
 "The convergence degree of advanced cell analysis has been changed to the "
 "initial version"
 msgstr "高级细胞分析的汇合度改为最初版本"
 
-#: ../../source/user_guide/upgrade2025.md:296 21e37d7fdfc249f1893db3821cbf72b3
+#: ../../source/user_guide/upgrade2025.md:326 21e37d7fdfc249f1893db3821cbf72b3
 msgid "Optimize video recording memory usage"
 msgstr "优化视频录制内存占用"
 
-#: ../../source/user_guide/upgrade2025.md:297 4d2fd060231747c28ec5392f466c4891
+#: ../../source/user_guide/upgrade2025.md:327 4d2fd060231747c28ec5392f466c4891
 msgid "Optimization of User Parameter Template Process"
 msgstr "用户参数模板流程优化"
 
-#: ../../source/user_guide/upgrade2025.md:306 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:336 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.6.7-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:308 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:338 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/6/17"
 msgstr "发布日期：2025/6/17"
 
-#: ../../source/user_guide/upgrade2025.md:311 325659858b72411f99319caf76ba4dfe
+#: ../../source/user_guide/upgrade2025.md:341 325659858b72411f99319caf76ba4dfe
 msgid "increase Z-axis position in the parameter template"
 msgstr "参数模板增加Z轴位置"
 
-#: ../../source/user_guide/upgrade2025.md:312 cb88dc1f09754647a16dc48665f18c7f
+#: ../../source/user_guide/upgrade2025.md:342 cb88dc1f09754647a16dc48665f18c7f
 msgid "Plugin loading failed, can choose to skip"
 msgstr "插件加载失败可选择跳过此插件"
 
-#: ../../source/user_guide/upgrade2025.md:315 142be2bdd18a4822896e4273813e9960
+#: ../../source/user_guide/upgrade2025.md:345 142be2bdd18a4822896e4273813e9960
 msgid "Fix the status display after file loading"
 msgstr "修复文件加载后的状态显示"
 
-#: ../../source/user_guide/upgrade2025.md:316 21e37d7fdfc249f1893db3821cbf72b3
+#: ../../source/user_guide/upgrade2025.md:346 21e37d7fdfc249f1893db3821cbf72b3
 msgid "Fix DD-1 device unable to open issue"
 msgstr "修复DD-1无法打开问题"
 
-#: ../../source/user_guide/upgrade2025.md:324 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:354 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.6.6-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:326 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:356 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/6/16"
 msgstr "发布日期：2025/6/16"
 
-#: ../../source/user_guide/upgrade2025.md:329 8d6fd495ae214321a32c952e0aa4cbce
+#: ../../source/user_guide/upgrade2025.md:359 8d6fd495ae214321a32c952e0aa4cbce
 msgid "Real time preview, supports exporting images with multi-channel fusion"
 msgstr "实时预览，支持导出带多通道融合图像"
 
-#: ../../source/user_guide/upgrade2025.md:330 b4d139c59c37433a809ef9cbb90797c5
+#: ../../source/user_guide/upgrade2025.md:360 b4d139c59c37433a809ef9cbb90797c5
 msgid ""
 "View the file page and display the shooting parameter information of a "
 "single image"
 msgstr "查看文件页面，显示单张图像的拍摄参数信息"
 
-#: ../../source/user_guide/upgrade2025.md:331 baf0df7214544ca29fff62f7dad51316
+#: ../../source/user_guide/upgrade2025.md:361 baf0df7214544ca29fff62f7dad51316
 msgid "Added autofocus algorithm"
 msgstr "新增自动对焦算法"
 
-#: ../../source/user_guide/upgrade2025.md:332 99bf7ce9a97d44fe98fe10d40a1650ac
+#: ../../source/user_guide/upgrade2025.md:362 99bf7ce9a97d44fe98fe10d40a1650ac
 msgid "Add DD-2 and SM-1 equipment control"
 msgstr "新增DD-2和SM-1设备控制"
 
-#: ../../source/user_guide/upgrade2025.md:333 9b5ff9c7c47749469e002f6b545c6fed
+#: ../../source/user_guide/upgrade2025.md:363 9b5ff9c7c47749469e002f6b545c6fed
 msgid "Real time preview page, adding XY movement control"
 msgstr "实时预览页面，新增XY移动控制"
 
-#: ../../source/user_guide/upgrade2025.md:334 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:364 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Support Z-axis position settings for different channels for time series "
 "shooting"
 msgstr "支持不同通道的Z轴位置设置，进行时间序列拍摄"
 
-#: ../../source/user_guide/upgrade2025.md:337 326fdacf7f2547a1a85a2d1110d0acb9
+#: ../../source/user_guide/upgrade2025.md:367 326fdacf7f2547a1a85a2d1110d0acb9
 msgid "Enhancement of objective lens module"
 msgstr "物镜模块增强"
 
-#: ../../source/user_guide/upgrade2025.md:338 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:368 a4915f5d504e4e96a954520c1e0e793f
 msgid "Optimize parameter templates"
 msgstr "优化参数模板"
 
-#: ../../source/user_guide/upgrade2025.md:339 56b18a9918844296ac2ca198dd14862b
+#: ../../source/user_guide/upgrade2025.md:369 56b18a9918844296ac2ca198dd14862b
 msgid "Mask parameters are saved/loaded according to different analysis methods"
 msgstr "遮罩参数按照不同分析方法进行保存/加载"
 
-#: ../../source/user_guide/upgrade2025.md:340 73f8f19e66664626bae42633e686cc62
+#: ../../source/user_guide/upgrade2025.md:370 73f8f19e66664626bae42633e686cc62
 msgid ""
 "Real time preview, when switching objectives, it will be linked to switch"
 " Z-axis position, light intensity, gain, exposure time, etc."
 msgstr "实时预览，切换物镜时，会联动切换Z轴位置，光强，增益，曝光时间等。"
 
-#: ../../source/user_guide/upgrade2025.md:343 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:373 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Fix the issue of inconsistent histogram parameters between the real-time "
 "preview page and the image viewing page"
 msgstr "修复实时预览页面和查看图像页面直方图参数不一致问题"
 
-#: ../../source/user_guide/upgrade2025.md:344 f4dcee033e96440480d80143a3c043cf
+#: ../../source/user_guide/upgrade2025.md:374 f4dcee033e96440480d80143a3c043cf
 msgid "Fix occasional serial communication failure issues"
 msgstr "修复偶尔串口通信失败问题"
 
-#: ../../source/user_guide/upgrade2025.md:352 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:382 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.6.4-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:354 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:384 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/4/8"
 msgstr "发布日期：2025/4/8"
 
-#: ../../source/user_guide/upgrade2025.md:357 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:387 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of mask adjustment crashing"
 msgstr "修复遮罩调节导致的崩溃"
 
-#: ../../source/user_guide/upgrade2025.md:358 d233cb34fdee43f7ac15365ca9c103e9
+#: ../../source/user_guide/upgrade2025.md:388 d233cb34fdee43f7ac15365ca9c103e9
 msgid "The default time interval mode is selected for experimental settings"
 msgstr "实验设置默认按照时间间隔"
 
-#: ../../source/user_guide/upgrade2025.md:359 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:389 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Fixed the issue of being unable to proceed to the next step after "
 "importing the local image file"
 msgstr "导入本地图像文件后，无法进入下一步"
 
-#: ../../source/user_guide/upgrade2025.md:360 f82275ffac9d402cac2bf769d7d224c2
+#: ../../source/user_guide/upgrade2025.md:390 f82275ffac9d402cac2bf769d7d224c2
 msgid ""
 "Fix the image/video of the exported fluorescence channel with image "
 "enhancement effect"
 msgstr "修复导出的荧光通道的图像/视频带图像增强效果"
 
-#: ../../source/user_guide/upgrade2025.md:368 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:398 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.6.3-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:370 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:400 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/4/7"
 msgstr "发布日期：2025/4/7"
 
-#: ../../source/user_guide/upgrade2025.md:373 f4183cbd9c56491296659f28353dae30
+#: ../../source/user_guide/upgrade2025.md:403 f4183cbd9c56491296659f28353dae30
 msgid "Add a neural tracking analysis module."
 msgstr "新增神经追踪分析模块"
 
-#: ../../source/user_guide/upgrade2025.md:374 102254f4227844d4a879ecd0c29796e4
+#: ../../source/user_guide/upgrade2025.md:404 102254f4227844d4a879ecd0c29796e4
 msgid ""
 "Add automatic settings and adjust the color range in the real-time "
 "preview page"
 msgstr "实时预览页面中，新增颜色范围的自动调节功能"
 
-#: ../../source/user_guide/upgrade2025.md:375 a1ddeaa68d494e4184d74e7b45385419
+#: ../../source/user_guide/upgrade2025.md:405 a1ddeaa68d494e4184d74e7b45385419
 msgid "Reset relevant interfaces and functions between different samples"
 msgstr "不同样本之间重置相关页面和功能"
 
-#: ../../source/user_guide/upgrade2025.md:378 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:408 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of inaccurate analysis progress bar"
 msgstr "修复分析进度条显示不正确"
 
-#: ../../source/user_guide/upgrade2025.md:379 92f907c09e594f1fa96a72656a7117af
+#: ../../source/user_guide/upgrade2025.md:409 92f907c09e594f1fa96a72656a7117af
 msgid ""
 "Fix the crash caused by the mismatch between the default configuration "
 "obtained and the actual configuration"
 msgstr "修复崩溃，在保存的设备配置与实际设备配置不匹配的情况下"
 
-#: ../../source/user_guide/upgrade2025.md:380 ec2777a15df64225b8ff6d8a184d0663
+#: ../../source/user_guide/upgrade2025.md:410 ec2777a15df64225b8ff6d8a184d0663
 msgid "Fix image display anomalies in multi view situations"
 msgstr "修复异常的图像显示，在多视图情况下"
 
-#: ../../source/user_guide/upgrade2025.md:381 3d1c1b9ed43c460894a99730205d6960
+#: ../../source/user_guide/upgrade2025.md:411 3d1c1b9ed43c460894a99730205d6960
 msgid "The file has not been fully loaded, restricting access to the next step"
 msgstr "文件未加载完成，限制不允许下一步"
 
-#: ../../source/user_guide/upgrade2025.md:382 f6701b4eaca54ddd8f8340b3db2a5ca6
+#: ../../source/user_guide/upgrade2025.md:412 f6701b4eaca54ddd8f8340b3db2a5ca6
 msgid "The experiment name cannot be repeated"
 msgstr "实验名称不允许重复"
 
-#: ../../source/user_guide/upgrade2025.md:383 a96df53da7034c44bc0df77b1ded81fa
+#: ../../source/user_guide/upgrade2025.md:413 a96df53da7034c44bc0df77b1ded81fa
 msgid "Invalid image deletion repair, in the real-time preview page,"
 msgstr "修复图像删除无效，在实时预览页面"
 
-#: ../../source/user_guide/upgrade2025.md:387 2a6da9eabddc4607b234c3c646faaca6
+#: ../../source/user_guide/upgrade2025.md:417 2a6da9eabddc4607b234c3c646faaca6
 msgid "Optimize file loading"
 msgstr "优化文件加载"
 
-#: ../../source/user_guide/upgrade2025.md:388 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:418 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "During the time series shooting process, analysis failure will not stop "
 "the task"
 msgstr "在时间序列拍摄过程中，分析失败不会停止拍摄任务"
 
-#: ../../source/user_guide/upgrade2025.md:389 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:419 a4915f5d504e4e96a954520c1e0e793f
 msgid "Scratch healing rate supports setting decimals"
 msgstr "划痕愈合率支持设置小数"
 
-#: ../../source/user_guide/upgrade2025.md:390 cfe2c57b389248ccadf52f0fb408523a
+#: ../../source/user_guide/upgrade2025.md:420 cfe2c57b389248ccadf52f0fb408523a
 msgid "Verify the parameters of time series shooting"
 msgstr "时间序列拍摄的参数进行校验"
 
-#: ../../source/user_guide/upgrade2025.md:391 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:421 a4915f5d504e4e96a954520c1e0e793f
 msgid "Optimized the parameter storage for channel effect adjustment"
 msgstr "通道效果调节功能优化参数保存"
 
-#: ../../source/user_guide/upgrade2025.md:400 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:430 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.6.2-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:402
-#: ../../source/user_guide/upgrade2025.md:415 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:432
+#: ../../source/user_guide/upgrade2025.md:445 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/3/12"
 msgstr "发布日期：2025/3/12"
 
-#: ../../source/user_guide/upgrade2025.md:405 92b1c191b96541e0b9e4de9d0b936cd3
+#: ../../source/user_guide/upgrade2025.md:435 92b1c191b96541e0b9e4de9d0b936cd3
 msgid ""
 "When switching between different experimental files, the previous state "
 "was not cleared."
 msgstr "当切换不同实验文件，旧的状态未被清空"
 
-#: ../../source/user_guide/upgrade2025.md:413 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:443 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.6.1-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:418 705f2062fcf04b1295c8dd20c6c22259
+#: ../../source/user_guide/upgrade2025.md:448 705f2062fcf04b1295c8dd20c6c22259
 msgid "The left page in the analysis page supports floating"
 msgstr "分析页面左侧页面支持浮动"
 
-#: ../../source/user_guide/upgrade2025.md:419 8d6fd495ae214321a32c952e0aa4cbce
+#: ../../source/user_guide/upgrade2025.md:449 8d6fd495ae214321a32c952e0aa4cbce
 msgid ""
 "Real time preview and viewing of the left page of the image page, "
 "supporting automatic tiling."
 msgstr "实时预览和查看图像页面，支持自动平铺"
 
-#: ../../source/user_guide/upgrade2025.md:420 f0c1d3bdda4d42b3abd24166e8373c87
+#: ../../source/user_guide/upgrade2025.md:450 f0c1d3bdda4d42b3abd24166e8373c87
 msgid ""
 "Analyze data export, add a dialog box to select whether to export image "
 "files with masks."
 msgstr "导出分析数据，提供对话框选择是否需要导出带遮罩的图像文件"
 
-#: ../../source/user_guide/upgrade2025.md:421 bda6878af19940e9b4d46ac8a75fb154
+#: ../../source/user_guide/upgrade2025.md:451 bda6878af19940e9b4d46ac8a75fb154
 msgid ""
 "The Z-Stack preview page defaults to displaying the image of the first "
 "channel."
 msgstr "Z-Stack预览页面，默认第一个通道的图像进行显示"
 
-#: ../../source/user_guide/upgrade2025.md:424 af50a2b042ff4bd8aa41d245bb7d05e1
+#: ../../source/user_guide/upgrade2025.md:454 af50a2b042ff4bd8aa41d245bb7d05e1
 msgid "Image processing did not participate in the export process"
 msgstr "图像预处理未参与图像/视频导出过程"
 
-#: ../../source/user_guide/upgrade2025.md:425 3f209f67bbe641279def23a551dabb63
+#: ../../source/user_guide/upgrade2025.md:455 3f209f67bbe641279def23a551dabb63
 msgid "The problem of fluorescence transfection efficiency not being displayed"
 msgstr "荧光转染率显示异常"
 
-#: ../../source/user_guide/upgrade2025.md:426 a8ba8755e3d346f6b5b999afed39f693
+#: ../../source/user_guide/upgrade2025.md:456 a8ba8755e3d346f6b5b999afed39f693
 msgid "RWD value display error in scratch analysis"
 msgstr "RWD显示异常"
 
-#: ../../source/user_guide/upgrade2025.md:427 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:457 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the time series shooting crash caused by abnormal Z-Stack settings"
 msgstr "修复异常的Z-Stack设置导致的时间序列拍摄任务失败"
 
-#: ../../source/user_guide/upgrade2025.md:428 7543d207d1184b389d7b44713da534f2
+#: ../../source/user_guide/upgrade2025.md:458 7543d207d1184b389d7b44713da534f2
 msgid "Taskbar progress status not restored"
 msgstr "任务栏进度条状态未被还原"
 
-#: ../../source/user_guide/upgrade2025.md:429 6f579a219cb54cdeaa560c6aa3813dc4
+#: ../../source/user_guide/upgrade2025.md:459 6f579a219cb54cdeaa560c6aa3813dc4
 msgid "Real time preview page, equal color range leads to abnormal display"
 msgstr "实时预览页面，相等的色彩范围显示异常"
 
-#: ../../source/user_guide/upgrade2025.md:432 536225de583340198b6158a19092496b
+#: ../../source/user_guide/upgrade2025.md:462 536225de583340198b6158a19092496b
 msgid "Brightness and contrast are not saved by default"
 msgstr "亮度和对比度不被保存"
 
-#: ../../source/user_guide/upgrade2025.md:433 af50a2b042ff4bd8aa41d245bb7d05e1
+#: ../../source/user_guide/upgrade2025.md:463 af50a2b042ff4bd8aa41d245bb7d05e1
 msgid ""
 "The performance of image preprocessing and Z-Stack algorithm has been "
 "optimized."
 msgstr "优化图像预处理和Z-Stack的执行速度"
 
-#: ../../source/user_guide/upgrade2025.md:434 8d12d6d0dc3f4057a7da4a40dce46fd6
+#: ../../source/user_guide/upgrade2025.md:464 8d12d6d0dc3f4057a7da4a40dce46fd6
 msgid ""
 "Simulate device module, supporting loop reading of image files in the "
 "directory."
 msgstr "模拟设备模块，支持读取目录下的图像文件"
 
-#: ../../source/user_guide/upgrade2025.md:444 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:474 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.6.0-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:446 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:476 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/2/22"
 msgstr "发布日期：2025/2/22"
 
-#: ../../source/user_guide/upgrade2025.md:449 03f56a5b38d442d49b0f431d967fc6bf
+#: ../../source/user_guide/upgrade2025.md:479 03f56a5b38d442d49b0f431d967fc6bf
 msgid "Most pages have added the function of saving and restoring user parameters"
 msgstr "大部分页面新增用户参数的保存与恢复"
 
-#: ../../source/user_guide/upgrade2025.md:450 21af1b0bb1e54251bc69c934b4752ae7
+#: ../../source/user_guide/upgrade2025.md:480 21af1b0bb1e54251bc69c934b4752ae7
 msgid ""
 "Analyze the channel adjustment page on the page and add a restore "
 "function."
 msgstr "分析页面中的通道调节页面新增还原功能"
 
-#: ../../source/user_guide/upgrade2025.md:451 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:481 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Video export page, adding video preview function"
 msgstr "视频导出，新增视频预览功能"
 
-#: ../../source/user_guide/upgrade2025.md:452 9b5ff9c7c47749469e002f6b545c6fed
+#: ../../source/user_guide/upgrade2025.md:482 9b5ff9c7c47749469e002f6b545c6fed
 msgid "View image page, add preview Z-Stack function"
 msgstr "查看图像页面，新增Z-Stack图像预览"
 
-#: ../../source/user_guide/upgrade2025.md:453 af50a2b042ff4bd8aa41d245bb7d05e1
+#: ../../source/user_guide/upgrade2025.md:483 af50a2b042ff4bd8aa41d245bb7d05e1
 msgid ""
 "The results and adjustment effects of image preprocessing, participate in"
 " the subsequent analysis process"
 msgstr "图像预处理和通道调节效果，会参入后续的分析流程"
 
-#: ../../source/user_guide/upgrade2025.md:454 b41e24c5d246485ebece138972aa5798
+#: ../../source/user_guide/upgrade2025.md:484 b41e24c5d246485ebece138972aa5798
 msgid "Image viewing page, added automatic calculation of color mapping range"
 msgstr "查看图像页面，新增自动计算颜色映射范围功能"
 
-#: ../../source/user_guide/upgrade2025.md:462 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:492 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.5.7-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:464 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:494 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/2/11"
 msgstr "发布日期：2025/2/11"
 
-#: ../../source/user_guide/upgrade2025.md:467 b73fab5ada7b48b690c9f7f8f4a8cdda
+#: ../../source/user_guide/upgrade2025.md:497 b73fab5ada7b48b690c9f7f8f4a8cdda
 msgid "Add Transfection Efficiency indicator"
 msgstr "新增转染效率指标"
 
-#: ../../source/user_guide/upgrade2025.md:468 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:498 a4915f5d504e4e96a954520c1e0e793f
 msgid "Analyzing data export will export image files with masks"
 msgstr "导出分析数据将会一起导出带遮罩的图像文件"
 
-#: ../../source/user_guide/upgrade2025.md:472 83cfd94721f745119ff718e417b87a94
+#: ../../source/user_guide/upgrade2025.md:502 83cfd94721f745119ff718e417b87a94
 msgid ""
 "When the scale bar is dragged outside the image, scaling will affect the "
 "centering display."
 msgstr "当前比例尺拖拽至图像外部，缩放会影响居中显示"
 
-#: ../../source/user_guide/upgrade2025.md:476 005263de007342d1b7577758e76be0df
+#: ../../source/user_guide/upgrade2025.md:506 005263de007342d1b7577758e76be0df
 msgid "Double click the scale bar to adjust color, opacity, and width."
 msgstr "双击比例尺可弹出调节对话框"
 
-#: ../../source/user_guide/upgrade2025.md:477 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:507 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Reduce the time consumption of image/video export function"
 msgstr "减少导出图像/视频文件的耗时"
 
-#: ../../source/user_guide/upgrade2025.md:486 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:516 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.5.6-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:488 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:518 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/1/24"
 msgstr "发布日期：2025/1/24"
 
-#: ../../source/user_guide/upgrade2025.md:492 311b34a0e1564eb3bbf8365186cf91e0
+#: ../../source/user_guide/upgrade2025.md:522 311b34a0e1564eb3bbf8365186cf91e0
 msgid "Fix the automatic calculation of mapping range for bright field images"
 msgstr "修复明场图像自动计算映射范围"
 
-#: ../../source/user_guide/upgrade2025.md:493 21e37d7fdfc249f1893db3821cbf72b3
+#: ../../source/user_guide/upgrade2025.md:523 21e37d7fdfc249f1893db3821cbf72b3
 msgid "Fix AVI video frame abnormality issue"
 msgstr "修复AVI视频画面异常问题"
 
-#: ../../source/user_guide/upgrade2025.md:494 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:524 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of blurry images in MP4 videos"
 msgstr "修复MP4视频画面模糊问题"
 
-#: ../../source/user_guide/upgrade2025.md:503 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:533 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.5.5-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:505 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:535 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/1/23"
 msgstr "发布日期：2025/1/23"
 
-#: ../../source/user_guide/upgrade2025.md:508 a05980e706ee4eb29b88ffec7d11ea1a
+#: ../../source/user_guide/upgrade2025.md:538 a05980e706ee4eb29b88ffec7d11ea1a
 msgid "Analysis parameters can restore default values"
 msgstr "分析参数还原默认数值"
 
-#: ../../source/user_guide/upgrade2025.md:509 5f1284be2532459d9654a71586eebdfa
+#: ../../source/user_guide/upgrade2025.md:539 5f1284be2532459d9654a71586eebdfa
 msgid "Add background correction function"
 msgstr "新增背景校正功能"
 
-#: ../../source/user_guide/upgrade2025.md:510 311b34a0e1564eb3bbf8365186cf91e0
+#: ../../source/user_guide/upgrade2025.md:540 311b34a0e1564eb3bbf8365186cf91e0
 msgid ""
 "Image enhancement and background correction are only effective for bright"
 " field images"
 msgstr "图像增强和背景校正只对明场有效"
 
-#: ../../source/user_guide/upgrade2025.md:511 dc90c569790147b499f2f29ee53116a5
+#: ../../source/user_guide/upgrade2025.md:541 dc90c569790147b499f2f29ee53116a5
 msgid "Add video recording function"
 msgstr "新增录制视频功能"
 
-#: ../../source/user_guide/upgrade2025.md:512 9b5ff9c7c47749469e002f6b545c6fed
+#: ../../source/user_guide/upgrade2025.md:542 9b5ff9c7c47749469e002f6b545c6fed
 msgid "Real time preview page adds snapshot export function"
 msgstr "实时预览页面新增快照导出功能"
 
-#: ../../source/user_guide/upgrade2025.md:513 1d8fb72056db4486b42f3d8f871763f2
+#: ../../source/user_guide/upgrade2025.md:543 1d8fb72056db4486b42f3d8f871763f2
 msgid ""
 "All captured images are automatically saved in TIFF format in the "
 "designated folder"
 msgstr "所有拍摄图像自动保存在指定文件夹"
 
-#: ../../source/user_guide/upgrade2025.md:514 2aa75234299347aa83948c36eab361f0
+#: ../../source/user_guide/upgrade2025.md:544 2aa75234299347aa83948c36eab361f0
 msgid "Add SA-40X objective lens"
 msgstr "新增SA-40X物镜"
 
-#: ../../source/user_guide/upgrade2025.md:518 20ec841d0fb0471f8d74813e617a54e6
+#: ../../source/user_guide/upgrade2025.md:548 20ec841d0fb0471f8d74813e617a54e6
 msgid "Fix the captured image that is not suitable for the color range"
 msgstr "修复拍摄图像未适应色彩范围调节"
 
-#: ../../source/user_guide/upgrade2025.md:519 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:549 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix that contrast and brightness cannot be applied to exported images"
 msgstr "修复亮度与对比度调节未适应导出的图像"
 
-#: ../../source/user_guide/upgrade2025.md:520 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:550 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of incorrect display of exported video time"
 msgstr "修复导出的视频的时间不正确问题"
 
-#: ../../source/user_guide/upgrade2025.md:521 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:551 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of incomplete deletion of analysis records"
 msgstr "修复分析记录未被彻底删除问题"
 
-#: ../../source/user_guide/upgrade2025.md:522 f6701b4eaca54ddd8f8340b3db2a5ca6
+#: ../../source/user_guide/upgrade2025.md:552 f6701b4eaca54ddd8f8340b3db2a5ca6
 msgid "Fix the issue where the 4X and 40X objective lenses cannot be selected"
 msgstr "修复4X和40X物镜无法被选中问题"
 
-#: ../../source/user_guide/upgrade2025.md:530 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:560 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.5.3-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:532 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:562 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/1/14"
 msgstr "发布日期：2025/1/14"
 
-#: ../../source/user_guide/upgrade2025.md:535 2aa75234299347aa83948c36eab361f0
+#: ../../source/user_guide/upgrade2025.md:565 2aa75234299347aa83948c36eab361f0
 msgid "Add A-4X objective lens"
 msgstr "新增A-4X物镜"
 
-#: ../../source/user_guide/upgrade2025.md:536 142be2bdd18a4822896e4273813e9960
+#: ../../source/user_guide/upgrade2025.md:566 142be2bdd18a4822896e4273813e9960
 msgid "Display the status of experiment file loading failure"
 msgstr "显示实验文件加载失败状态"
 
-#: ../../source/user_guide/upgrade2025.md:537 92ab486b29a94ce2801fc212b7ec6ba1
+#: ../../source/user_guide/upgrade2025.md:567 92ab486b29a94ce2801fc212b7ec6ba1
 msgid "New device connection status and open/close status display"
 msgstr "设备连接与打开关闭状态显示"
 
-#: ../../source/user_guide/upgrade2025.md:538 0c86ccb7f9dd4d1d8228c95403bcf013
+#: ../../source/user_guide/upgrade2025.md:568 0c86ccb7f9dd4d1d8228c95403bcf013
 msgid "Add a secondary confirmation dialog box for exiting the program"
 msgstr "新增退出程序时的二次确认对话框"
 
-#: ../../source/user_guide/upgrade2025.md:539 aafb18a3b4f84841aee1fc82a33acb70
+#: ../../source/user_guide/upgrade2025.md:569 aafb18a3b4f84841aee1fc82a33acb70
 msgid "Automatically obtain the latest license status at regular intervals"
 msgstr "自动获取许可证的最新状态信息"
 
-#: ../../source/user_guide/upgrade2025.md:540 cec0dc834796497bb6d9c0054eb79b13
+#: ../../source/user_guide/upgrade2025.md:570 cec0dc834796497bb6d9c0054eb79b13
 msgid "Export ZStack image with pseudo color"
 msgstr "导出ZStack图像带伪彩"
 
-#: ../../source/user_guide/upgrade2025.md:543 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:573 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Fix the issue of inaccurate calculation of remaining time in the "
 "experiment run"
 msgstr "修复实验运行剩余时间计算的不准确问题"
 
-#: ../../source/user_guide/upgrade2025.md:544 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:574 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of incorrect calculation of the quantity of exported ZStack"
 msgstr "修复导出ZStack的图像个数计算不正确问题"
 
-#: ../../source/user_guide/upgrade2025.md:545 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:575 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of unable to interrupt the process of exporting ZStack"
 msgstr "修复导出ZStack图像无法被中断的问题"
 
-#: ../../source/user_guide/upgrade2025.md:546 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:576 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid "Fix the issue of abnormal crashes caused by stopping experiments"
 msgstr "修复停止实验的异常崩溃问题"
 
-#: ../../source/user_guide/upgrade2025.md:547 f6701b4eaca54ddd8f8340b3db2a5ca6
+#: ../../source/user_guide/upgrade2025.md:577 f6701b4eaca54ddd8f8340b3db2a5ca6
 msgid "Fix the issue where exported AVI format videos cannot be played"
 msgstr "修复导出的AVI格式视频无法正常播放问题"
 
-#: ../../source/user_guide/upgrade2025.md:551 a4915f5d504e4e96a954520c1e0e793f
+#: ../../source/user_guide/upgrade2025.md:581 a4915f5d504e4e96a954520c1e0e793f
 msgid "Optimize the loading speed of export pages and image selection pages"
 msgstr "优化导出页面和图像选择页面的加载速度"
 
-#: ../../source/user_guide/upgrade2025.md:562 e9e23ad699bc4cc98adb8df754f795cb
+#: ../../source/user_guide/upgrade2025.md:592 e9e23ad699bc4cc98adb8df754f795cb
 msgid "Version 0.5.2-beta"
 msgstr ""
 
-#: ../../source/user_guide/upgrade2025.md:564 021cde3712174a66b893c35f45b7205e
+#: ../../source/user_guide/upgrade2025.md:594 021cde3712174a66b893c35f45b7205e
 msgid "Release Date : 2025/1/7"
 msgstr "发布日期：2025/1/7"
 
-#: ../../source/user_guide/upgrade2025.md:567 d9b8ba1f0d7d4315af6dde63db829151
+#: ../../source/user_guide/upgrade2025.md:597 d9b8ba1f0d7d4315af6dde63db829151
 msgid "Some pages add pseudo color mapping"
 msgstr "一些页面新增伪彩显示"
 
-#: ../../source/user_guide/upgrade2025.md:568 f72d451420d04fa594a42eba34c14a80
+#: ../../source/user_guide/upgrade2025.md:598 f72d451420d04fa594a42eba34c14a80
 msgid ""
 "Time series shooting adds warning information for all black or all white "
 "images"
 msgstr "时间序列拍摄过程中新增图像全黑或全白的预警提示"
 
-#: ../../source/user_guide/upgrade2025.md:571 8b4b41ec7cdd4613bbb0f99835cb4ca2
+#: ../../source/user_guide/upgrade2025.md:601 8b4b41ec7cdd4613bbb0f99835cb4ca2
 msgid ""
 "Fixed the issue of incorrect image switching between different channels "
 "on the detailed page of the experiment run"
 msgstr "修复不正确的图像切换在实验运行详细页面"
 
-#: ../../source/user_guide/upgrade2025.md:572 196caf32f72346d0ad69bab73671bfd7
+#: ../../source/user_guide/upgrade2025.md:602 196caf32f72346d0ad69bab73671bfd7
 msgid "Prevent screen shaking caused by multiple resets"
 msgstr "防止多次复位导致画面抖动"
 
-#: ../../source/user_guide/upgrade2025.md:575 8772fe416bc44c309f8a5d874facd4ee
+#: ../../source/user_guide/upgrade2025.md:605 8772fe416bc44c309f8a5d874facd4ee
 msgid "Modify the default mask color"
 msgstr "修改默认的遮罩颜色"
 

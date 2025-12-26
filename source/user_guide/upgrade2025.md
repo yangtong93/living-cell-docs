@@ -1,5 +1,35 @@
 # 2025 Version Update
 
+## Version 1.1.1-beta
+
+Release Date : 2025/12/26
+
+### New
+* Real time preview page, with adjustable field of view overlap rate.
+* Multi hole multi view shooting and one click multi-channel shooting, supporting customizable channel sequence.
+* Real time preview page, add a button for setting the starting point of hole focusing.
+* Add shadow correction processing to the image page. (Used for stitched images)
+* Add fluorescence denoising algorithm to the image page.
+* Shoot the hole positions in order according to the shortest path.
+
+### Optimize
+* SM-3's movement speed has increased.
+
+### Fix
+* Fixed issues with real-time preview, multi hole multi view shooting, and ineffective focus starting point/range.  
+* Fixed the issue of ineffective focus starting point/range during time series shooting.  
+* Interval autofocus starts from the first field of view within each hole, with N fields of view spaced apart.
+* Fix abnormal image viewing function for local files
+* Fix abnormal export image/video function of local files.
+* Switching the fluorescent channel to the bright field channel can solve occasional overexposure in the image.
+* Solve the problem of shortest path planning and long time
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.1.0-beta
 
 Release Date : 2025/12/18
