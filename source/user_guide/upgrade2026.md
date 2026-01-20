@@ -1,5 +1,29 @@
 # 2026 Version Update
 
+## Version 1.2.0-beta
+
+Release Date : 2026/1/20
+
+### New
+* SM-2 and SM-3 devices support slide and petri dish analysis, as well as related calibration functions
+* Support video export of images after splicing
+* Add automatic pre-focus function
+* Chinese-English translation
+* Beautify UI
+
+### Optimize
+* Optimize the effect of automatic exposure
+
+### Fix
+* Fix the issue of crashing when opening experimental files
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.1.2-beta
 
 Release Date : 2026/1/8

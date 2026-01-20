@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CellPerception \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-08 17:25+0800\n"
+"POT-Creation-Date: 2026-01-20 11:29+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -25,94 +25,143 @@ msgid "2026 Version Update"
 msgstr "2026版本更新说明"
 
 #: ../../source/user_guide/upgrade2026.md:3 cc712814e90a4bb7b86671c633e74c8a
-msgid "Version 1.1.2-beta"
+msgid "Version 1.2.0-beta"
 msgstr ""
 
 #: ../../source/user_guide/upgrade2026.md:5 95ec84b6713f46228c731bdd4d6a2045
-msgid "Release Date : 2026/1/8"
-msgstr "发布日期：2026/1/8"
+msgid "Release Date : 2026/1/20"
+msgstr "发布日期：2026/1/20"
 
-#: ../../source/user_guide/upgrade2026.md:7 6c606fd35c29485ab0c356454878a9fb
+#: ../../source/user_guide/upgrade2026.md:7
+#: ../../source/user_guide/upgrade2026.md:31 6c606fd35c29485ab0c356454878a9fb
+#: 8877aeefaffc4ec9bced0f29db3bceb4
 msgid "New"
 msgstr "新增"
 
-#: ../../source/user_guide/upgrade2026.md:8 e397990feaa84d4d8728c378f7afcbed
+#: ../../source/user_guide/upgrade2026.md:8 9ca19b437fcb49fcac60cddbf1311174
+msgid ""
+"SM-2 and SM-3 devices support slide and petri dish analysis, as well as "
+"related calibration functions"
+msgstr "SM-2和SM-3设备，支持载玻片和培养皿以及相关的校准功能"
+
+#: ../../source/user_guide/upgrade2026.md:9 b2cd39a28339431493b6f2d35043c7d7
+msgid "Support video export of images after splicing"
+msgstr "支持拼接后的图像进行视频导出"
+
+#: ../../source/user_guide/upgrade2026.md:10 c4b0c6e69d374b419599432b9ebf5586
+msgid "Add automatic pre-focus function"
+msgstr "增加自动预对焦功能"
+
+#: ../../source/user_guide/upgrade2026.md:11 233191328dc94418b5a7b528eac9c558
+msgid "Chinese-English translation"
+msgstr "中英文翻译"
+
+#: ../../source/user_guide/upgrade2026.md:12 706bdea11b044a96b9ff08de9518571f
+msgid "Beautify UI"
+msgstr "美化UI"
+
+#: ../../source/user_guide/upgrade2026.md:14
+#: ../../source/user_guide/upgrade2026.md:38 c63db34f3eca4161adceeac02e95d0a4
+#: e1393feb8628449ca5d4d37e485ebb23
+msgid "Optimize"
+msgstr "优化"
+
+#: ../../source/user_guide/upgrade2026.md:15 e11e4914e71247e49ceb51b0b39a52f9
+msgid "Optimize the effect of automatic exposure"
+msgstr "优化自动曝光的效果"
+
+#: ../../source/user_guide/upgrade2026.md:17
+#: ../../source/user_guide/upgrade2026.md:41 400d2b6a88964d38b34bc95d7b9841e0
+#: a73e517a844948a18af83e43a4a26454
+msgid "Fix"
+msgstr "修复"
+
+#: ../../source/user_guide/upgrade2026.md:18 bac242b5601f460dbca6e3129bea15c4
+msgid "Fix the issue of crashing when opening experimental files"
+msgstr "修复打开实验文件崩溃问题"
+
+#: ../../source/user_guide/upgrade2026.md:21
+#: ../../source/user_guide/upgrade2026.md:47 8877aeefaffc4ec9bced0f29db3bceb4
+msgid "Notes"
+msgstr "备注"
+
+#: ../../source/user_guide/upgrade2026.md:22
+#: ../../source/user_guide/upgrade2026.md:48 46c812791efa47258000a3b7dbdbf720
+msgid "This is still a beta version and may contain many bugs."
+msgstr "这是一个测试版本，可能存在许多BUG"
+
+#: ../../source/user_guide/upgrade2026.md:23
+#: ../../source/user_guide/upgrade2026.md:49 af00f2ede90a4c22b9b99b5c16052762
+msgid "Only supports Windows 7/10 (x64) or above"
+msgstr "只支持Windows 7/10 (x64) 及以上"
+
+#: ../../source/user_guide/upgrade2026.md:24
+#: ../../source/user_guide/upgrade2026.md:50 8d2dfacff4884dc7a2b5100c52079766
+msgid "OpenGL 2.1 or above"
+msgstr "OpenGL 2.1 及以上"
+
+#: ../../source/user_guide/upgrade2026.md:25
+#: ../../source/user_guide/upgrade2026.md:51 1ce9efb58585422b841a398ec3d91158
+msgid "Some modules require license authorization to be used"
+msgstr "某些模块需要许可证授权才可使用"
+
+#: ../../source/user_guide/upgrade2026.md:27 cc712814e90a4bb7b86671c633e74c8a
+msgid "Version 1.1.2-beta"
+msgstr ""
+
+#: ../../source/user_guide/upgrade2026.md:29 95ec84b6713f46228c731bdd4d6a2045
+msgid "Release Date : 2026/1/8"
+msgstr "发布日期：2026/1/8"
+
+#: ../../source/user_guide/upgrade2026.md:32 e397990feaa84d4d8728c378f7afcbed
 msgid ""
 "In the local file workflow, viewing files supports the display of scanned"
 " data files"
 msgstr "本地文件流程中查看文件支持扫描数据文件的显示"
 
-#: ../../source/user_guide/upgrade2026.md:9 d0bd80053eeb4cc590e0d14ad432e488
+#: ../../source/user_guide/upgrade2026.md:33 d0bd80053eeb4cc590e0d14ad432e488
 msgid ""
 "In the local file workflow, batch selection and analysis of images are "
 "supported"
 msgstr "本地文件流程中，支持批量选择与分析图像"
 
-#: ../../source/user_guide/upgrade2026.md:10 c1a9f9f2ce1443ea8cd3d3ce75e689a3
+#: ../../source/user_guide/upgrade2026.md:34 c1a9f9f2ce1443ea8cd3d3ce75e689a3
 msgid "Time-series shooting supports customizable shooting channel order"
 msgstr "时间序列拍摄支持自定义拍摄通道顺序"
 
-#: ../../source/user_guide/upgrade2026.md:11 88f09e73bf8541cf90604257b30f2e5e
+#: ../../source/user_guide/upgrade2026.md:35 88f09e73bf8541cf90604257b30f2e5e
 msgid "The photo album supports batch export of image files"
 msgstr "相册支持批量导出图像文件"
 
-#: ../../source/user_guide/upgrade2026.md:12 5c41f332e7c7451da0c07e1e6916910e
+#: ../../source/user_guide/upgrade2026.md:36 5c41f332e7c7451da0c07e1e6916910e
 msgid ""
 "Exporting images and videos supports image preprocessing and field of "
 "view filtering"
 msgstr "导出图像与视频支持图像预处理与视野筛选"
 
-#: ../../source/user_guide/upgrade2026.md:14 c63db34f3eca4161adceeac02e95d0a4
-msgid "Optimize"
-msgstr "优化"
-
-#: ../../source/user_guide/upgrade2026.md:15 e11e4914e71247e49ceb51b0b39a52f9
+#: ../../source/user_guide/upgrade2026.md:39 e11e4914e71247e49ceb51b0b39a52f9
 msgid "Optimize the performance of the stitching algorithm"
 msgstr "优化拼接算法的性能"
 
-#: ../../source/user_guide/upgrade2026.md:17 a73e517a844948a18af83e43a4a26454
-msgid "Fix"
-msgstr "修复"
-
-#: ../../source/user_guide/upgrade2026.md:18 8ea956a5d22f4838b56b4029ee77a01c
+#: ../../source/user_guide/upgrade2026.md:42 8ea956a5d22f4838b56b4029ee77a01c
 msgid ""
 "Fix the issue where the scale bar cannot be displayed on the image "
 "analysis page"
 msgstr "修复图像分析页面比例尺无法显示异常"
 
-#: ../../source/user_guide/upgrade2026.md:19 bac242b5601f460dbca6e3129bea15c4
+#: ../../source/user_guide/upgrade2026.md:43 bac242b5601f460dbca6e3129bea15c4
 msgid ""
 "Fix the issue that the single-view image cannot be displayed on the image"
 " analysis page"
 msgstr "修复图像分析页面无法显示单视野图像"
 
-#: ../../source/user_guide/upgrade2026.md:20 b3cc5f52ef7b4e64b2e86de3a18c1810
+#: ../../source/user_guide/upgrade2026.md:44 b3cc5f52ef7b4e64b2e86de3a18c1810
 msgid ""
 "Fix the issue of abnormal focus starting point and range in multi-porous "
 "and multi-view shooting"
 msgstr "修复多孔多视野拍摄对焦起点和范围异常问题"
 
-#: ../../source/user_guide/upgrade2026.md:21 7547fb0ece094f72b7e387b8cea0e138
+#: ../../source/user_guide/upgrade2026.md:45 7547fb0ece094f72b7e387b8cea0e138
 msgid "Fix issues related to zstack shooting in the time series shooting module"
 msgstr "修复时间序列拍摄模块拍摄zstack相关问题"
-
-#: ../../source/user_guide/upgrade2026.md:23 8877aeefaffc4ec9bced0f29db3bceb4
-msgid "Notes"
-msgstr "备注"
-
-#: ../../source/user_guide/upgrade2026.md:24 46c812791efa47258000a3b7dbdbf720
-msgid "This is still a beta version and may contain many bugs."
-msgstr "这是一个测试版本，可能存在许多BUG"
-
-#: ../../source/user_guide/upgrade2026.md:25 af00f2ede90a4c22b9b99b5c16052762
-msgid "Only supports Windows 7/10 (x64) or above"
-msgstr "只支持Windows 7/10 (x64) 及以上"
-
-#: ../../source/user_guide/upgrade2026.md:26 8d2dfacff4884dc7a2b5100c52079766
-msgid "OpenGL 2.1 or above"
-msgstr "OpenGL 2.1 及以上"
-
-#: ../../source/user_guide/upgrade2026.md:27 1ce9efb58585422b841a398ec3d91158
-msgid "Some modules require license authorization to be used"
-msgstr "某些模块需要许可证授权才可使用"
 
