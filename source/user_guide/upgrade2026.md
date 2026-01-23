@@ -1,5 +1,33 @@
 # 2026 Version Update
 
+## Version 1.2.1-beta
+
+Release Date : 2026/1/23
+
+### New
+* Increase the calibration coefficient for UPLXAPO60XO and UPlanAPO100X objectives
+* The time-series shooting module supports the setting of automatic exposure for different channels
+* The vessel parameter correction function has been enhanced with a termination function
+* Added function to delete expired log files
+* Add video preview function
+* The field of view grid supports popping up as a dialog box
+
+### Optimize
+* Optimize the pre-focus function, add a termination function, and refine the prompt information
+
+### Fix
+* Fix the discrepancy in the display of images and grids
+* Fix the issue that shooting cannot be resumed after being paused in time series shooting
+* Fix the abnormal function of color range
+* Fixing automatic exposure is not a separate channel setting
+
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.2.0-beta
 
 Release Date : 2026/1/20
