@@ -1,5 +1,26 @@
 # 2026 Version Update
 
+## Version 1.2.2-beta
+
+Release Date : 2026/4/1
+
+### New
+* New well plate display: The processes of experiment browsing, image analysis, and image viewing all utilize the new well plate interface.
+* When opening an experimental file, it displays the reading progress and supports previewing file information.
+* Provide more explicit error messages when the device is abnormal.
+
+### Fix
+* Image stitching anomaly, multi-view scanning anomaly, image analysis crash, display and rendering anomaly.
+* The encrypted experiment file cannot be created normally, and the same content is repeatedly displayed.
+* The display related to the scale unit or objective lens is incorrect.
+* Occasional communication interruptions and other issues with Lianhua SM-3 equipment.
+
+### Notes
+* This is still a beta version and may contain many bugs.
+* Only supports Windows 7/10 (x64) or above
+* OpenGL 2.1 or above
+* Some modules require license authorization to be used
+
 ## Version 1.2.1-beta
 
 Release Date : 2026/1/23
